@@ -4,22 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3571f296ab84c8a",
+        "id": "26541b0760dc0c91",
         "type": "tabs",
         "children": [
           {
-            "id": "ba47e0b556cf3154",
+            "id": "f95c998055b37c21",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "公众号/清汤泥鳅/ALT-Reviews 音乐简报/readme.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "readme"
             }
           }
         ]
@@ -90,37 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9105a50a75556a26",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "反向链接"
-            }
-          },
-          {
-            "id": "88d13784ed07e198",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "出链"
-            }
-          },
-          {
             "id": "b9c09c155e5285aa",
             "type": "leaf",
             "state": {
@@ -141,12 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "公众号/清汤泥鳅/ALT-Reviews 音乐简报/readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "readme 的大纲"
             }
           },
           {
@@ -158,13 +127,46 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "9105a50a75556a26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "公众号/清汤泥鳅/ALT-Reviews 音乐简报/readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "readme 的反向链接列表"
+            }
+          },
+          {
+            "id": "88d13784ed07e198",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "公众号/清汤泥鳅/ALT-Reviews 音乐简报/readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "readme 的出链列表"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,12 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba47e0b556cf3154",
+  "active": "f95c998055b37c21",
   "lastOpenFiles": [
-    "公众号/retroglot/ALT-Reviews 音乐简报/readme.md",
-    "公众号/retroglot/ALT-Reviews 音乐简报",
+    "未命名.md",
     "公众号/250822 中国UP主成为不了MrBeast.md",
-    "公众号/retroglot",
+    "公众号/清汤泥鳅/未命名.md",
+    "⛨ Articles/From Music Publishing to MP3 - Music and Industry in the Twentieth Century.md",
+    "⁂ Musings/【短篇】触手可及的知识工具，为何成为少数人的特权？.md",
+    "公众号/清汤泥鳅/ALT-Reviews 音乐简报/readme.md",
+    "公众号/清汤泥鳅/ALT-Reviews 音乐简报",
+    "公众号/清汤泥鳅",
     "公众号",
     "⬡ Intelligent Knowledge Base/血酬定律/临城大劫案.md",
     "⬡ Intelligent Knowledge Base/血酬定律/保甲制度.md",
@@ -214,10 +220,6 @@
     "§ Lecture-Notes/音乐产权保护与管理.md",
     "§ Lecture-Notes/艺术家经纪与代理.md",
     "§ Lecture-Notes/当代艺术.md",
-    "§ Lecture-Notes/国际演艺大会",
-    "⛨ Proses/Gabriële/Gabriële.md",
-    "⛨ Proses/Gabriële/1. L'ensorcellement (L'encerclement).md",
-    "⛨ Proses/Gabriële/加布丽埃尔.md",
-    "⛨ Books/❦ Cambridge UP/The Cambridge Companion to/Electronic Music/章节/Ⅰ. The Origins of Electronic Music.md"
+    "§ Lecture-Notes/国际演艺大会"
   ]
 }

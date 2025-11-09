@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://open.bigmodel.cn/api/paas/v4/",
+  "apiKey": "34a3eb0606764449aac5f06aea47d6b4.siw5ndRyqcc1Co3s",
+  "model": "glm-4.5-air",
+  "maxTokens": 15680
+}

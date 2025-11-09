@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "e1eb2f7227d365ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3571f296ab84c8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba47e0b556cf3154",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fbbf9beac6e35ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3e8d40f08f916eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8dbe0cf1adafa376",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "014a2dab78409879",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bfcab18cf111ef6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.50714111328125
+  },
+  "right": {
+    "id": "a0aba535c1a66c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "106e51ac2f0090ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9105a50a75556a26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "88d13784ed07e198",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b9c09c155e5285aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d51de3eb5038a18d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "d36213863e8314c3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false,
+      "edge-tts:Read note aloud": false,
+      "ai-bot:Ask AI": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d36213863e8314c3",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "LICENSE",
+    "⛨ Articles/Imaginative Appropriations of Music in the New Communicative Scenarios.md",
+    "⛨ Articles/From Music Publishing to MP3 - Music and Industry in the Twentieth Century.md",
+    "§ Notes for Articles/From Music Publishing to MP3 - Music and Industry in the Twentieth Century.md",
+    "公众号/250822 中国UP主成为不了MrBeast.md",
+    "§ Notes for Books/✐ 台灣圖書/民法經濟法論文集（一）.md",
+    "⛨ Books/❦ Cambridge UP/The Cambridge Companion to/Electronic Music/章节/Ⅰ. The Origins of Electronic Music.md",
+    "⛨ Proses/Gabriële/1. L'ensorcellement (L'encerclement).md",
+    "⛨ Proses/Gabriële/Gabriële.md",
+    "§ Notes for Books/❦ Cambridge UP/The Cambridge Companion to Electronic Music ✎.md",
+    "§ Notes for Articles/综合舞台艺术史：中国音乐史的缺失与尴尬.md",
+    "🙘 Treatises/123.md",
+    "🙘 Treatises/F/未命名.md",
+    "🙘 Treatises/❦ Cambridge UP/The Cambridge Companion to Electronic Music.md",
+    "🙘 Treatises/❦ Cambridge UP",
+    "🙘 Treatises/F",
+    "🙘 Treatises",
+    "ALT-Ratings-AM - 副本",
+    "§ Lecture-Notes/国际演艺大会/251018 粤港澳大湾区专场推介会.md",
+    "§ Lecture-Notes/国际演艺大会/251018 主旨对话：“智造”新范式——全球艺术AI革新.md",
+    "⬡ Intelligent Knowledge Base/云计算学习路径.md",
+    "⛨ Proses/Gabriële/加布丽埃尔.md",
+    "§ Notes for Films.md",
+    "未命名.md",
+    "未命名",
+    "⛨ Proses/Gabriële",
+    "§ Notes for Textbooks/和声学教程 ♦ 斯波索宾.md",
+    "官方文档/Lucide/{Installation}.md",
+    "官方文档/Lucide/{Lucide index}.md",
+    "官方文档/Lucide/Lucide.md",
+    "docs/index.md",
+    "docs/艺术法概论.md",
+    "§ Notes for Books/✐ CIP",
+    "§ Notes for Proses",
+    "§ Notes for Books/❦ Edinburgh UP"
+  ]
+}

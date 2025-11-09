@@ -1,0 +1,10 @@
+{
+  "ai-bot:open-ask-ai-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ]
+}

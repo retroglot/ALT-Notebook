@@ -1,4 +1,4 @@
-# MUSIC, YOUTUBE, AND ACADEMIC LIBRARIES
+# Music, Youtube, and Academic Libraries
 
 > KIRSTIN DOUGAN
 

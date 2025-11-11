@@ -1,8 +1,10 @@
 # A Case Study on Spotify: Exploring Perceptions of the Music Streaming Service
 
-Kate Swanson
+> KATE SWANSON
 
-The MEIEA Journal occasionally features outstanding student papers. This undergraduate research paper was written by Kate Swanson, a recent graduate of Indiana University.
+> KATE SWANSON is a recent graduate from the School of Public and Environmental Affairs at Indiana University with a degree in Arts Management. She has had diverse experience working in the music industry. From internships at a music publicity company and a booking agency, to working as a publicist and event consultant for a start-up music festival, Kate brings a unique perspective to the discussion of digitization and new music streaming technology. She currently resides in Chicago, Illinois and is working as a production assistant on the television show Judge Mathis.
+
+> The MEIEA Journal occasionally features outstanding student papers. This undergraduate research paper was written by Kate Swanson, a recent graduate of Indiana University.
 
 # Abstract
 
@@ -12,7 +14,9 @@ Prominent artists such as Taylor Swift and The Black Keys have begun speaking ou
 
 Whether we like it or not, Spotify and related music streaming services represent a window into the future of the music industry. This study investigates the perceptions of streaming services like Spotify from the perspective of all parties involved: music industry professionals, artists, and consumers in order to identify perceived needs and positive developments. The conclusion offers suggestions for the future role of streaming services in the music industry based on the survey and interview results.
 
-Keywords: Spotify, music streaming, music industry, music technology
+# Keywords
+
+> Spotify, music streaming, music industry, music technology
 
 # Introduction
 
@@ -26,9 +30,7 @@ Throughout this report, I discuss perceptions of the streaming service Spotify f
 
 Spotify was first launched in October 2008 in Europe. Founder Daniel Ek saw an opportunity to utilize new technology to create a product that was better than piracy.5 Once Spotify secured its spot as the second largest digital revenue generator in Europe, it entered the U.S. market in 2011.6
 
-Spotify functions much like the popular downloading service iTunes. Wired magazine's Eliot Van Buskirk describes Spotify as, "a magical version of iTunes in which you've already bought every song in the world."7 Music can be browsed using a search tool by track name, artist, or album. Users have the option of registering for a free account, supported by visual and radio-style advertising, or for one of two paid subscription models, which are ad-free and offer a range of additional features, such as higher bit rate streams and offline access to music. In the U.S. there are three types of Spotify accounts: Spotify Free, Spotify Unlimited, and Spotify Premium. The paid subscriptions are entirely free of ads and the listening time is unlimited. An unlimited subscription of  $4.99 per month allows for unlimited access to Spotify's catalog on a desktop computer; a premium subscription of$ 9.99 per month offers unlimited listening and allows users to access Spotify on mobile devices and offline access to playlists.8
-
-By offering a "freemium" option, Spotify hopes to encourage free users to convert to paying users. According to a source, the conversion rate from free to paid is about twenty-five percent.[9]
+Spotify functions much like the popular downloading service iTunes. Wired magazine's Eliot Van Buskirk describes Spotify as, "a magical version of iTunes in which you've already bought every song in the world."7 Music can be browsed using a search tool by track name, artist, or album. Users have the option of registering for a free account, supported by visual and radio-style advertising, or for one of two paid subscription models, which are ad-free and offer a range of additional features, such as higher bit rate streams and offline access to music. In the U.S. there are three types of Spotify accounts: Spotify Free, Spotify Unlimited, and Spotify Premium. The paid subscriptions are entirely free of ads and the listening time is unlimited. An unlimited subscription of  $4.99 per month allows for unlimited access to Spotify's catalog on a desktop computer; a premium subscription of$ 9.99 per month offers unlimited listening and allows users to access Spotify on mobile devices and offline access to playlists.8 By offering a "freemium" option, Spotify hopes to encourage free users to convert to paying users. According to a source, the conversion rate from free to paid is about twenty-five percent.[9]
 
 Spotify distributes back seventy percent in royalties "based on a pro rata share in accordance with the popularity of a piece of music."[10] This is paid out to whomever owns the rights to the music. In some cases, the artist owns his or her master recordings. In most cases, a record label or distributor owns these rights. The amount Spotify pays out is a pre-negotiated rate per-play or per-percent of revenue for streams. Although artists receive different royalties depending on deals made with their labels and distributors, on average, this amounts to $0.004 or just under half a cent per stream.
 
@@ -42,9 +44,7 @@ Widespread digitization of music began in 1983 with the introduction of the comp
 
 In the early 1990s, the MP3 was introduced. MP3 files are about eleven times smaller than their predecessor, allowing files to be sent via email and downloaded. Files could now be shared online and through email. This granted music the opportunity to be portable.
 
-In 1999, the first large-scale peer-to-peer (P2P) service was introduced: Napster. Founded by eighteen-year-old Shawn Fanning, Napster
-
-was a platform allowing people to share and swap MP3 music files.[13] The service allowed people access to whatever music they wanted, when they wanted it, and for free. Just nine months following its launch, the Napster community numbered more than twenty million users, and grew every day.[14] At its peak, Napster had over fifty-seven million users.[15] The service has since been shut down for copyright infringement, but its effects are still felt. Since Napster emerged, "music sales in the U.S. have dropped 47 percent, from  $14.6 billion to$ 7.7 billion."[16]
+In 1999, the first large-scale peer-to-peer (P2P) service was introduced: Napster. Founded by eighteen-year-old Shawn Fanning, Napster was a platform allowing people to share and swap MP3 music files.[13] The service allowed people access to whatever music they wanted, when they wanted it, and for free. Just nine months following its launch, the Napster community numbered more than twenty million users, and grew every day.[14] At its peak, Napster had over fifty-seven million users.[15] The service has since been shut down for copyright infringement, but its effects are still felt. Since Napster emerged, "music sales in the U.S. have dropped 47 percent, from  $14.6 billion to$ 7.7 billion."[16]
 
 A few short months later, in October 2001, Apple launched its first generation MP3 player, the iPod. As opposed to a bulky compact disc player, the iPod allowed users access to all their MP3 tracks in a convenient, stylish, and relatively inexpensive way. After just two years of offering downloads, Apple had sold over 500 million tracks through the iTunes music store.[17] By 2012, Apple's iTunes music store accounted for sixty percent of worldwide digital music sales.[18]
 
@@ -54,9 +54,7 @@ In 2005, the popular internet radio station Pandora was launched with the intent
 
 Between 2007 and 2010, a number of on-demand music subscription services emerged: Spotify, MOG, Deezer, and Rdio to name a few. These services operate much like Rhapsody, except that they offer users a free option in hopes of converting them to paying users.
 
-Traditionally, digital music options forced users to store their music on their own hard drive. After a few thousand downloads, lack of storage space can really slow a computer down. And worse, if the hard drive crashes, the music is gone. In the past few years, new technology has arrived called cloud music storage. Files are instead stored on a third-party site. This allows files to be accessed across a variety of platforms from
-
-one's cloud account anywhere in the world.
+Traditionally, digital music options forced users to store their music on their own hard drive. After a few thousand downloads, lack of storage space can really slow a computer down. And worse, if the hard drive crashes, the music is gone. In the past few years, new technology has arrived called cloud music storage. Files are instead stored on a third-party site. This allows files to be accessed across a variety of platforms from one's cloud account anywhere in the world.
 
 As technology has continued to advance and new services have emerged, consumers have grown to expect easy access and higher quality with little or no cost. Piracy is still not highly prosecuted in the United States, and it is very easy for consumers to access music online for free, even though most file-sharing services have since been shut down.
 
@@ -68,9 +66,7 @@ A few years after the internet became mainstream, Napster was introduced and it 
 
 The Future of Music Coalition has defined eight core means by which musicians would traditionally generate revenue.[19] These include money from songwriting/composing, salary as employees of a symphony, band, or ensemble, touring and live performance fees, money from sound recordings, session earnings, merchandise sales, teaching and "other" which includes about twenty other revenue streams.
 
-For sound recordings, artists receive a percentage of the wholesale price.[20] According to information published on The Root, superstars can get 20 percent, but most get 12 percent to 14 percent.[21] On a  $10 CD, a musician or band could make$ 1.20 to $1.40. Divided evenly between four bandmates, that amounts to a grim 30 cents each. On a 99-cent download, "a typical artist may earn 7 to 10 cents after deductions for the retailer, the record company, and the songwriter." In 2009, only 2.1 percent of the albums released sold even 5,000 copies.[22] Typically, a record company cannot recoup investments until a record goes gold, meaning it has sold
-
-500,000 copies. In the case of 97.9 percent of artists, they won't see a penny from album sales, as all royalties go towards recouping the label's initial investment.
+For sound recordings, artists receive a percentage of the wholesale price.[20] According to information published on The Root, superstars can get 20 percent, but most get 12 percent to 14 percent.[21] On a  $10 CD, a musician or band could make$ 1.20 to $1.40. Divided evenly between four bandmates, that amounts to a grim 30 cents each. On a 99-cent download, "a typical artist may earn 7 to 10 cents after deductions for the retailer, the record company, and the songwriter." In 2009, only 2.1 percent of the albums released sold even 5,000 copies.[22] Typically, a record company cannot recoup investments until a record goes gold, meaning it has sold 500,000 copies. In the case of 97.9 percent of artists, they won't see a penny from album sales, as all royalties go towards recouping the label's initial investment.
 
 Artists could also tour in support of their album. But even here, a lucky artist can earn 60 percent of the revenue from a show. If he or she isn't playing five or six nights a week for more than 500 people each time, it's nearly impossible to make a living.[23] Many artists struggle just to break even on tour.
 
@@ -84,9 +80,7 @@ As mentioned in the introduction of this paper, this conversation is focused on 
 
 A number of influential artists—for example, Grizzly Bear, The Black Keys, and Galaxie 500—have expressed dissatisfaction with Spotify due to low royalties and perceived declines in album sales. To get a better idea for what other perceptions exist, I spoke with three bands, Braid, Company of Thieves, and White Rabbits, each of which has reached a different level of success in terms of number of fans.
 
-When speaking with Bob Nanna, lead vocalist and guitarist for the emo/post-hardcore group Braid, he explained that, opposed to streaming, he would prefer that people bought the song, as the band gets paid "next to nothing" for streams.[24] Since his label, Polyvinyl Record Co., added Braid's 100-plus catalog to Spotify, Nanna claims to have received "less than $5.00." He isn't sure this service, with its current royalty structure, can be sustainable for small bands like Braid with just over 13,500 Facebook fans. Nanna thinks the service needs to become more "artist-focused." He and bandmates worry that Spotify is more interested in building a strong, lasting business than supporting artist's careers and the industry. Other
-
-than a slight increase in social media buzz, Braid has seen little benefit from the service.
+When speaking with Bob Nanna, lead vocalist and guitarist for the emo/post-hardcore group Braid, he explained that, opposed to streaming, he would prefer that people bought the song, as the band gets paid "next to nothing" for streams.[24] Since his label, Polyvinyl Record Co., added Braid's 100-plus catalog to Spotify, Nanna claims to have received "less than $5.00." He isn't sure this service, with its current royalty structure, can be sustainable for small bands like Braid with just over 13,500 Facebook fans. Nanna thinks the service needs to become more "artist-focused." He and bandmates worry that Spotify is more interested in building a strong, lasting business than supporting artist's careers and the industry. Other than a slight increase in social media buzz, Braid has seen little benefit from the service.
 
 For a band with a slightly larger following (just over 31,000 Facebook fans), the conclusions are similar. Genevieve Schatz, lead vocalist of indie rock group Company of Thieves, explains, "It's hard knowing as a musician that I see my breakdown of royalties from Spotify and it's not as much as if someone just purchased the song."25 Schatz was much more optimistic about the service Pandora, explaining, "With Spotify, you have to specifically seek it out. And it's just different. It's not like, 'Yay! You get exposure.' I know it's hard time money-wise and we're in a communication age and it's really cool that you can do that. And I would rather someone hear it than not hear it. But, financially speaking, no this is totally not lucrative." At one concert in January, Schatz and a bandmate mentioned on stage that they've really been struggling. When I approached their merchandise stand following the show, there was a tip box set up next to the t-shirts and posters. Her final thoughts about the service echoed Nanna's fear that the service is not artist-focused, "It's a business, just another business."
 
@@ -166,28 +160,25 @@ The perceptions explored in the previous section play an important role in the e
 
 - Streaming Mechanical Royalties  
 - Mechanical Royalties for Cloud Storage, Lockers, Limited Uses  
-Ringtones Revenue
-
-Digital Sales  
-Cloud Storage Payments  
+- Ringtones Revenue
+- Digital Sales  
+- Cloud Storage Payments  
 - Interactive Service Payments  
-Digital Performance Royalties  
-AARC Royalties  
-Label Settlements  
-AFM/AFTRA Payments  
-YouTube Partner Program  
-Ad Revenue  
-Fan Funding
+- Digital Performance Royalties  
+- AARC Royalties  
+- Label Settlements  
+- AFM/AFTRA Payments  
+- YouTube Partner Program  
+- Ad Revenue  
+- Fan Funding
 
-(Source: Future of Music Coalition, http://money_futureofmusic.org/revenue-streams-existing-expanded-new/)
+> (Source: Future of Music Coalition, http://money_futureofmusic.org/revenue-streams-existing-expanded-new/)
 
 With this many new revenue streams, it's hard to believe that artists are making substantially less money than they were fifteen years ago. Part of the reason is because interactive service payments will continue to occur over the lifetime of an artist, thus the capacity for an artist to earn does not diminish with time. Instead of a one-time profit of 7 to 10 cents when a track is purchased, artists will continue to receive payment every time a track is played. Given artists earn 7 to 10 cents on a 99-cent track download, a consumer who streams would only need to play a track 150 times before an artist earns the same amount he or she would earn from the purchase of a 99-cent track. When I consider my favorite artists and tracks, if I would have streamed their tunes rather than purchase them, the artists would have already yielded substantially more income. And I'm only 22 years old—imagine how much this could amount to by the time I am 30, 50, even 75 years old.
 
 When speaking with artists, a distributor, a label, and a publisher, none had observed negative sales impacts as a result of the service. I do think it's sensible to assume that in the coming years, digital music sales will decline. But by the time sales are declining, streaming royalties should become enough of a substantial revenue source to make up for the difference.
 
-The average download consumer spends  $60 per year while the average subscriber spends$ 120.[33] It appears people are paying more than ever for music, especially in the 18-24 age bracket, but this increase in spending has not come with equal benefit to artists. A Spotify premium subscription costs $10 month. Of the $10, “$6 goes to the owner of the recordings, $1 goes to the owner of the publishing copyright, and Spotify
-
-keeps $3. This is the same proportion by which revenues are shared in the iTunes model." Although it is an unconventional way of thinking and requires a "perceptual shift in the transactional relationship," the economics of Spotify conform exactly to the economics that have always existed in the music business.[34]
+The average download consumer spends  $60 per year while the average subscriber spends$ 120.[33] It appears people are paying more than ever for music, especially in the 18-24 age bracket, but this increase in spending has not come with equal benefit to artists. A Spotify premium subscription costs $10 month. Of the $10, “$6 goes to the owner of the recordings, $1 goes to the owner of the publishing copyright, and Spotify keeps $3. This is the same proportion by which revenues are shared in the iTunes model." Although it is an unconventional way of thinking and requires a "perceptual shift in the transactional relationship," the economics of Spotify conform exactly to the economics that have always existed in the music business.[34]
 
 If leveraged correctly, Spotify can actually be a tremendous resource for the music industry. Global recorded music revenues in 2012 increased for the first time since 1999, up  $0.3\%$  to  $16.5$  billion. Leading the recovery with  $9\%$  growth to  $\$5.6$  billion total were digital sales, “which include direct sales on platforms like iTunes and revenue generated from streaming services like Spotify.”[35] Artists are also using Spotify to monetize pre-release streams and generate interest in a new album. To use a recent example, Justin Timberlake’s latest album, The 20/20 Experience, sold 980,000 copies in its first week.[36] In addition, the week following the release, tracks from the album took up six of the top ten most played songs on Rdio and tracks from the album were streamed nearly 7.7 million times. Timberlake’s label is crediting these staggering sales numbers to free online streaming services.
 
@@ -199,9 +190,7 @@ First, Spotify needs to become more artist-focused, meaning artists' interests a
 
 Second, Spotify needs to continue working with labels and distributors to gain access to even more content, specifically content from DJs, older musicians, and representation from genres that are less mainstream—like jazz, blues, and world.
 
-Third, Spotify needs to launch an advertising campaign to market the service to mainstream America. Before long, companies that already have enormous market shares like iTunes, Amazon, and Google will be launching similar services. In order to remain relevant, Spotify will need to be a household name and will need to have many more subscribers. In late May
-
-2013, Spotify aired its first ever television commercial during The Voice. It will be very exciting to see this recommendation begin to take off.[37]
+Third, Spotify needs to launch an advertising campaign to market the service to mainstream America. Before long, companies that already have enormous market shares like iTunes, Amazon, and Google will be launching similar services. In order to remain relevant, Spotify will need to be a household name and will need to have many more subscribers. In late May 2013, Spotify aired its first ever television commercial during The Voice. It will be very exciting to see this recommendation begin to take off.[37]
 
 Next, the payment structure needs to be reconsidered and higher royalty rates ultimately need to be negotiated in support of the artists. This may be as simple as artists revisiting deals with their labels. It may be as massive as Spotify re-evaluating the way that it distributes royalties.
 
@@ -212,6 +201,9 @@ Spotify is currently "the biggest single revenue source for the music industry i
 All around us, there is evidence that the industry has changed. Since Napster, digital music sales have been declining and consumers have sought alternative means of acquiring music. Spotify is a promising solution. Keeping in mind all that we know about listening habits of younger generations, Spotify offers a way to monetize free listening—something traditionally we haven't been able to do.
 
 One thing is for certain; the discussion does not end here. The pace of change for this technology is more likely to accelerate than slow down. The observations in this report have been made at a point in time and yet change in the industry is occurring daily.
+
+
+# Endnotes
 
 1. John Paul Titlow, “6 Million People Pay For Spotify - Is That Good Enough?” ReadWrite, 13 Mar. 2013, accessed 29 Mar. 2013.  
 2. Austin Carr, "Why Spotify Turned Down Adele's '21," *Fast Company*, 15 Feb. 2012, accessed 20 Mar. 2013.  
@@ -255,46 +247,39 @@ Sept. 2013.
 36. Claire Suddath, "Justin Timberlake Made a Fortune Giving His Album Away," *Bloomberg Business Week*, 29 Mar. 2013, accessed 31 Mar. 2013.  
 37. RJ Cubarrubia, "Spotify to Launch First TV Commercial on 'The Voice'Premiere," Rolling Stone, 25 Mar. 2013, accessed 22 Apr. 2013.
 
-"A Brief History of Napster." Accessed 26 Apr. 2013. http://iml.jou.ufl.edu/projects/spring01/burkhalter/napster history.html.  
-Apple. "Apple Launches iTunes Music Store in Japan." 4 Aug. 2005. Accessed 02 Apr. 2013. http://www.apple.com/pr/library/2005/08/04Apple-Launches-iTunes-Music-Store-in-Japan.html.  
-Beck, Jeff. "Perceptions of Spotify From a Label Perspective: Saddle Creek." Personal interview. 2 Apr. 2013.  
-Boczanowski, Zosia. "Spotify: Not Out Of The Woods Yet." Music Business Journal (Oct. 2011). Accessed 13 Jan. 2013. http://www.thembj.org/2011/10/spotify-not-out-of-the-woods-yet/.  
-Carr, Austin. "Why Spotify Turned Down Adele's '21'." *Fast Company*, 15 Feb. 2012. Accessed 20 Mar. 2013. http://www.fastcompany.com/1816582/why-spotify-turned-down-adeles-21.  
-Cubarrubia, RJ. "Spotify to Launch First TV Commercial on 'The Voice'Premiere." Rolling Stone, 25 Mar. 2013. Accessed 22 Apr. 2013. http://www.rollingstone.com/music/videos/spotify-to-launch-firsttv-commercial-on-the-voice-premiere-20130325.  
-Downtown Publishing. "Downtown Music Publishing: About." Accessed 14 Sept. 2013.  
-Future of Music Coalition. "Artist Revenue Streams: Revenue Types." Accessed Web. 30 Mar. 2013. http://money_futureofmusic.org/revenue-types/.  
-Hampp, Andrew. "MIDEM Panel Explores  $\$ 100$ Billion Music Business' With YouTube, Spotify, Samsung, Sony Execs." Billboard, 26 Jan. 2013. Accessed 29 Mar. 2013. http://www.billboard.com/biz/articles/news/digital-and-mobile/1533492/midem-panel-explores-100- billion-music-business-with.  
-Hopewell, Luke. "The History Of The Compact Disc." Gizmodo Australia, 17 Aug. 2012. Accessed 08 Apr. 2013. http://www.gizmodo.com.au/2012/08/the-history-of-the-compact-disc/.  
-IFPI. Digital Music Report 2012. Accessed 2 Feb. 2013. www.ifpi.org/ content/library/dmr2012.pdf.  
-Jefferson, Cord. "The Music Industry's Funny Money." The Root, 6 July 2010. Accessed 25 Mar. 2013. http://www.theroot.com/articles/culture/2010/07/the_root_investigates_whoReally_gets_paid_in_the
 
-music_industry.html.  
-Lamont, Tom. "Napster: The Day the Music Was Set Free." *The Guardian*, 23 Feb. 2013. Accessed 24 Feb. 2013. http://www.theguardian.com/music/2013/feb/24/napster-music-free-file-sharing.  
-Levinson, Jamie. "Perceptions of Spotify From an Artist's Perspective: White Rabbits." Personal interview. 30 Mar. 2013.  
-Lindvall, Helienne. "Behind the Music: The Real Reason Why the Major Labels Love Spotify." *The Guardian*, 17 Aug. 2009. Accessed 20 Mar. 2013. http://www.theguardian.com/music/musicblog/2009/aug/17/major-labels-spotify.  
-Luckerson, Victor. "Revenue Up, Piracy Down: Has the Music Industry Finally Turned a Corner?" Time, 28 Feb. 2013. Accessed 02 Apr. 2013. http://business.time.com/2013/02/28/revenue-up-piracy-down-has-the-music-industry-finally-turned-a-corner/.  
-Macias, David. "Making Dollars: Clearing Up Spotify Payment Confusion." Hypebot, 26 Nov. 2012. Accessed 30 Mar. 2013. http://www.hypebot.com/hypebot/2012/11/clearing-up-spotify-payment-confusion.html.  
-Matthews, Cameron. "David Lowery Q&A: On Spotify Rates and His Letter to NPR's Emily White." Spinner, 29 Jan. 2013. Accessed 24 Jan. 2013.  
-McGraw, Sean. "Perceptions of Spotify From a Music Publisher's Perspective: Downtown Music Publishing." Telephone interview. 13 Sept. 2013.  
-Migliore, Mariana. "An Update on Spotify." *Music Business Journal*. (Dec. 2012). Accessed 13 Jan. 2013. http://www.thembj.org/2012/12/an-update-on-spotify/.  
-Muller, John. "Key Ingredients for Successful Entrepreneurs." Interview with Daniel Ek. ABC News, 10 Dec. 2012. Accessed 24 Feb. 2013. http://abcnews.go.com/blogs/technology/2012/12/spotify-founder-daniel-ek-wanted-to-create-something-better-than-piracy/.  
-Nanna, Bob. "Perceptions of Spotify From an Artists Perspective: Braid." Telephone interview. 20 Mar. 2013.  
-Passman, Donald S. All You Need to Know about the Music Business. New York: Free Press, 2009.  
-Peoples, Glenn. "Licensing: Slow, Steady Progress." *Billboard*, 1 Dec. 2012: 22-23.  
-Rae-Hunter, Casey. "Daniel Ek from Spotify at 2009 Future of Music
+# References
 
-Policy Summit." Future of Music Coalition, 6 Oct. 2009. Accessed 24 Feb. 2013. futureofmusic.org/events/future-music-policy-summit-2009.  
-RIAA. "FAQ-For Students Writing Reports." Accessed 31 Mar. 2013. http://www.riaa.com/faq.php.  
-Sanders, Brad. "Perceptions of Spotify From a Distribution Perspective: SC Distribution." Personal interview. 22 Mar. 2013.  
-Schatz, Genevieve. "Perceptions of Spotify From an Artist's Perspective: Company of Thieves." Personal interview. 24 Jan. 2013.  
-Sisario, Ben. "Streaming and Micropennies: The Footnotes." *The New York Times*, 29 Jan. 2013. Accessed 30 Mar. 2013.  
-Suddath, Claire. "Justin Timberlake Made a Fortune Giving His Album Away." *Bloomberg Business Week*, 29 Mar. 2013. Accessed 31 Mar. 2013. http://www.businessweek.com/articles/2013-03-29/justin-timberlake-made-a-fortune-giving-his-album-away.  
-Titlow, John Paul. "6 Million People Pay For Spotify - Is That Good Enough?" ReadWrite, 13 Mar. 2013. Accessed 29 Mar. 2013. http:// readwrite.com/2013/03/13/spotify-six-million-paid-subscribersgrowth-quick-enough#awesm=~omwf3XG3FQkiL9.  
-King, Mike. "How Does Spotify Pay Artists? Interview with Spotify's D.A. Wallach." Berklee Music Blogs, 4 Sept. 2012. Accessed 13 Jan. 2013. http://mikeking.berkleemusicblogs.com/2012/09/04/how-does-spotify-pay-artists-interview-with-spotify%E2%80%99s-d-a-wallach/.  
-Wolfe, Bryan. "Apple's iTunes Store Accounts For 60 Percent Of Worldwide Digital Music Revenues." AppAdvice RSS, 27 Feb. 2013. Accessed 02 Apr. 2013. http://appadvice.com/appnn/2013/02/ apples-itunes-store-accounts-for-60-percent-of-worldwide-digital-music-revenues.
-
-KATE SWANSON is a recent graduate from the School of Public and Environmental Affairs at Indiana University with a degree in Arts Management. She has had diverse experience working in the music industry. From internships at a music publicity company and a booking agency, to working as a publicist and event consultant for a start-up music festival, Kate brings a unique perspective to the discussion of digitization and new music streaming technology. She currently resides in Chicago, Illinois and is working as a production assistant on the television show Judge Mathis.
-
-![](images/bda3ffa2b3c156c7bdc77f3d38a252b73251fa079419e500d5a29313938fdf17.jpg)
-
-Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
+- "A Brief History of Napster." Accessed 26 Apr. 2013. http://iml.jou.ufl.edu/projects/spring01/burkhalter/napster history.html.  
+- Apple. "Apple Launches iTunes Music Store in Japan." 4 Aug. 2005. Accessed 02 Apr. 2013. http://www.apple.com/pr/library/2005/08/04Apple-Launches-iTunes-Music-Store-in-Japan.html.  
+- Beck, Jeff. "Perceptions of Spotify From a Label Perspective: Saddle Creek." Personal interview. 2 Apr. 2013.  
+- Boczanowski, Zosia. "Spotify: Not Out Of The Woods Yet." Music Business Journal (Oct. 2011). Accessed 13 Jan. 2013. http://www.thembj.org/2011/10/spotify-not-out-of-the-woods-yet/.  
+- Carr, Austin. "Why Spotify Turned Down Adele's '21'." *Fast Company*, 15 Feb. 2012. Accessed 20 Mar. 2013. http://www.fastcompany.com/1816582/why-spotify-turned-down-adeles-21.  
+- Cubarrubia, RJ. "Spotify to Launch First TV Commercial on 'The Voice'Premiere." Rolling Stone, 25 Mar. 2013. Accessed 22 Apr. 2013. http://www.rollingstone.com/music/videos/spotify-to-launch-firsttv-commercial-on-the-voice-premiere-20130325.  
+- Downtown Publishing. "Downtown Music Publishing: About." Accessed 14 Sept. 2013.  
+- Future of Music Coalition. "Artist Revenue Streams: Revenue Types." Accessed Web. 30 Mar. 2013. http://money_futureofmusic.org/revenue-types/.  
+- Hampp, Andrew. "MIDEM Panel Explores  $\$ 100$ Billion Music Business' With YouTube, Spotify, Samsung, Sony Execs." Billboard, 26 Jan. 2013. Accessed 29 Mar. 2013. http://www.billboard.com/biz/articles/news/digital-and-mobile/1533492/midem-panel-explores-100- billion-music-business-with.  
+- Hopewell, Luke. "The History Of The Compact Disc." Gizmodo Australia, 17 Aug. 2012. Accessed 08 Apr. 2013. http://www.gizmodo.com.au/2012/08/the-history-of-the-compact-disc/.  
+- IFPI. Digital Music Report 2012. Accessed 2 Feb. 2013. www.ifpi.org/ content/library/dmr2012.pdf.  
+- Jefferson, Cord. "The Music Industry's Funny Money." The Root, 6 July 2010. Accessed 25 Mar. 2013. http://www.theroot.com/articles/culture/2010/07/the_root_investigates_whoReally_gets_paid_in_the_music_industry.html.  
+- Lamont, Tom. "Napster: The Day the Music Was Set Free." *The Guardian*, 23 Feb. 2013. Accessed 24 Feb. 2013. http://www.theguardian.com/music/2013/feb/24/napster-music-free-file-sharing.  
+- Levinson, Jamie. "Perceptions of Spotify From an Artist's Perspective: White Rabbits." Personal interview. 30 Mar. 2013.  
+- Lindvall, Helienne. "Behind the Music: The Real Reason Why the Major Labels Love Spotify." *The Guardian*, 17 Aug. 2009. Accessed 20 Mar. 2013. http://www.theguardian.com/music/musicblog/2009/aug/17/major-labels-spotify.  
+- Luckerson, Victor. "Revenue Up, Piracy Down: Has the Music Industry Finally Turned a Corner?" Time, 28 Feb. 2013. Accessed 02 Apr. 2013. http://business.time.com/2013/02/28/revenue-up-piracy-down-has-the-music-industry-finally-turned-a-corner/.  
+- Macias, David. "Making Dollars: Clearing Up Spotify Payment Confusion." Hypebot, 26 Nov. 2012. Accessed 30 Mar. 2013. http://www.hypebot.com/hypebot/2012/11/clearing-up-spotify-payment-confusion.html.  
+- Matthews, Cameron. "David Lowery Q&A: On Spotify Rates and His Letter to NPR's Emily White." Spinner, 29 Jan. 2013. Accessed 24 Jan. 2013.  
+- McGraw, Sean. "Perceptions of Spotify From a Music Publisher's Perspective: Downtown Music Publishing." Telephone interview. 13 Sept. 2013.  
+- Migliore, Mariana. "An Update on Spotify." *Music Business Journal*. (Dec. 2012). Accessed 13 Jan. 2013. http://www.thembj.org/2012/12/an-update-on-spotify/.  
+- Muller, John. "Key Ingredients for Successful Entrepreneurs." Interview with Daniel Ek. ABC News, 10 Dec. 2012. Accessed 24 Feb. 2013. http://abcnews.go.com/blogs/technology/2012/12/spotify-founder-daniel-ek-wanted-to-create-something-better-than-piracy/.  
+- Nanna, Bob. "Perceptions of Spotify From an Artists Perspective: Braid." Telephone interview. 20 Mar. 2013.  
+- Passman, Donald S. All You Need to Know about the Music Business. New York: Free Press, 2009.  
+- Peoples, Glenn. "Licensing: Slow, Steady Progress." *Billboard*, 1 Dec. 2012: 22-23.  
+- Rae-Hunter, Casey. "Daniel Ek from Spotify at 2009 Future of Music Policy Summit." Future of Music Coalition, 6 Oct. 2009. Accessed 24 Feb. 2013. futureofmusic.org/events/future-music-policy-summit-2009.  
+- RIAA. "FAQ-For Students Writing Reports." Accessed 31 Mar. 2013. http://www.riaa.com/faq.php.  
+- Sanders, Brad. "Perceptions of Spotify From a Distribution Perspective: SC Distribution." Personal interview. 22 Mar. 2013.  
+- Schatz, Genevieve. "Perceptions of Spotify From an Artist's Perspective: Company of Thieves." Personal interview. 24 Jan. 2013.  
+- Sisario, Ben. "Streaming and Micropennies: The Footnotes." *The New York Times*, 29 Jan. 2013. Accessed 30 Mar. 2013.  
+- Suddath, Claire. "Justin Timberlake Made a Fortune Giving His Album Away." *Bloomberg Business Week*, 29 Mar. 2013. Accessed 31 Mar. 2013. http://www.businessweek.com/articles/2013-03-29/justin-timberlake-made-a-fortune-giving-his-album-away.  
+- Titlow, John Paul. "6 Million People Pay For Spotify - Is That Good Enough?" ReadWrite, 13 Mar. 2013. Accessed 29 Mar. 2013. http:// readwrite.com/2013/03/13/spotify-six-million-paid-subscribersgrowth-quick-enough#awesm=~omwf3XG3FQkiL9.  
+- King, Mike. "How Does Spotify Pay Artists? Interview with Spotify's D.A. Wallach." Berklee Music Blogs, 4 Sept. 2012. Accessed 13 Jan. 2013. http://mikeking.berkleemusicblogs.com/2012/09/04/how-does-spotify-pay-artists-interview-with-spotify%E2%80%99s-d-a-wallach/.  
+- Wolfe, Bryan. "Apple's iTunes Store Accounts For 60 Percent Of Worldwide Digital Music Revenues." AppAdvice RSS, 27 Feb. 2013. Accessed 02 Apr. 2013. http://appadvice.com/appnn/2013/02/ apples-itunes-store-accounts-for-60-percent-of-worldwide-digital-music-revenues.

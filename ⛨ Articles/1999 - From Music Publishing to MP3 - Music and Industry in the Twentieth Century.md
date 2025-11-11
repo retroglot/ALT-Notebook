@@ -1,6 +1,6 @@
 # From Music Publishing to MP3: Music and Industry in the Twentieth Century
 
-> Reebee Garofalo
+> [Reebee Garofalo]
 
 > Reebee Garofalo is a professor at the University of Massachusetts, Boston, where he has taught since 1978. He has written numerous articles on racism, censorship, the political uses of music, and the globalization of the music industry. His most recent book is *Rockin' Out: Popular Music in the USA* (Allyn and Bacon, 1997). For relaxation, he enjoys drumming and singing with the Blue Suede Boppers, a fifties rock and roll band.
 

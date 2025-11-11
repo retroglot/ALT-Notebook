@@ -1,5 +1,7 @@
 # From Music Publishing to MP3: Music and Industry in the Twentieth Century
 
+> [Reebee Garofalo]
+
 # 引言
 
 

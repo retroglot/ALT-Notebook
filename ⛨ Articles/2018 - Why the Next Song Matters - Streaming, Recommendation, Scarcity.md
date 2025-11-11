@@ -1,6 +1,6 @@
 # Why the Next Song Matters: Streaming, Recommendation, Scarcity
 
-ERIC DROTT
+> ERIC DROTT
 
 ## Abstract
 

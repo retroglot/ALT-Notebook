@@ -1,6 +1,6 @@
 {
-  "baseURL": "https://open.bigmodel.cn/api/paas/v4/",
-  "apiKey": "34a3eb0606764449aac5f06aea47d6b4.siw5ndRyqcc1Co3s",
-  "model": "glm-4.5-air",
-  "maxTokens": 15680
+  "baseURL": "https://aihubmix.com/v1",
+  "apiKey": "sk-Wds5j6VvLnu8TCYb333a7fB12fFc48Cb95Ea97E06d20Eb6e",
+  "model": "gemini-2.5-flash-lite",
+  "maxTokens": 6320
 }

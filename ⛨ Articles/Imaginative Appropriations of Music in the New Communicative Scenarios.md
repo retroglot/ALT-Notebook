@@ -12,8 +12,8 @@ Compartir música es un mecanismo tradicional de la sociabilidad cultural, cuya 
 
 # KEY WORDS / PALABRAS CLAVE
 
-Social networks, cultural practices, digital music, imaginative appropriation, identity building, communicative scenarios.   
-Redes sociales, prácticas culturales, música digital, apropiaciones imaginativas, construcción de identidad, escenarios comunicativos.
+> - Social networks, cultural practices, digital music, imaginative appropriation, identity building, communicative scenarios.   
+> - Redes sociales, prácticas culturales, música digital, apropiaciones imaginativas, construcción de identidad, escenarios comunicativos.
 
 $\spadesuit$ Ph.D. Miguel de Aguilera, Professor of Audiovisual Communication of Universidad de Málaga (Spain) (deaguilera@uma.es). $\spadesuit$ Ph.D. Joan-Elíes Adell, full Professor of Universitat Oberta de Catalunya (jadellp@uoc.edu). $\spadesuit$ Eddy Borges-Rey, Lecturer of Universidad de Málaga (eborgesrey@uma.es).
 

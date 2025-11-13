@@ -36,8 +36,8 @@
     }
   },
   "floatingPlayerPosition": {
-    "x": 733,
-    "y": 809
+    "x": 40,
+    "y": 449
   },
   "disablePlaybackControlPopover": false,
   "enableReplayOption": true,

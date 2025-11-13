@@ -1,6 +1,6 @@
 {
   "selectedVoice": "en-GB-RyanNeural",
-  "customVoice": "fr-FR-RemyMultilingualNeural",
+  "customVoice": "zh-CN-YunyangNeural",
   "playbackSpeed": 1,
   "showNotices": true,
   "showStatusBarButton": true,
@@ -11,7 +11,7 @@
   "replaceSpacesInFilenames": true,
   "textFiltering": {
     "filterFrontmatter": true,
-    "filterMarkdownLinks": false,
+    "filterMarkdownLinks": true,
     "filterCodeBlocks": true,
     "filterInlineCode": true,
     "filterHtmlTags": true,
@@ -36,8 +36,8 @@
     }
   },
   "floatingPlayerPosition": {
-    "x": 40,
-    "y": 449
+    "x": 11,
+    "y": 847
   },
   "disablePlaybackControlPopover": false,
   "enableReplayOption": true,

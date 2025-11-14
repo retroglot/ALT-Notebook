@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "89f663f80368924d",
+        "id": "071387fd7ce72282",
         "type": "tabs",
         "children": [
           {
-            "id": "b2dcc177b7f89f0d",
+            "id": "cb5e14fead73994b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "图片库/Pasted image 20251114001250.png"
+                "file": "⛨ Books/J/J609.2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251114001250"
+              "icon": "lucide-file",
+              "title": "J609.2"
             }
           }
         ]
@@ -181,19 +183,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8dbe0cf1adafa376",
+  "active": "cb5e14fead73994b",
   "lastOpenFiles": [
+    "Pasted image 20251114174910.png",
+    "Pasted image 20251114174752.png",
+    "Pasted image 20251114174724.png",
+    "0fe2f4805368b935aae0e719ddd3d20d 1.jpg",
+    "0fe2f4805368b935aae0e719ddd3d20d.jpg",
+    "Pasted image 20251114174337.png",
+    "Pasted image 20251114173657.png",
+    "Pasted image 20251114173333.png",
+    "Pasted image 20251114173313.png",
+    "图片库/Pasted image 20251114165316.png",
+    "图片库/Pasted image 20251114165339.png",
     "⛨ Books/J/J609.2.md",
-    "图片库/Pasted image 20251114034026.png",
-    "图片库/Pasted image 20251114033959.png",
-    "图片库/Pasted image 20251114033702.png",
-    "图片库/Pasted image 20251114032824.png",
-    "图片库/Pasted image 20251114032454.png",
-    "图片库/Pasted image 20251114032436.png",
-    "图片库/Pasted image 20251114032426.png",
-    "图片库/Pasted image 20251114032405.png",
-    "图片库/Pasted image 20251114032350.png",
-    "图片库/Pasted image 20251114031626.png",
     "§ Notes for Films.md",
     "翻译？.md",
     "写作清单.md",

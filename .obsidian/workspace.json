@@ -71,13 +71,13 @@
             }
           },
           {
-            "id": "4b42ba01c4fe396f",
+            "id": "e3af97f348e10b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -248,14 +248,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b42ba01c4fe396f",
+  "active": "e3af97f348e10b4a",
   "lastOpenFiles": [
-    "⛨ Books/B/B2.md",
+    "⛨ Books/❦ Bloomsbury/The Phone Fix.md",
+    "公元前十六世纪.md",
     "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
+    "⛨ Books/B/B2.md",
     "⬡ Intelligent Knowledge Base/New API 说明.md",
     "⛨ Books/B/full.md",
     "§ Notes for Books/✐ CIP/B/单向度的人.md",
-    "⛨ Books/❦ Bloomsbury/The Phone Fix.md",
     "§ Notes for Books/✐ CIP/B/〓 完美主义扼杀效率.md",
     "§ Notes for Books/✐ CIP/B/思维的模式.md",
     "§ Notes for Books/✐ 台灣圖書/民法經濟法論文集（一）.md",
@@ -275,7 +276,6 @@
     "§ Notes for Books/✐ CIP/F/人人都是产品经理.md",
     "§ Notes for Books/✐ CIP/F/博弈与社会.md",
     "§ Notes for Books/✐ CIP/G/检索力.md",
-    "§ Notes for Books/✐ CIP/I/这世界既残酷也温柔.md",
     "⛨ Books/❦ Bloomsbury",
     "⛨ Books/B",
     "Note Narration Audio/note_-_2025年11月15日_03-10.mp3",

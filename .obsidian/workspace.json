@@ -11,15 +11,81 @@
             "id": "cb5e14fead73994b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "图片库/Pasted image 20251114173313.png"
+                "file": "⛨ Books/B/B089.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251114173313"
+              "icon": "lucide-file",
+              "title": "B089"
+            }
+          },
+          {
+            "id": "e0cfdcb2333b9a2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⬡ Intelligent Knowledge Base/New API 说明.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "New API 说明"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "de6d46c79bbd04d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0dd3dd6575ba601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "§ Notes for Books/✐ CIP/B/单向度的人.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单向度的人"
+            }
+          },
+          {
+            "id": "9c63bb2f7f9a21e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "⛨ Books/❦ Bloomsbury/The Phone Fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Phone Fix"
+            }
+          },
+          {
+            "id": "4b42ba01c4fe396f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "中国思想史纲"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -164,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5,
-    "collapsed": true
+    "width": 366.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,12 +247,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb5e14fead73994b",
+  "active": "4b42ba01c4fe396f",
   "lastOpenFiles": [
+    "⬡ Intelligent Knowledge Base/New API 说明.md",
+    "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
+    "§ Notes for Books/✐ CIP/B/单向度的人.md",
+    "⛨ Books/❦ Bloomsbury/The Phone Fix.md",
+    "§ Notes for Books/✐ CIP/B/〓 完美主义扼杀效率.md",
+    "§ Notes for Books/✐ CIP/B/思维的模式.md",
+    "§ Notes for Books/✐ 台灣圖書/民法經濟法論文集（一）.md",
+    "§ Lecture-Notes/艺术家经纪与代理.md",
+    "§ Lecture-Notes/音乐产权保护与管理.md",
+    "§ Notes for Books/✐ CIP/B/智能的结构.md",
+    "§ Notes for Books/✐ CIP/B/小万神殿.md",
+    "§ Notes for Books/✐ CIP/B/天下体系.md",
+    "§ Notes for Books/✐ CIP/C/实践理论大纲.md",
+    "§ Notes for Books/✐ CIP/C/实践感.md",
+    "§ Notes for Books/✐ CIP/C/消费社会.md",
+    "§ Notes for Books/✐ CIP/C/行为社会科学基本问题.md",
+    "§ Notes for Books/✐ CIP/D/法社会学.md",
+    "§ Notes for Books/✐ CIP/F/卓有成效的管理者.md",
+    "§ Notes for Books/✐ CIP/F/原则：应对变化中的世界秩序.md",
+    "§ Notes for Books/✐ CIP/F/未命名.md",
+    "§ Notes for Books/✐ CIP/F/人人都是产品经理.md",
+    "§ Notes for Books/✐ CIP/F/博弈与社会.md",
+    "§ Notes for Books/✐ CIP/G/检索力.md",
+    "§ Notes for Books/✐ CIP/I/这世界既残酷也温柔.md",
+    "§ Notes for Books/✐ CIP/J/流行音乐与资本主义.md",
+    "§ Notes for Books/✐ CIP/J/观众心理学.md",
+    "⛨ Books/❦ Bloomsbury",
+    "⛨ Books/B",
+    "Note Narration Audio/note_-_2025年11月15日_03-10.mp3",
+    "Note Narration Audio",
+    "图片库/Pasted image 20251114173313.png",
     "0fe2f4805368b935aae0e719ddd3d20d.jpg",
     "0fe2f4805368b935aae0e719ddd3d20d 1.jpg",
-    "图片库/Pasted image 20251114173313.png",
-    "⛨ Books/J/J609.2.md",
     "图片库/Pasted image 20251114174910.png",
     "图片库/Pasted image 20251114174752.png",
     "图片库/Pasted image 20251114174724.png",
@@ -195,39 +289,11 @@
     "图片库/Pasted image 20251114173657.png",
     "图片库/Pasted image 20251114173333.png",
     "图片库/Pasted image 20251114165316.png",
-    "§ Notes for Films.md",
-    "翻译？.md",
-    "写作清单.md",
-    "⛨ Articles/2013 - Network Perspectives on the Relevance of New Revenue Streams in the Digital Era Music Industry.md",
-    "full.md",
-    "⁂ Musings/AI 对比.md",
     "Pasted image 20251113233741.png.~tmp",
     "Pasted image 20251113233728.png.~tmp",
     "Pasted image 20251113232512.png.~tmp",
     "Pasted image 20251113232212.png.~tmp",
-    "⛨ Articles/Musicology/2013 - 作曲家的身份定位问题——香港作曲家的困境.md",
     "⛨ Articles/Musicology",
-    "⛨ Books/H/H152.3.md",
-    "⛨ Books/J",
-    "⛨ Books/H/H152.3 1.md",
-    "⛨ Books/H/教授为什么没告诉我.md",
-    "§ Lecture-Notes/音乐产权保护与管理.md",
-    "⛨ Articles/数字流媒体平台古典音乐录音的生产—分发—消费机制重构研究.md",
-    "⛨ Articles/1999 - From Music Publishing to MP3 - Music and Industry in the Twentieth Century.md",
-    "⛨ Articles/1997 - Popular Music Is Plural.md",
-    "⛨ Articles/2010 - From Music Market Crisis to New Listening Practices.md",
-    "⛨ Articles/2025 - The Recorder in the Streams.md",
-    "⛨ Articles/2013 - A Case Study on Spotify - Exploring Perceptions of the Music Streaming Service.md",
-    "⛨ Articles/2015 - Crowds, Clouds, and Idols New Dynamics and Old Agendas in the Music Industry, 1982-2012.md",
-    "⛨ Articles/2010 - Imaginative Appropriations of Music in the New Communicative Scenarios.md",
-    "⛨ Articles/2012 - Where Did You Come From - The 20th Century Fox Label.md",
-    "⛨ Articles/2012 - Reinforcing Property by Strengthening the Commons - A New Media Policy Paradigm.md",
-    "⛨ Articles/2011 - From Cultural Industries to Entertainment and Creative Industries - The Boundaries of the Cultural Field.md",
-    "⛨ Articles/2012 - Colloquy - Musicology Beyond Borders.md",
-    "⛨ Articles/2016 - Music, Youtube, and Academic Libraries.md",
-    "图片库",
-    "未命名.base",
-    "未命名 6.base",
-    "未命名 5.base"
+    "⛨ Books/J"
   ]
 }

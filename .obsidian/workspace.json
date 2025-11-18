@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 366.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,7 +247,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b42ba01c4fe396f",
+  "active": "d36213863e8314c3",
   "lastOpenFiles": [
     "⬡ Intelligent Knowledge Base/New API 说明.md",
     "§ Notes for Books/✐ CIP/B/中国思想史纲.md",

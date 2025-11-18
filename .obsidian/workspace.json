@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "⬡ Intelligent Knowledge Base/New API 说明.md",
+                "file": "⛨ Books/B/B2.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "New API 说明"
+              "title": "B2"
             }
           }
         ],
@@ -77,7 +77,7 @@
               "type": "markdown",
               "state": {
                 "file": "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.50714111328125
+    "width": 298.50714111328125,
+    "collapsed": true
   },
   "right": {
     "id": "a0aba535c1a66c41",
@@ -247,10 +248,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d36213863e8314c3",
+  "active": "4b42ba01c4fe396f",
   "lastOpenFiles": [
-    "⬡ Intelligent Knowledge Base/New API 说明.md",
+    "⛨ Books/B/B2.md",
     "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
+    "⬡ Intelligent Knowledge Base/New API 说明.md",
+    "⛨ Books/B/full.md",
     "§ Notes for Books/✐ CIP/B/单向度的人.md",
     "⛨ Books/❦ Bloomsbury/The Phone Fix.md",
     "§ Notes for Books/✐ CIP/B/〓 完美主义扼杀效率.md",
@@ -273,8 +276,6 @@
     "§ Notes for Books/✐ CIP/F/博弈与社会.md",
     "§ Notes for Books/✐ CIP/G/检索力.md",
     "§ Notes for Books/✐ CIP/I/这世界既残酷也温柔.md",
-    "§ Notes for Books/✐ CIP/J/流行音乐与资本主义.md",
-    "§ Notes for Books/✐ CIP/J/观众心理学.md",
     "⛨ Books/❦ Bloomsbury",
     "⛨ Books/B",
     "Note Narration Audio/note_-_2025年11月15日_03-10.mp3",

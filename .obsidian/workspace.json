@@ -170,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.50714111328125
+    "width": 298.50714111328125,
+    "collapsed": true
   },
   "right": {
     "id": "a0aba535c1a66c41",
@@ -275,12 +276,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d36213863e8314c3",
+  "active": "fd7e62fe9bfe091b",
   "lastOpenFiles": [
+    "公众号/清汤泥鳅/第二章 版权的历史与哲学（上）.md",
     "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
     "⛨ Books/❦ Edinburgh/Music and Copyright.md",
     "⛨ Books/❦ Bloomsbury/The Phone Fix.md",
-    "公众号/清汤泥鳅/第二章 版权的历史与哲学（上）.md",
     "⛨ Books/D/D827.45;K294.5.md",
     "⛨ Books/H/H152.3.md",
     "⛨ Books/B/B089.md",

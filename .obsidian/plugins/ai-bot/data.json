@@ -1,6 +1,0 @@
-{
-  "baseURL": "https://aihubmix.com/v1",
-  "apiKey": "sk-Wds5j6VvLnu8TCYb333a7fB12fFc48Cb95Ea97E06d20Eb6e",
-  "model": "gemini-2.5-flash-lite",
-  "maxTokens": 6320
-}

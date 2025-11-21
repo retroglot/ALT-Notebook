@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.50714111328125,
-    "collapsed": true
+    "width": 298.50714111328125
   },
   "right": {
     "id": "a0aba535c1a66c41",
@@ -276,7 +275,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd0b7ba859149d40",
+  "active": "d36213863e8314c3",
   "lastOpenFiles": [
     "§ Notes for Books/✐ CIP/B/中国思想史纲.md",
     "⛨ Books/❦ Edinburgh/Music and Copyright.md",

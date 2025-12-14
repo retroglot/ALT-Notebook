@@ -6,11 +6,21 @@
 
 Like any culture industry in a market economy, the role of the music business is fundamentally to transform its cultural products into financial rewards. This process, of course, has been significantly influenced by the technological advances that have determined the production, dissemination, and reception of music. To understand the trajectory of popular music in the twentieth century from its beginnings as a nation-based, mass cultural phenomenon to its current state as part of a global system of interactive, transnational cultural flows, one must trace the uneven relationship between cultural development, technological advancement, professional organization, political struggle, and economic power. Since technological advances and the economic power that drives them have been historically centered in industrialized nations (primarily Great Britain, Western Europe, and the United States), these countries have tended to provide the models for the relationship between popular music and the industry that produces it. Given that two world wars were fought on European soil, with devastating material consequences, at key points in the development of the mass media, the industrialization of popular music has been defined disproportionately by the dominant and often controversial practices of the United States. It is also the case that the pivotal musical moment of the twentieth century in terms of cultural redefinition and structural change in music industry—the eruption of rock and roll—was centered in the United States in the 1950s, and expanded to Great Britain in the 1960s. More recently, however, the relationship between corporate capital and musical culture has transcended national boundaries, as the music industry has become an increasingly global phenomenon.
 
+> 与市场经济中的任何文化产业一样，音乐产业的作用从根本上说就是将其文化产品转化为经济回报。当然，这一过程受到技术进步的显著影响，这些技术进步决定了音乐的制作、传播和接收。要理解 20 世纪流行音乐的轨迹，从其作为一种基于民族的大众文化现象的开端，到其作为互动性跨国文化流动的全球系统的一部分的当前状态，人们必须追溯文化发展、技术进步、专业组织、政治斗争和经济力量之间不平衡的关系。由于技术进步和驱动它们的经济力量在历史上一直集中在工业化国家（主要是英国、西欧和美国），这些国家倾向于为流行音乐与生产它的产业之间的关系提供模式。鉴于两次世界大战都在欧洲土地上进行，在大众媒体发展的关键时期造成了毁灭性的物质后果，流行音乐的工业化在很大程度上受到美国占主导地位且常常备受争议的做法的影响。同样，20 世纪在文化再定义和音乐产业结构变革方面的关键音乐时刻——摇滚乐的爆发——集中于 20 世纪 50 年代的美国，并于 20 世纪 60 年代扩展到英国。然而，最近，随着音乐产业日益成为一种全球现象，企业资本与音乐文化之间的关系已经超越了国界。
+
+
 In broad strokes, the history of the music industry can be seen in three phases, each dominated by a different kind of organization:
 
 1. Music publishing houses, which occupied the power center of the industry when sheet music was the primary vehicle for disseminating popular music;  
 2. Record companies, which ascended to power as recorded music achieved dominance; and  
 3. Transnational entertainment corporations, which promote music as an ever-expanding series of "revenue streams"—record sales, advertising revenue, movie tie-ins, streaming audio on the Internet—no longer tied to a particular sound carrier.
+
+> 概括来说，音乐产业的历史可分为三个阶段，每个阶段都由不同类型的组织主导：
+>
+> 1. 音乐出版公司，当乐谱是传播流行音乐的主要载体时，它们占据了产业的权力中心；
+> 2. 唱片公司，随着录制音乐占据主导地位，它们崛起并掌握了权力；
+> 3. 跨国娱乐公司，它们将音乐推广为一系列不断扩大的“收入来源”——唱片销售、广告收入、电影搭售、互联网上的流媒体音频——不再与特定的声音载体绑定。
+
 
 Because the centrality of record companies has predominated in the second half of the twentieth century, this phase of development remains the popular conception of the music industry, even though its structure has shifted markedly in recent years. Consequently, the prevailing view of the popular music industry is that of record companies at the center, with radio, music videos, live concerts, booking agencies, management firms, indeed musicians themselves, playing various supporting roles. Because some of the major changes in popular music in the twentieth century can be traced to the technological developments that enabled record companies to displace publishing houses as the power center of the music business, the tendency is to use the terms "music industry" and "recording industry" synonymously. Initially, however, they were quite separate and there was little contact between the two.
 

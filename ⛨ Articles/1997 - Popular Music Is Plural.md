@@ -1,9 +1,14 @@
-# Popular Music Is Plural
+# **Popular Music Is Plural**
+**流行音乐是多元的**
 
 > RICHARD A. PETERSON
 
+---
+
 > RICHARD A. PETERSON teaches at Vanderbilt University and is an advisory editor of *Popular Music and Society*.
-> 理查德·Ａ·彼得森在范德堡大学任教，并担任《流行音乐与社会》的顾问编辑。
+> `理查德·Ａ·彼得森在范德堡大学任教，并担任《流行音乐与社会》的顾问编辑。`
+
+---
 
 In the fall of 1971, when the debut issue of *Popular Music and Society* appeared with a Las Vegas-conquering Elvis pictured on its cover, it seemed to many that rock music had swept before it all other forms of popular music. Indeed, in his inaugural editorial introduction, Ron Denisoff first uses the term "popular music," but by the second paragraph has switched to the term "rock." Perhaps uneasy about the apparent emphasis on rock, Ron starts the final paragraph: "As a closing point, it should be made explicit, Popular Music and Society is not exclusively a rock journal. Papers on swing, jazz, country and western, folk, polka, and other genres will not only be most welcome but eagerly sought" ("Introduction"[^5]).
 

@@ -504,96 +504,145 @@ Since the days of the early frontier circuit rider, the protest song has undergo
 
 > Lloyd Miller and James K. Skipper, Jr.
 
+```
+From "Sounds of Protest: Jazz and the Militant Avant-Garde" in Approaches to Deviance: Theories, Concepts, and Research Findings, edited by Mark Lefton, James K. Skipper, Jr., and Charles H. McCaghy. Copyright © 1968 by Appleton-Century-Crofts, Educational Division, Meredith Corporation. Reprinted by permission of publisher.
+```
+```
+选自马克·莱顿、詹姆斯·K·斯基珀 Jr. 和查尔斯·H·麦卡格编《越轨研究：理论、概念与研究发现》中的《抗议之声：爵士乐与激进前卫》。版权所有 © 1968 由阿普尔顿-世纪-克罗夫茨出版社，梅瑞狄斯公司教育分部所有。经出版商许可重印。
+```
+
 Historians of the future may well view the 1960's as the decade of social protest. Marches, strikes, boycotts, stand-outs, sit-ins, riots have become commonplace. One is surprised if a day passes without the reporting of yet another demonstration by: some group protesting for or against segregation in schools, housing or the labor market; housewives boycotting a grocery chain because of high prices; dairy farmers pouring milk in the street in protest against the low prices they receive for their product; nurses, teachers, and other public servants striking for higher wages; college professors marching in protest against American foreign policy; young men burning their draft cards; college students rioting for more freedom and power. The list could go on and on. Much has been written and will continue to be written about these obvious and conspicuous forms of social protest and what they symbolize.
 
-However, there are other forms of protest which are not so visible or obvious but are nonetheless powerful in their influence and worthy of attention. One of these is the protest represented in the art form of instrumentalized music (instrumentalized in the sociological sense). Music has always been an effective device for the release of cathartic responses relating to controversy, conflict, alienation, and even revolution. As such it often symbolizes the thoughts, feelings, and mood of the times. When we think of protest music today, we usually associate it with the category referred to generically as "Folk." The civil
+> 未来的史学家很可能会将 20 世纪 60 年代视为社会抗议的十年。游行、罢工、抵制、静坐、占领、暴乱已成为司空见惯的现象。如果哪一天没有报道新的抗议活动，反而令人惊讶：某些团体为反对或支持学校、住房或劳动力市场中的种族隔离而示威；家庭主妇因物价过高而抵制连锁超市；奶农为抗议低廉的牛奶收购价而将牛奶倾倒在街头；护士、教师及其他公共部门员工为争取更高工资而罢工；大学教授游行抗议美国的外交政策；青年男子焚烧征兵卡；大学生为争取更多自由与权力而暴动。这样的例子不胜枚举。关于这些显而易见且引人注目的社会抗议形式及其象征意义，已有大量著述，并且还将持续不断地被书写。
 
-From "Sounds of Protest: Jazz and the Militant Avant-Garde" in Approaches to Deviance: Theories, Concepts, and Research Findings, edited by Mark Lefton, James K. Skipper, Jr., and Charles H. McCaghy. Copyright © 1968 by Appleton-Century-Crofts, Educational Division, Meredith Corporation. Reprinted by permission of publisher.
+However, there are other forms of protest which are not so visible or obvious but are nonetheless powerful in their influence and worthy of attention. One of these is the protest represented in the art form of instrumentalized music (instrumentalized in the sociological sense). Music has always been an effective device for the release of cathartic responses relating to controversy, conflict, alienation, and even revolution. As such it often symbolizes the thoughts, feelings, and mood of the times. When we think of protest music today, we usually associate it with the category referred to generically as "Folk." The civil rights song "We Shall Overcome" is a popular and perhaps representative example of this type of social protest music.
 
-rights song "We Shall Overcome" is a popular and perhaps representative example of this type of social protest music.
+> 然而，还存在其他形式的抗议，它们虽不显眼或明显，但其影响力强大，值得关注。其中之一便是以工具化音乐（在社会学意义上的工具化）这一艺术形式所表现的抗议。音乐一直是释放与争议、冲突、疏离乃至革命相关的宣泄反应的有效手段。因此，它常象征着那个时代的思想、情感与氛围。如今，当我们提及抗议音乐时，通常将其归为泛称的 “Folk” 类别。民权歌曲《We Shall Overcome》便是这类社会抗议音乐中一个流行且具代表性的例子。
 
 However, there is a far less commercial area of contemporary American music which is also producing the sounds of protest. This is the jazz idiom. Jazz music is one of America's unique contributions to world culture, and it is this unique identity which makes jazz of importance in terms of social protest. The roots of jazz are undoubtedly in the rural milieu of the southern Negro, having origins in the field songs and chants of plantation days. Significant as this historical rural setting was vis-à-vis the chant and the blues, the maturity of jazz expression today is a characteristically urban phenomenon. It is an expression of the view from the ghetto, urban tension, alienation, and anomic response. Its bold, lean, and sometimes shocking cacophony lends itself to this purpose. Jazz has never been committed to the preservation of the past, or for that matter to passive acceptance of the present. Its very essence is dedication to outdated itself daily. This does not mean that the projection into the future occurs in limbo but that it represents both functional and dysfunctional values of the present, and at the same time is a reaction to these values as well as a prediction of values to come.
 
+> 然而，在美国当代音乐中还存在一个商业化程度较低、同样发出抗议之声的领域，那就是爵士乐。爵士乐是美国对世界文化独特的贡献之一，正是这种独特性使其在社会抗议层面具有重要意义。爵士乐的根源无疑植根于南方黑人的乡村环境，起源于种植园时代的田间歌谣与吟唱。尽管这种历史性的乡村背景对吟唱和蓝调音乐至关重要，但如今成熟的爵士表达已成为典型的都市现象。它表达了来自贫民窟的视角、都市的紧张感、疏离感以及失范的回应。其大胆、简练且时而震撼的不和谐音恰好服务于这一目的。爵士乐从未致力于保存过去，亦不消极接受当下。其本质恰恰在于日复一日地自我革新。这并不意味着对未来的投射是虚无的，而是既体现当下功能性又体现功能障碍性的价值观，同时既是对这些价值观的反抗，也是对即将到来的价值观的预言。
+
 Jazz has always been a disturbing element on the American scene. To the uninitiated ear, its sounds are often strange, exotic, and unpredictable. It commits the sin of nonconformity to the norms of traditional music. In addition, to a large portion of the white community, jazz has been stereotyped as "race music." As such it has been discriminated against in much the same way that the American Negro has himself. For example, the circular that appears on... page 28 appeared recently in, of all places, New Orleans, Louisiana.
 
-Finally, the jazz musician is somewhat of a deviant. He is completely dedicated to the small world of his type of music: a "true believer" "with the zeal of a fanatic." He is unconcerned with the demands of those outside his own perspective. His image has been tarnished by an association with drink, drugs, and dives. Many of the early artists grew up around and played in the brothels of New Orleans' infamous red light district—"Storyville." This was the initial association of jazz with sin and sex. The urban working environment of the musician was never very conducive to the middle class standards of the good life. Working almost exclusively at night in smoke-filled clubs in the more seamy sections of major metropolitan areas, surrounded by liquor, and in constant association with underworld elements, often made overindulgence in alcohol and narcotics both feasible and enticing. So great has been the jazz musician's association with drugs that at one time the federal hospital at Lexington, Kentucky
+> 爵士乐在美国社会场景中始终是一个令人不安的因素。对于不熟悉爵士乐的耳朵而言，其声响常常显得怪异、陌生且难以预测。它触犯了不遵从传统音乐规范的禁忌。此外，在大部分白人群体中，爵士乐被刻板地归类为“种族音乐”。正因如此，它遭受的歧视与美国黑人自身所经历的如出一辙。例如，出现在第28页的那则公告，最近竟在路易斯安那州的新奥尔良出现了。
 
-was able to field an entire all-star band of addict inmates.2 Primarily for these reasons the Negro jazz musician and his ever changing and evolving music have never been well accepted by the vast majority of the general society.
+Finally, the jazz musician is somewhat of a deviant. He is completely dedicated to the small world of his type of music: a "true believer" "with the zeal of a fanatic." He is unconcerned with the demands of those outside his own perspective.[^1-2-1] His image has been tarnished by an association with drink, drugs, and dives. Many of the early artists grew up around and played in the brothels of New Orleans' infamous red light district—"Storyville." This was the initial association of jazz with sin and sex. The urban working environment of the musician was never very conducive to the middle class standards of the good life. Working almost exclusively at night in smoke-filled clubs in the more seamy sections of major metropolitan areas, surrounded by liquor, and in constant association with underworld elements, often made overindulgence in alcohol and narcotics both feasible and enticing. So great has been the jazz musician's association with drugs that at one time the federal hospital at Lexington, Kentucky was able to field an entire all-star band of addict inmates.[^1-2-2] Primarily for these reasons the Negro jazz musician and his ever changing and evolving music have never been well accepted by the vast majority of the general society.
 
+```
 NOTICE!
+注意！
+---
 
-# STOP
+STOP
+停下
 
 Help Save the Youth of America
+帮助拯救美国的青年
 
-# DON'T BUY NEGRO RECORDS
+DON'T BUY NEGRO RECORDS
+不要购买黑人唱片
 
 (If you don't want to serve negroes in your place of business, then do not have negro records on your juke box or listen to negro records on the radio.)
+（如果你不希望在你的营业场所为黑人服务，那么就不要在点唱机中放置黑人唱片，也不要收听广播中的黑人音乐。）
 
 The screaming, idiotic words, and savage music of these records are undermining the morals of our white youth in America.
+这些唱片中尖声叫喊、荒谬的歌词和野蛮的音乐，正在腐蚀美国白人青年的道德。
 
 Call the advertisers of the radio stations that play this type of music and complain to them!
+致电播放此类音乐的广播电台的广告商，向他们提出抗议！ 
 
 Don't Let Your Children Buy, or Listen To These Negro Records
+不要让你的孩子购买或收听这些黑人唱片
+---
 
 For additional copies of this circular, write
-
-# CITIZEN'S COUNCIL OF GREATER NEW ORLEANS, INC.
-
+CITIZEN'S COUNCIL OF GREATER NEW ORLEANS, INC.
 509 Delta Building, New Orleans, Louisiana 70112
+如需更多本传单副本，请致信：  
+新奥尔良大都会公民委员会，公司  
+路易斯安那州新奥尔良市 Delta 大楼 509 号，邮编 70112
 
-# A Glance at the Past
+```
+
+### A Glance at the Past
+**回顾过去**
 
 Most Americans are ignorant of African prehistory and history. There is little realization that the American Negro was brought to this country from societies whose culture placed great emphasis on social change, especially in the verbal arts. Topical songs, for example, are common in African cultures. Although they may be based on old rhythms and melodies, their texts are composed for specific occasions and are essentially creative commentaries on the present social scene. When an African dons a mask and performs certain dances or sings about people and events, he is no longer acting as a person but as a being or spirit. In this role, he often has freedom for comments on social relations and for actions that, if unmasked, would produce social friction or hostility.
 
+> 大多数美国人对非洲的史前历史与历史知之甚少。人们很少意识到，美国黑人是从那些高度重视社会变迁——尤其是口头艺术——的文化社会中被带到这个国家的。例如，主题歌曲在非洲文化中十分常见。尽管这些歌曲可能基于古老的节奏与旋律，但其歌词专为特定场合创作，本质上是对当下社会景象的创造性评论。当一位非洲人戴上面具，表演特定舞蹈或歌唱人物与事件时，他不再以个人身份行动，而是作为一个存在或灵魂。在这一角色中，他通常拥有评论社会关系的自由，并能做出一些若以真面目示人便会引发社会摩擦或敌意的行为。
+
 It may not be an exaggeration to observe that when the African Negro came to America he brought this cultural trait with him. In the work songs and chants of the plantation fields, when he cried out to his brothers, "Ahm tired a dis mess/Oh, yes, Ahm tired a dis mess," he was commenting on society, but now as an American. This tradition has remained with him. While he no longer hides behind a tribal mask, to commune with spirits, he may symbolically take refuge behind a horn, a drum, a piano, or a voice to give expression to his deepest thoughts and feelings. These expressions take many different forms. Examples are the "shout" (to utter a sudden loud cry), the "shout song" (a rhythmic religious song characterized by responsive singing between leader and congregation), and the "moan" (to make a low, prolonged sound of grief or pain). These utterances represent the beginnings of Negro protest under the bonds of slavery. However the "cry" (an inarticulate utterance of distress, rage, or pain; to cry out for help or to proclaim publicly) is unique, because it is the quintessence of the new sound of protest in avant-garde jazz today.
+
+> 可以毫不夸张地说，当非洲黑人来到美国时，他带来了这种文化特征。在种植园田野的劳动号子和吟唱中，当他向兄弟们呼喊：“我厌倦了这该死的活计/哦，是的，我厌倦了这该死的活计”时，他是在对社会发表评论，而如今，作为一名美国人，这一传统依然伴随着他。虽然他不再躲在部落面具后面与神灵交流，但他可能象征性地躲在号角、鼓、钢琴或声音后面，以表达他最深的思想和感情。这些表达形式多种多样。例如，“shout”（发出突然的大声呼喊）、“shout song”（一种有节奏的宗教歌曲，以领唱和会众之间的应答歌唱为特征）和“moan”（发出低沉、 prolonged 的悲伤或痛苦声音）。这些发声代表了在奴隶制束缚下黑人抗议的开端。然而，“cry”（一种表达痛苦、愤怒或疼痛的含糊发声；呼喊求助或公开宣告）具有独特性，因为它是当今前卫爵士乐中新型抗议声音的精髓。
 
 The bondage of slavery evoked the cry, as represented in the work songs, and the shouts and moans were strident laments. They were also chronicles, but of such a mean kind of existence that they could not assume the universality any lasting musical form must have. The work songs and later blues forms differ profoundly, not only in their form but in their lyrics and intent. Since most Negroes before and after slavery were agricultural laborers, the corn songs, the shouts, and hollers issued from this kind of milieu. Some of the work songs used as their measure the grunt of a man pushing a heavy weight or the blow of a hammer against rock to provide the metrical precision and rhythmical impetus behind the singer. Probably one of the best known examples, is the traditional "Take This Hammer."
 
-Take this hammer, uh;
+- Take this hammer, uh;
+- Take it to the captain, uh;
+- Take it to the captain, uh;
+- Tell him I'm gone.
 
-Take it to the captain, uh;
-
-Take it to the captain, uh;
-
-Tell him I'm gone.
+> 奴隶制的束缚引发了“cry”，正如在工作歌曲中所表现的那样，喊叫和呻吟是刺耳的哀歌。它们也是编年史，但属于如此卑微的存在，以至于它们无法承担任何持久音乐形式必须具有的普遍性。劳动歌曲与后来的布鲁斯形式在形式、歌词和意图上都有深远的差异。由于奴隶制前后大多数黑人都是农业劳动者，因此 corn songs、shouts 和 hollers 都源于这种环境。一些劳动歌曲以一个人推重物时的咕噜声或锤子击打岩石的声音作为节奏，为歌手提供韵律精确性和节奏动力。可能最著名的例子之一是传统的《Take This Hammer》。
+> 
+> - 拿起这把锤子，呃；  
+> - 把它交给船长，呃；  
+> - 把它交给船长，呃；  
+> - 告诉他我走了。
 
 Because of his status as a slave, there were lyrics to some of the songs that the Negro could not sing in front of his master. The protest was there, nonetheless, and while it could not be given free and strong expression, its importance as a mechanism for cathartic release cannot be underestimated. As the slaves were introduced to Christianity, gospel singing also served the same purpose. The Negro's religious music and spirituals were possibly the first completely native American music.
 
+> 由于其奴隶身份，黑人无法在主人面前歌唱某些歌词。然而抗议之声依然存在，尽管无法自由而强烈地表达，但其作为宣泄释放机制的重要性不容低估。当奴隶们接触基督教后，福音歌唱同样起到了这一作用。黑人的宗教音乐与灵歌，很可能是最早完全本土化的美国音乐。
+
 The church was an important part of the slave's life. For the white masters who had "given Christianity to the heathens," it was seen as a socializing influence and a means of social control. For the Negro, it was to become the one institution where he could escape, momentarily, from a subhuman existence.
+
+> 教堂是奴隶生活中的重要组成部分。对于那些“将基督教带给异教徒”的白人主人而言，教堂被视为一种社交教化工具与社会控制手段。而对于黑人而言，教堂逐渐成为他们能够暂时逃离非人处境的唯一场所。
 
 It was not until well after Emancipation that the Negro experienced any real secular life. Often the churches considered "fiddle songs," "devil songs," and "jig tunes" of the period sinful. Certain musical instruments such as the violin and banjo were also thought to be "the devil's invention."
 
+> 黑奴解放运动后很久，黑人才开始体验真正的世俗生活。当时的教会常将这一时期的“提琴歌曲”、“魔鬼歌曲”和“ jig 调”视为罪恶。某些乐器如小提琴和班卓琴，也曾被认为是“魔鬼的发明”。
+
 As the Negro church became institutionalized in the image of the white model, a definite social hierarchy developed. Ministers, deacons, elders, trustees, and even the ushers of the Baptist and Methodist churches formed a definite social hierarchy which dominated the whole of Negro society. In the new theocracy, the "backslider" (the sinning churchgoer) and the "heathen" became the lowest rung of the social ladder.
+
+> 随着黑人教会在白人模式的框架下逐渐制度化，一种明确的社会等级体系随之形成。浸信会与卫理公会的牧师、执事、长老、理事乃至引座员，共同构成了一个支配整个黑人社会的明确等级结构。在这种新的神权体系中，“背道者”（指犯罪的信徒）与“异教徒”沦为社会阶梯的最底层。
 
 With the end of slavery there was less dependency on the church as arbiter of the Negro's life style. As the alternatives of secular life began to take shape, there were more and more "backsliders" and, consequently, more and more of the devil music was heard. With emancipation came increasing mobility. The Negro began to leave the plantation for the city in hopes of finding work and a better way of life. In many respects his rural background left the Negro ill-prepared to adjust and adapt to the more complex patterns of urban living. The frustrations, tension, and anxieties encountered in these new settings were symbolized in a new style of music—"the classic blues."
 
-Louis Wirth classified minorities into four basic types: (1) pluralistic—live and let live, (2) assimilationist—desire to join the dominant group, (3) secessionist—rejection of the values and norms of the dominant group, and (4) militant—desire to dominate. It is our contention that jazz today, in its most progressive form, is rapidly becoming instrumentalized as protest and that its evolution as such conforms to the Wirth paradigm with a surprising "goodness of fit."
+> 随着奴隶制的终结，黑人生活方式对教会仲裁者的依赖逐渐减弱。当世俗生活的替代选择开始成形时，出现了越来越多的“背道者”，相应的，魔鬼音乐也愈发频繁地回响于耳畔。解放带来了日益增强的流动性。黑人开始离开种植园前往城市，期望寻找工作与更好的生活方式。在许多方面，乡村背景使黑人难以适应和融入更复杂的城市生活模式。在这些新环境中遭遇的挫折、紧张与焦虑，通过一种崭新的音乐风格得以象征性表达——“经典蓝调”。
 
-# Pluralistic Stage
+Louis Wirth classified minorities into four basic types: (1) pluralistic—live and let live, (2) assimilationist—desire to join the dominant group, (3) secessionist—rejection of the values and norms of the dominant group, and (4) militant—desire to dominate. It is our contention that jazz today, in its most progressive form, is rapidly becoming instrumentalized as protest and that its evolution as such conforms to the Wirth paradigm with a surprising "goodness of fit."[^1-2-3]
+
+> Louis Wirth 将少数群体划分为四种基本类型：(1) 多元共存型——和平共处、互不干涉，(2) 同化主义型——渴望融入主导群体，(3) 分离主义型——拒斥主导群体的价值观与规范，以及 (4) 激进抗争型——意图取得支配地位。我们认为，当今最具进步性的爵士乐形式正迅速被工具化为抗议之声，而其在此方向上的演变惊人地契合 Wirth 的理论范式，呈现出高度的“拟合优度”。[^1-2-3]
+
+### Pluralistic Stage
+**多元阶段**
 
 Classic blues is called "classic" because it was the music that seemed to contain all the diverse and conflicting elements of Negro music, plus the smoother emotion of the performance. It was the first Negro music that appeared in a formal context as entertainment. It is probably the end product of more diverse sociological, as well as musical, influences than any other music with the exception of jazz. In contrast to primitive blues, which emerged from the worksong era and was characterized by the mastery of simple musical instruments such as the banjo and guitar, classic blues became more stylized and reflected many changes that were taking place in the life of the Negro. It also reflected the urban way of life, in contrast to the rural environment of the past. The blues communicated the pluralistic desire to be accepted, of a people free, but still in economic bondage. Blues are simple and elemental, but they express the profound depths of suffering, sense of defeat, and downheartedness of the Negro. Yet they are not intrinsically pessimistic. In many of the blues, there is a steady, throbbing undertone of hope. "Times is bad, but they won't be bad always" is the lyric carried in a score of blues songs. For example, in the classic "Trouble In Mind," regardless of the specific troubles the performer may be singing about (women, money, liquor, unemployment, etc.), the last lyric always centers on the theme that someday the sun will shine on the individual again.
 
+> 经典蓝调之所以被称为“经典”，是因为这种音乐似乎包含了黑人音乐中所有多样且相互冲突的元素，再加上表演中更为流畅的情感表达。它是最早以正式娱乐形式出现的黑人音乐。除了爵士乐之外，它可能是受社会学和音乐影响最为多样化的音乐形式。与原始蓝调相比，经典蓝调更加风格化，并反映了黑人生活中发生的诸多变化。原始蓝调起源于劳动号子时代，以班卓琴和吉他等简单乐器的娴熟运用为特点。经典蓝调还反映了城市生活方式，与过去的乡村环境形成鲜明对比。蓝调音乐传达了一种渴望被接纳的多元愿望，它源自一群虽获自由却仍受经济束缚的人们。蓝调简单而质朴，却深刻表达了黑人所承受的痛苦、挫败感与沮丧。然而，蓝调本质上并非悲观的。在许多蓝调歌曲中，始终跃动着一种沉稳而持久的希望底色。“时运不济，但不会永远如此”——这句歌词反复出现在众多蓝调作品中。例如，在经典曲目《Trouble In Mind》中，无论歌者具体吟唱何种困境（情感、金钱、酗酒、失业等），最后的歌词总回归同一主题：终有一日，阳光会再次照耀到个体身上。
+
 Blues are also characterized by lusty vulgarity, sensuality, and exuberance for life, love, and sex. The suggestive titles of many popular blues songs hint at these themes: "She Can Love So Good," "Drive Me Daddy," "Don't Come Too Soon," "Cherry Red," "Feather Bed Mama," "Let Me Play With Your Poodle," "Mother Fuyer." From "barrel-houses" and "honky-tonks" came many of the descriptive words which were applied to the music played there. Included were such graphic terms as "gulley-low," meaning, as its name implies, low as a ditch or gulley; hence, "low-down" and "gut-bucket." This was in reference to the bucket which caught drippings or "gutterings" from the barrels. Invariably, a pastiche for all this was provided by a small band, notable for their lack of restraint.
 
-# Assimilationist Stage
+> 布鲁斯音乐还以其粗犷直白、感官色彩以及对生活、爱情与性的热烈赞颂而著称。许多流行布鲁斯歌曲的暗示性标题便透露出这些主题：如《She Can Love So Good》、《Drive Me Daddy》、《Don't Come Too Soon》、《Cherry Red》、《Feather Bed Mama》、《Let Me Play With Your Poodle》、《Mother Fuyer》等。从“barrel-houses”（廉价酒吧）与“honky-tonks”（喧闹舞厅）中，诞生了许多用于描述当地音乐的生动词汇。其中包括诸如“gulley-low”这样形象的术语——顾名思义，指如沟渠般低沉；由此衍生出“low-down”与“gut-bucket”等表达。这源于承接桶中滴漏物（即“gutterings”）的容器意象。这些场所的音乐氛围，总由一支以毫无拘束著称的小型乐队所营造。
 
-The emergence of classic blues and the popularization of jazz occurred at approximately the same time. Both were the results of social and psychological changes within the Negro community as it moved toward the mainstream of American society. By 1914 masses of Negroes began to move toward the northern industrial centers such as Chicago, Detroit, and New York in hopes
+### Assimilationist Stage
+**同化阶段**
 
-of high-paying jobs and a better way of life. But the urban milieu proved harsh, and invariably Negroes received the lowest wages and the most debasing jobs. For many it was simply a new form of slavery. World War I played an important role in the assimilation of the Negro into secular life. It tended to broaden his horizons to the world beyond America and the realization that the inequalities he experienced were not necessarily the inevitable lot of the Negro.
+The emergence of classic blues and the popularization of jazz occurred at approximately the same time. Both were the results of social and psychological changes within the Negro community as it moved toward the mainstream of American society. By 1914 masses of Negroes began to move toward the northern industrial centers such as Chicago, Detroit, and New York in hopes of high-paying jobs and a better way of life. But the urban milieu proved harsh, and invariably Negroes received the lowest wages and the most debasing jobs. For many it was simply a new form of slavery. World War I played an important role in the assimilation of the Negro into secular life. It tended to broaden his horizons to the world beyond America and the realization that the inequalities he experienced were not necessarily the inevitable lot of the Negro.
 
 It was during this period that jazz began to develop in New Orleans and other sections of the South. As the Negro migrated north, the influence of this new music spread to the major metropolitan areas, but especially Chicago, Kansas City, and New York. Jazz was not so much a successor to the blues as it was a seminal music that developed out of, but independent of, the blues. It was an artistic form of expression, a type of communication between those experiencing the plight of existence in big-city slums.
 
 During the late 1920's and 1930's the white community came in contact with jazz and a number of white musicians began to learn and imitate this music.5 White bands were formed and gained a high degree of proficiency, popularity, and financial success during the "Swing era." However, inevitably, the feeling of rejection the Negro was experiencing in the urban milieu and society at large began to manifest itself in his music. At about the time white musicians began to understand and master the new type of music, the form of jazz changed radically. It turned its back on the past.6 The new sounds of the 1940's began to evoke strange, sympathetic, and to many, mystifying vibrations. The incipient pitch of protest, a musical harbinger of things to come, had begun.
 
-# Secessionist Stage
+### Secessionist Stage
+**分离主义阶段**
 
 The emergence of identifiable alienation in jazz began in the middle 1940's. It was known generically as "bop" and became a movement of major proportions. Charlie Parker and Dizzy Gillespie were the major innovators of the period and usually receive the lion's share of credit for its development.
 
 The two main alienating factors in the bop era were the growing complexity of the music which many musicians did not understand, let alone the general public, and the bop artist's quest to individualize his own identity. Acceptance per se was no longer a goal. He began to "de-minstrelize" himself. Gillespie launched a broadside against Negro stereotypes. He began wearing sneakers,
 
 $^4$  Barry Ulanov, Handbook of Jazz (New York, Viking Press, 1959), pp. 5-6.  
-However, a few white musicians were playing a type of jazz almost from the beginning. See Joachim Berendt, The New Jazz Book (New York, Hill and Wang, 1962), pp. 10-12.  
+5However, a few white musicians were playing a type of jazz almost from the beginning. See Joachim Berendt, The New Jazz Book (New York, Hill and Wang, 1962), pp. 10-12.  
 $^{6}$  John S. Wilson, *Jazz: The Transition Years* 1940-1960 (New York, Appleton-Century-Crofts, 1966), p. 26.
 
 baseball cap, goatee, and heavy horn-rimmed glasses. Between trumpet excursions into regions of startling technical brilliance, he quoted Shakespeare extensively and accurately, both on and off the bandstand.[7]
@@ -641,6 +690,18 @@ These men and their music are deviant; not only in the general society, but also
 Without a "critical mass" of social protest of some form, few basic structural changes take place in society. The radical, yeasty element in the "new music" may be one manifestation of this "critical mass." At what point do the elements of social fermentation reach the proper proportions for fusion? It appears that the threshold was approached in the recent riots in the Negro ghettoes of New York, Cleveland, Chicago, Los Angeles, Newark, Detroit, and a host of other metropolitan areas.
 
 This, then, is protest. Protest with a sound. A sound with a semantic thrust which demands to be heard, will not be silenced, and should not be overlooked.
+
+---
+
+## NOTES
+**注**
+
+[^1-2-1]: For a discussion of this point see Howard S. Becker, "The Professional Dance Musician and His Audience," American Journal of Sociology, 58 (1951), pp. 136-142 [reprinted in this volume as Article 20]; and Alan P. Merriam and Raymond Mack, "The Jazz Community," Social Forces, 38 (1960), pp. 211-222.  `关于这一点的讨论，参见霍华德·S·贝克尔的《职业舞曲乐手及其观众》，载《美国社会学杂志》第58卷（1951年），第136–142页[本文集重印为第20篇论文]；以及艾伦·P·梅里亚姆和雷蒙德·麦克的《爵士乐社群》，载《社会力量》第38卷（1960年），第211–222页。`
+
+[^1-2-2]: Leonard Feather, Encyclopedia of Jazz (New York, Bonanza Books, 1962), p. 85.  `伦纳德·费瑟，《爵士百科全书》（纽约，博纳扎图书，1962年），第85页。`
+
+---
+
 
 ## **3. COUNTRY MUSIC: BALLAD OF THE SILENT MAJORITY**
 **乡村音乐：沉默大多数的民谣**

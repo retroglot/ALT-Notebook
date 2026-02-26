@@ -19,7 +19,7 @@ It is worth mentioning that the TCP/IP architecture evolved from work that addre
 
 > 值得一提的是，TCP/IP 架构源于为实现多个不同分组交换计算机网络互连而开展的工作[^CK74]。这一目标通过一组网关（后来称为路由器）实现，这些网关在各个原本不兼容的网络之间提供翻译功能。由此形成的“串联”网络或catenet（后来称为互联网）将更具实用性，因为更多提供多样化服务的节点能够相互通信。早在协议架构完全开发之前，人们就已经预见了全球网络可能提供的各种用途。
 
-In 1968, for example, J. C. R. Licklider and Bob Taylor foresaw the potential uses for a global interconnected communication network to support "supercommunities" [^LT68] :
+In 1968, for example, J.C.R.Licklider and Bob Taylor foresaw the potential uses for a global interconnected communication network to support "supercommunities" [^LT68] :
 
 - Today the on-line communities are separated from one another functionally as well as geographically. Each member can look only to the processing, storage and software capability of the facility upon which his community is centered. But now the move is on to interconnect the separate communities and thereby transform them into, let us call it, a supercommunity. The hope is that interconnection will make available to all members of all the communities the programs and data resources of the entire supercommunity . . . The whole will constitute a labile network of networks—ever-changing in both content and configuration.
 

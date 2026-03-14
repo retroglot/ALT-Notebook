@@ -1,7 +1,7 @@
 # **Locating Power in Platformization: Music Streaming Playlists and Curatorial Power**
 **平台化中的权力定位：音乐流媒体歌单与策展权力**
 
-> Robert Prey
+> ROBERT PREY
 
 > Robert Prey, Center for Media and Journalism Studies, University of Groningen, P.O. Box 716, 9700 AS Groningen, The Netherlands.
 > 

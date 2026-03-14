@@ -1,4 +1,4 @@
-# Platforms, promotion, and product discovery：Evidence from Spotify playlists
+# **Platforms, promotion, and product discovery：Evidence from Spotify playlists**
 **平台、推广与产品发现：来自 Spotify 播放列表的证据**
 
 > LUIS AGUIAR, JOEL WALDFOGEL

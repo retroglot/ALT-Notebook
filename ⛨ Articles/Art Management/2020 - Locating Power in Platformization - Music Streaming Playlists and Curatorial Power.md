@@ -5,6 +5,8 @@
 
 > Robert Prey, Center for Media and Journalism Studies, University of Groningen, P.O. Box 716, 9700 AS Groningen, The Netherlands.
 > 
+> Robert Prey (PhD Simon Fraser University) is an assistant professor in the Centre for Media and Journalism Studies at the University of Groningen. His research lies at the intersection of technology, political economy, and culture.
+> 
 > Email: [r.prey@rug.nl](mailto:r.prey@rug.nl)
 
 # ABSTRACT
@@ -171,260 +173,281 @@ To further exploit the commercial potential of playlists, Spotify launched "Bran
 
 > 为了进一步挖掘播放列表的商业潜力，Spotify 推出了“Branded Moments”，这是一个试图利用播放列表提供的实时洞察来了解听众参与活动的项目。正如 Spotify 的全球合作伙伴解决方案副总裁 Danielle Lee 所说，“用户为生活中的不同时刻创建非常具体的播放列表，无论是为晚餐派对或生日派对做计划，还是不同类型的锻炼，[比如]瑜伽或跑步”（引自 Weissbrot, 2017）。通过 Branded Moments，品牌可以根据播放列表名称和音乐来定位非高级听众，这些音乐对应七种不同的“时刻”：Chill、Dinner、Focus、Party、Sleep、Workout 和 Dayparts（Spotify for Brands, n.d.-c）。最近，Spotify 已开始允许品牌赞助其旗舰个性化播放列表“Discover Weekly”。其他个性化播放列表，如“Release Radar”和“Daily Mix”，也正在考虑用于品牌赞助（Tiffany, 2019）。
 
-Liz Pelly (2017) argues that "playlists exist largely to make music more easily commodifiable."7 From a marketer's perspective, playlists are disembodied contexts, desires, and moods that can be assembled and reassembled around potential consumers. While Spotify has leveraged its vast data set of over 200 petabytes (United States Securities and Exchange Commission, 2018) to build playlists around almost every conceivable mood or moment, brands can now leverage these same playlists to target these very same moods and moments. Reporting on the launch of Spotify's "Branded Moments" program, *Advertising Age* explains how the drink-maker Bacardi is "sponsoring party moments" to introduce its "We Are the Night" campaign. The company will be "trying to hit consumers when they're either 'pre-gaming' or in the Uber on the way to a night out" (Sloane, 2016). "Based on the playlists that they're activating, we know the moments they are in," remarked Spotify's Danielle Lee (quoted in Sloane, 2016). These moments, according to Liberty Kelly, Spotify Head of Sales for the Americas, "are all opportunities now for a brand to come in and own" (BeetTV, 2016). Thus, playlists not only provide Spotify with some control over the music market, they also facilitate the curation of listeners for brands in the advertising market.
+Liz Pelly (2017) argues that "playlists exist largely to make music more easily commodifiable."[^7] From a marketer's perspective, playlists are disembodied contexts, desires, and moods that can be assembled and reassembled around potential consumers. While Spotify has leveraged its vast data set of over 200 petabytes (United States Securities and Exchange Commission, 2018) to build playlists around almost every conceivable mood or moment, brands can now leverage these same playlists to target these very same moods and moments. Reporting on the launch of Spotify's "Branded Moments" program, *Advertising Age* explains how the drink-maker Bacardi is "sponsoring party moments" to introduce its "We Are the Night" campaign. The company will be "trying to hit consumers when they're either 'pre-gaming' or in the Uber on the way to a night out" (Sloane, 2016). "Based on the playlists that they're activating, we know the moments they are in," remarked Spotify's Danielle Lee (quoted in Sloane, 2016). These moments, according to Liberty Kelly, Spotify Head of Sales for the Americas, "are all opportunities now for a brand to come in and own" (BeetTV, 2016). Thus, playlists not only provide Spotify with some control over the music market, they also facilitate the curation of listeners for brands in the advertising market.
 
-However, just as in the music market, "curatorial power" in the market for advertising is both precarious and contingent on many factors that are outside of Spotify's control. One pronounced threat is in attracting brands to Spotifycurated playlists in the first place. Brands must want to target listeners via the "moments" and the playlists Spotify offers instead of opting for reaching listeners through cheaper programmatic ads. As any casual user of Spotify's ad-supported version can attest, marketers have for the most part declined the opportunity to utilize Spotify's wealth of data to target listeners. As Vonderau (2019, p. 11) points out, marketers, "have not generally adopted Spotify's high value, 'premium environment for premium brands' vision at scale so far and are not regularly using the service's targeting features."8 Instead, most advertisers choose broad reach over microtargeting (Eriksson et al., 2019, p. 156). Frequent complaints by Spotify users on the Spotify Community forum about the inappropriateness of ads demonstrates this. This presents a problem for Spotify, as the platform can charge a higher CPM for targeted ads. Spotify is struggling to increase the value generated from its ad-supported tier. The service generated an average of just 1.03 euros per free listener in the first quarter of 2018, compared to 13.83 euros per Premium subscriber over the same period (Levy, 2018).
+> Liz Pelly （2017）认为“播放列表的存在很大程度上是为了让音乐更容易商品化。”[^7] 从营销者的角度来看，播放列表是脱离实体的情境、欲望和情绪，可以围绕潜在消费者进行组装和重新组装。尽管 Spotify 利用其超过 200 PB 的庞大数据集（美国证券交易委员会，2018）围绕几乎每一种可想象的情绪或时刻构建播放列表，品牌现在可以利用这些相同的播放列表来定位这些相同的情绪和时刻。报道 Spotify 的“品牌时刻”项目启动，Advertising Age 解释了饮料制造商 Bacardi 如何“赞助派对时刻”来推出其“We Are the Night”活动。该公司将“试图在消费者‘预热’或在 Uber 上前往夜生活时触达他们”（Sloane，2016）。“基于他们激活的播放列表，我们知道他们所处的时刻，”Spotify 的 Danielle Lee 评论道（引自 Sloane，2016）。这些时刻，据 Spotify 美洲销售主管 Liberty Kelly 所说，“现在都是品牌进入并拥有的机会”（BeetTV，2016）。因此，播放列表不仅为 Spotify 提供对音乐市场的某些控制，还促进了广告市场中品牌对听众的策展。
+
+However, just as in the music market, "curatorial power" in the market for advertising is both precarious and contingent on many factors that are outside of Spotify's control. One pronounced threat is in attracting brands to Spotifycurated playlists in the first place. Brands must want to target listeners via the "moments" and the playlists Spotify offers instead of opting for reaching listeners through cheaper programmatic ads. As any casual user of Spotify's ad-supported version can attest, marketers have for the most part declined the opportunity to utilize Spotify's wealth of data to target listeners. As Vonderau (2019, p. 11) points out, marketers, "have not generally adopted Spotify's high value, 'premium environment for premium brands' vision at scale so far and are not regularly using the service's targeting features."[^8] Instead, most advertisers choose broad reach over microtargeting (Eriksson et al., 2019, p. 156). Frequent complaints by Spotify users on the Spotify Community forum about the inappropriateness of ads demonstrates this. This presents a problem for Spotify, as the platform can charge a higher CPM for targeted ads. Spotify is struggling to increase the value generated from its ad-supported tier. The service generated an average of just 1.03 euros per free listener in the first quarter of 2018, compared to 13.83 euros per Premium subscriber over the same period (Levy, 2018).
+
+> 然而，正如在音乐市场中一样，广告市场中的“策展力”既不稳定，又依赖于许多 Spotify 无法控制的因素。一个显著的威胁首先在于吸引品牌加入 Spotify 策展的播放列表。品牌必须希望通过 Spotify 提供的“时刻”和播放列表来定位听众，而不是选择通过更便宜的程序化广告来触达听众。正如任何使用 Spotify 广告支持版本的普通用户都可以证明的那样，营销人员大多拒绝了利用 Spotify 丰富数据来定位听众的机会。正如 Vonderau（2019 年，第 11 页）指出的那样，营销人员“迄今为止尚未普遍采纳 Spotify 的高价值、‘为高端品牌打造的高端环境’愿景，并且没有定期使用该服务的定位功能。”[^8] 相反，大多数广告主选择广泛覆盖而非微定位（Eriksson 等人，2019 年，第 156 页）。Spotify 用户在 Spotify 社区论坛上对广告不恰当性的频繁投诉证明了这一点。这对 Spotify 来说是一个问题，因为该平台可以对定向广告收取更高的 CPM。Spotify 正在努力提升其广告支持层级所产生的价值。该服务在 2018 年第一季度，每位免费听众平均仅产生 1.03 欧元，而同期每位高级订阅用户产生 13.83 欧元（Levy，2018 年）。
 
 What is more, the very existence of an ad-supported free tier is contingent upon the major record labels; and Universal, Sony, and Warner have long been opposed to Spotify's free tier. The labels are concerned about the monetization of Spotify's free users, as ad-supported streams pay far less in royalties than do streams from a paid subscription. "We're always, always looking at Spotify's free tier," one major label source told the trade journal Music Business Worldwide. "If we pulled it completely, we might lose [a nine-figure sum] each year. But would that mean that subscription revenue would actually grow at a stronger rate?" (Ingham, 2018c). Another option is for the major labels to refuse to license their music for Spotify's ad-supported tier in Scandinavia and other mature markets where Spotify has the highest number of subscribers. These markets, however, are also the most lucrative advertising markets and their loss would considerably impede Spotify's efforts to become profitable—thus potentially hurting Spotify in the market we will look at next: the finance market.
 
-Social Media + Society
+> 此外，广告支持的免费层级的存在完全取决于主要唱片公司；而 Universal、Sony 和 Warner 长期以来一直反对 Spotify 的免费层级。唱片公司对 Spotify 免费用户的货币化感到担忧，因为广告支持的流媒体支付的版税远低于付费订阅的流媒体。“我们一直在关注 Spotify 的免费层级，”一位主要唱片公司的消息人士告诉行业杂志 Music Business Worldwide。“如果我们完全取消它，我们每年可能会损失 [一笔九位数的款项]。但这是否意味着订阅收入实际上会以更快的速度增长？”（Ingham, 2018c）。另一个选择是主要唱片公司拒绝在 Scandinavia 和其他 Spotify 订阅用户最多的成熟市场为 Spotify 的广告支持层级授权他们的音乐。然而，这些市场也是最有利可图的广告市场，它们的损失将极大地阻碍 Spotify 实现盈利的努力——从而可能损害 Spotify 在我们接下来要看的市场：金融市场。
 
 Finally, an even cheaper and more widespread form of "native advertising" exists for brands to exploit on Spotify. Just like individual users, brands can build their own thirdparty editorial playlists on the service. McDonald's, for example, can share its music taste with Spotify users: it does so through a dozen public playlists, with names such as "Lovin' is in the Air" and "Freshly Brewed." "Just like other Spotify users do," Spotify recommends to its brand clients, "show the world what kind of music your brand likes to listen to while partying, driving, or enjoying a cup of coffee" (cited in Pelly, 2017b). We can understand this as Spotify's "interpretation of corporate personhood" (Pelly, 2017b)—the legal recognition of corporations as individuals with the same rights, protections, and abilities that are enjoyed by human beings.
 
+> 最后，品牌在 Spotify 上可以利用一种更便宜、更广泛的“原生广告”形式。就像个人用户一样，品牌可以在该服务上创建自己的第三方编辑播放列表。例如，McDonald's 可以与 Spotify 用户分享其音乐品味：它通过十几个公共播放列表来实现，播放列表名称如 “Lovin' is in the Air” 和 “Freshly Brewed”。“就像其他 Spotify 用户所做的那样，” Spotify 向其品牌客户推荐，“向世界展示你的品牌在派对、驾驶或享受一杯咖啡时喜欢听什么音乐”（引自 Pelly, 2017b ）。我们可以将此理解为 Spotify 的“对企业人格的解释”（Pelly, 2017b ）——即法律上承认公司作为个体，享有与人类相同的权利、保护和能力。
+
 In its guidelines, Spotify does warn brands to avoid turning these playlists into "a commercial for your product". However, the very naming of these playlists (i.e., "Legends of Hip-Hop by BMW") and the fact that hyperlinks are often included in playlist descriptions demonstrates Spotify's inability to police such guidelines. Moreover, although Spotify advises brands to "use your own discretion to avoid implying any endorsements", brands are not required to ask permission of artists, or to pay compensation to align their message with a particular artist on Spotify. Indeed artists often have no idea they have been added to a brand's playlist. Nevertheless, while the critique of "selling out" may have lost some of its cultural power (Klein et al., 2017), and while most artists will not complain "out of fear of tarnishing their relationship with Spotify or possible brand partnerships in the future" (Meiselman, 2018), some artists will no doubt react negatively to finding out that they have been placed on a brand-sponsored or brand-created playlist (Pelly, 2017). Regardless of how they react, however, there is no way to opt out of such a placement. Since brands are treated as individuals, they have the same right to create and share playlists as any other Spotify user.
 
-This reminds us that curatorial power—the capacity to advance one's interests through the organizing and programming of content—can also be used by other agents, such as brands.9 In essence, the content that Spotify licenses from artists and their labels is being used—for free—by major brands like McDonald's, BMW, and Nike to boost their visibility. Thus, Spotify depends on the curation of content it does not own to attract listeners to brands it cannot control.
+> 在其指导方针中，Spotify 确实提醒品牌方避免将这些播放列表变为“产品的广告”。然而，这些播放列表的命名方式（例如“Legends of Hip-Hop by BMW”）以及播放列表描述中常包含超链接的事实，都表明 Spotify 难以有效监管此类准则。此外，尽管 Spotify 建议品牌方“自行斟酌，避免暗示任何代言关系”，品牌方并不需要征得艺人许可或支付报酬，即可将其宣传信息与 Spotify 上的特定艺人关联起来。事实上，艺人往往并不知道自己被添加至某个品牌的播放列表中。不过，尽管“出卖原则”的批评可能已失去部分文化影响力（Klein 等人，2017），且多数艺人因“担心损害与 Spotify 的关系或未来可能的品牌合作机会”而不会提出异议（Meiselman，2018），但一些艺人在发现自己被列入品牌赞助或品牌创建的播放列表时，无疑会作出负面反应（Pelly，2017）。然而，无论他们作何反应，都无法选择退出此类安排。由于品牌被视为独立个体，它们与其他任何 Spotify 用户一样，拥有创建和分享播放列表的同等权利。
+
+This reminds us that curatorial power—the capacity to advance one's interests through the organizing and programming of content—can also be used by other agents, such as brands.[^9] In essence, the content that Spotify licenses from artists and their labels is being used—for free—by major brands like McDonald's, BMW, and Nike to boost their visibility. Thus, Spotify depends on the curation of content it does not own to attract listeners to brands it cannot control.
+
+> 这提醒我们，策展权力——即通过内容组织与编排来推进自身利益的能力——同样可被其他行为主体（例如品牌方）所运用。[^9] 本质上，Spotify 从艺术家及其厂牌获得授权的内容，正被 McDonald's、BMW、Nike 等大型品牌无偿用于提升其曝光度。因此，Spotify 依赖于对其不拥有所有权的内容进行策展，以吸引听众关注那些其无法控制的品牌。
 
 # The Finance Market
+**金融市场**
 
 It is the market for financial capital that arguably provides us with the clearest insight into the importance of Spotifycurated playlists for the platform, and the contingency of curatorial power.
 
-While Spotify posted its first profitable quarter in the fourth quarter of 2018, its operating losses have continued to grow (Spotify Investors, 2019). This is in large part a result of
+> 金融市场或许为我们提供了最清晰的视角，以洞察 Spotify 策划的歌单对于该平台的重要性，以及策展权力的偶然性。
 
-following the "Get Big Fast" business model (Crain, 2014); a model that encourages rapid global scaling in a race to first capture market share before focusing on profitability.
+While Spotify posted its first profitable quarter in the fourth quarter of 2018, its operating losses have continued to grow (Spotify Investors, 2019). This is in large part a result of following the "Get Big Fast" business model (Crain, 2014); a model that encourages rapid global scaling in a race to first capture market share before focusing on profitability.
 
-To pursue this strategy, Spotify has been highly dependent on finance capital and investors. Spotify raised US1.6_b__i__l__l__i__o__n__f__r__o__m_2008_t__o_2015, _f__r__o__m__C__o__c__a_ − _C__o__l__a_, _G__o__l__d__m__a__n__S__a__c__h__s_, _a__n__d__o__t__h__e__r__i__n__v__e__s__t__o__r__s_(_V__o__n__d__e__r__a__u_, 2019, _p_.9)._I__n__t__h__e__s__p__r__i__n__g__o__f_2016, _S__p__o__t__i__f__y__c__o__l__l__e__c__t__e__d__a__n__o__t__h__e__r__U__S_1 billion in debt financing, under terms that were reportedly very favorable to investors, which included TPG Capital and Dragoneer Investment Group (McIntyre, 2016). Before it went public in early 2018, Spotify was the highest valued venture-capital-backed company in Europe (Vonderau, 2019, p. 3) and the only European "unicorn" startup in the global top 50. Upon its direct listing on the New York Stock Exchange in the spring of 2018, Spotify was valued at over US$26 billion.
+> 尽管 Spotify 在 2018 年第四季度首次实现季度盈利，但其运营亏损仍在持续扩大（Spotify Investors，2019）。这在很大程度上是遵循“Get Big Fast”商业模式的结果（Crain，2014）；该模式鼓励在关注盈利能力之前，先通过快速全球扩张争夺市场份额。
+
+To pursue this strategy, Spotify has been highly dependent on finance capital and investors. Spotify raised US$1.6 billion from 2008 to 2015, from Coca-Cola, Goldman Sachs, and other investors (Vonderau, 2019, p. 9). In the spring of 2016, Spotify collected another US$1 billion in debt financing, under terms that were reportedly very favorable to investors, which included TPG Capital and Dragoneer Investment Group (McIntyre, 2016). Before it went public in early 2018, Spotify was the highest valued venture-capital-backed company in Europe (Vonderau, 2019, p. 3) and the only European "unicorn" startup in the global top 50. Upon its direct listing on the New York Stock Exchange in the spring of 2018, Spotify was valued at over US$26 billion.
+
+> 为了追求这一策略，Spotify 高度依赖金融资本和投资者。Spotify 在 2008 年至 2015 年间筹集了 16 亿美元，资金来自 Coca-Cola、Goldman Sachs 和其他投资者（Vonderau, 2019, p. 9）。在 2016 年春季，Spotify 通过债务融资筹集了另外 10 亿美元，据称条款对投资者非常有利，其中包括 TPG Capital 和 Dragoneer Investment Group（McIntyre, 2016）。在 2018 年初上市之前，Spotify 是欧洲估值最高的风险投资支持公司（Vonderau, 2019, p. 3），也是全球前 50 名中唯一的欧洲“独角兽”初创企业。在 2018 年春季直接于 New York Stock Exchange 上市时，Spotify 的估值超过 260 亿美元。
 
 Finance capital is keeping Spotify afloat under one pretense: that Spotify will one day become profitable. There are two basic strategies that the company could follow to achieve profitability. The first involves both raising subscription rates and increasing advertising revenues. But this strategy does not seem promising as Spotify attempts to move beyond its strongholds in Europe and North America into lower income markets in Asia, Africa, and South America. Therefore, the focus is on a second strategy: disruption through disintermediation.
 
+> 金融资本之所以维持 Spotify 运营，有一个前提：即 Spotify 终将实现盈利。该公司为实现盈利可能采取两种基本策略。第一种策略涉及同时提高订阅费率与增加广告收入。然而，随着 Spotify 试图从欧洲和北美的优势市场向亚洲、非洲及南美洲等低收入市场拓展，这一策略似乎前景有限。因此，重点落在了第二种策略上：通过去中介化实现颠覆。
+
 Since Spotify does not control the rights to the music that it provides on its platform, it must pay copyright holders— including major and independent record labels—for every stream of every track. Reports suggest that the major labels (Universal, Warner, and Sony) receive between 52% and 54% of the net revenue generated by their artists on the platform, while independent record labels are paid between 50% and 52% (Ingham, 2018d; Sandoval, 2018). Once music publishers are also accounted for, roughly 70% of Spotify's revenue is paid directly to rights holders (Singleton, 2015). As it is unlikely that these rates will ever be substantially reduced through negotiation, Spotify must therefore reduce its reliance on content providers.
+
+> 由于 Spotify 不控制其平台上提供的音乐的权利，它必须为每一首曲目的每一次流媒体播放向版权持有者支付费用——包括大型和独立唱片公司。报告表明，大型唱片公司（Universal、Warner 和 Sony）获得其艺术家在平台上产生的净收入的 52% 至 54%，而独立唱片公司则获得 50% 至 52% “Ingham，2018d；Sandoval，2018”。一旦音乐出版商也被考虑在内，Spotify 的大约 70% 的收入直接支付给权利持有者 “Singleton，2015”。由于这些费率不太可能通过谈判大幅降低，Spotify 因此必须减少对内容提供商的依赖。
 
 A survey of stock analysis and investment publications (Gerber, 2018; Wyatt, 2017) reveals a frequent comparison of Spotify to Netflix; with the music streaming platform often referred to as "the Netflix of Music." Netflix is touted as a model due to its success in producing its own content and thus reducing its reliance on Hollywood studios. Both implicitly and explicitly, investors are pushing Spotify to "do a Netflix." As Mark Mulligan (2018b) of MIDiA Research recently explained,
 
-Speaking from the experience of months of deep conversations with large institutional investors, Wall Street has pumped money into Spotify stock not because of how it will help labels' businesses, but because they expect it to replace labels, or, at the very least, compete with them at scale . . . They are investing in the potential upside on a future industry changer, not a presentday industry defender.
+- Speaking from the experience of months of deep conversations with large institutional investors, Wall Street has pumped money into Spotify stock not because of how it will help labels' businesses, but because they expect it to replace labels, or, at the very least, compete with them at scale . . . They are investing in the potential upside on a future industry changer, not a presentday industry defender.
 
-6
+> 一项关于股票分析和投资出版物的调查（Gerber, 2018; Wyatt, 2017）揭示了 Spotify 与 Netflix 之间的频繁比较；这个音乐流媒体平台常被称为“音乐界的 Netflix”。Netflix 因其成功制作自己的内容从而减少对好莱坞工作室的依赖而被吹捧为典范。无论是隐晦地还是明确地，投资者都在推动 Spotify “效仿 Netflix”。正如 MIDiA Research 的 Mark Mulligan (2018b) 最近解释的那样，
+> 
+> > - 根据数月来与大型机构投资者深入交流的经验来看，华尔街之所以向 Spotify 股票注入大量资金，并非因为它将如何助力唱片公司的业务，而是因为他们预期 Spotify 将取代唱片公司，或者至少能与之展开大规模竞争……他们投资的是未来行业变革者带来的上行潜力，而非当前行业维护者的现状。
 
 Spotify-curated playlists are a key mechanism through which the platform can indicate its disruptive potential to investors. The growing importance of such playlists for music discovery and hit-making has allowed Spotify to experiment with attempts to reduce its reliance on record labels. Perhaps the most controversial experiment has been Spotify's use of "fake artists." In the summer of 2016, Music Business Worldwide reported that Spotify was paying producers a flat fee to create tracks under fake names (Ingham, 2016). This content was being produced in order to fill out Spotifycurated playlists and thus reduce royalty payments to record labels. All of these tracks were found on Spotify mood playlists such as "Peaceful Piano," "Deep Focus," and "Ambient Chill," where they generated "hundreds of thousands or, in many cases, millions of streams" (Ingham, 2018a). As recently as 2 August 2018, over 90% of the tracks on the Spotify playlist "Ambient Chill" were under the names of these so-called "fake artists" (Ingham, 2018a).
 
+> Spotify 策划的播放列表是一个关键机制，通过这个平台可以向投资者展示其颠覆性潜力。这类播放列表在音乐发现和热门制作方面日益增长的重要性，使得 Spotify 能够尝试减少对唱片公司的依赖。或许最具争议的实验是 Spotify 使用“假艺术家”。2016 年夏天，Music Business Worldwide 报道称，Spotify 支付制作人固定费用，以假名创作曲目（Ingham, 2016）。这些内容被制作出来是为了填充 Spotify 策划的播放列表，从而减少向唱片公司支付的版税。所有这些曲目都出现在 Spotify 的情绪播放列表中，如“Peaceful Piano”、“Deep Focus”和“Ambient Chill”，在那里它们生成了“数十万或，在许多情况下，数百万的流媒体播放量”（Ingham, 2018a）。截至 2018 年 8 月 2 日，Spotify 播放列表“Ambient Chill”中超过 90% 的曲目都使用了这些所谓的“假艺术家”的名字（Ingham, 2018a）。
+
 Further evidence for this strategy emerged when Billboard reported in the summer of 2018 that the streaming platform was offering significant advances to a number of independent artists if they would license their music directly to Spotify (Karp, 2018b). By paying the artist directly, Spotify would be able to improve its margins, while the artist would receive much more per stream than they would if signed to a major label. More important, however, is the signal that this move sent to investors: Spotify's stock price rose 8% after the news of the direct deals was reported (Karp, 2018a).
+
+> 关于这一策略的进一步证据出现在 2018 年夏季，当时 Billboard 报道称，该流媒体平台正向多位独立艺术家提供可观的预付款，条件是将其音乐直接授权给 Spotify（Karp, 2018b）。通过直接向艺术家支付，Spotify 能够提升其利润率，而艺术家每首流媒体播放获得的收入也将远高于与大型唱片公司签约所能得到的份额。然而，更重要的是此举向投资者传递的信号：在直接交易的消息被报道后，Spotify 的股价上涨了 8%（Karp, 2018a）。
 
 While Spotify has to-date made limited moves in this direction—and in July 2019 it discontinued a short-run feature that allowed artists to directly upload music to the service—the writing is clearly on the wall. By entering into direct relationships with artists, Spotify could slowly begin squeezing out intermediaries such as record labels and distributors, thus improving its margins and pleasing investors. Spotify could then potentially fill its popular playlists with these unsigned artists. Indeed, given the aforementioned importance of playlists in an artist's career, the promise—or perhaps the perception—that licensing one's music to Spotify might result in advantageous playlist placements is an attractive offer for many artists. According to Billboard "[s]ome acts say they are tempted to sign direct deals with Spotify not just for the advance fee and the higher potential payouts per stream, but for the prospect of better placement on top playlists" (Karp, 2018a).
 
-While these schemes may help Spotify to reduce its content costs, improve its razor thin margins, and in turn appear more attractive to investors, they are not without considerable risk. While Netflix is often cited as a model, the recorded music industry is much more consolidated than the television industry. A small group controls almost all of the content Spotify distributes: The three major music companies combined control about 70% of global recorded music revenues (Mulligan, 2019) and according to Spotify's internal data, approximately 87% of all the music streamed by users in
+> 尽管 Spotify 迄今为止在这个方向上的动作有限——并且在 2019 年 7 月，它停止了一项允许艺术家直接上传音乐到该服务的短期功能——但迹象已经很明显。通过与艺术家建立直接关系，Spotify 可以慢慢开始挤压中间商，如唱片公司和分销商，从而提高其利润率并取悦投资者。Spotify 然后可能用这些未签约的艺术家填充其流行的播放列表。确实，鉴于播放列表在艺术家职业生涯中的重要性，许可自己的音乐给 Spotify 可能会导致有利的播放列表位置，这一承诺——或者说是感知——对许多艺术家来说是一个有吸引力的提议。根据 Billboard，“一些艺人表示，他们被诱惑与 Spotify 签署直接协议，不仅是为了预付费和每次流媒体播放的更高潜在支付，还为了在顶级播放列表中获得更好位置的前景”（Karp, 2018a）。
 
-2017 is licensed either to one of the majors, or to Merlin, the agency representing independent labels (United States Securities and Exchange Commission, 2018). If the largest major—Universal Music Group—decided to remove its content from Spotify, the platform would be in serious trouble. Disintermediation could thus prove deadly if Spotify proceeds too quickly with this strategy. Spotify acknowledges this danger in the company's F-1 filing:
+While these schemes may help Spotify to reduce its content costs, improve its razor thin margins, and in turn appear more attractive to investors, they are not without considerable risk. While Netflix is often cited as a model, the recorded music industry is much more consolidated than the television industry. A small group controls almost all of the content Spotify distributes: The three major music companies combined control about 70% of global recorded music revenues (Mulligan, 2019) and according to Spotify's internal data, approximately 87% of all the music streamed by users in 2017 is licensed either to one of the majors, or to Merlin, the agency representing independent labels (United States Securities and Exchange Commission, 2018). If the largest major—Universal Music Group—decided to remove its content from Spotify, the platform would be in serious trouble. Disintermediation could thus prove deadly if Spotify proceeds too quickly with this strategy. Spotify acknowledges this danger in the company's F-1 filing:
 
 We have no control over the providers of our content, and our business may be adversely affected if our access to music is limited or delayed. The concentration of control of content by our major providers means that even one entity, or a small number of entities working together, may unilaterally affect our access to music and other content. (United States Securities and Exchange Commission, 2018)
 
+> 虽然这些方案可能帮助 Spotify 降低其内容成本、改善其微薄的利润率，从而对投资者更具吸引力，但它们并非没有相当大的风险。虽然 Netflix 常被引为典范，但音乐录制产业比电视产业更加集中。一小群公司控制着 Spotify 分发的几乎所有内容：三大音乐公司合计控制着全球录制音乐收入的约 70% “（Mulligan, 2019）” 而根据 Spotify 的内部数据， 2017 年用户流媒体播放的所有音乐中约有 87% 授权给其中一家大公司或代表独立厂牌的机构 Merlin “（United States Securities and Exchange Commission, 2018）”。如果最大的大公司——Universal Music Group——决定将其内容从 Spotify 移除，该平台将陷入严重困境。因此，如果 Spotify 过快地推进这一战略，去中介化可能被证明是致命的。Spotify 在其 F-1 文件中承认了这一危险：
+> 
+> > - 我们无法掌控内容提供方，若音乐获取受限或延迟，业务可能受到不利影响。主要提供商对内容的控制权高度集中，这意味着即使单一实体或少数实体联合行动，也可能单方面影响我们获取音乐及其他内容的能力。（United States Securities and Exchange Commission, 2018）
+
 Yet, notwithstanding the risks involved, there is a clear "incentive to bias" the needs of finance (Rieder & Sire, 2014). Spotify is both heavily dependent on record labels for its survival, and unsustainable as a business if it continues to rely on record labels for its content. However, it risks losing investors if it does nothing. According to Eriksson et al. (2019, p. 8) by 2015, finance became "the leading market from which Spotify's other markets and their actors were governed" due to "the dependence of the money-losing company on such capital." Therefore, as Mark Mulligan (2018a) explains, "[t] he challenge for Spotify is whether it can execute on the strategy quickly enough to excite investors (and thus drive up the share price), but slowly enough to keep record labels on board." While this is a highly risky and contentious strategy, it is a strategy that makes sense when we understand platforms within the ecosystem of markets they interface.
+
+> 然而，尽管存在风险，但存在明显的“偏向金融需求的激励”（Rieder & Sire, 2014）。Spotify 既严重依赖唱片公司以生存，又如果继续依赖唱片公司获取内容，则作为企业是不可持续的。然而，如果无所作为，它可能失去投资者。根据 Eriksson 等人（2019, p. 8）的说法，到 2015 年，金融成为“主导市场，Spotify 的其他市场及其参与者都受其支配”，这是由于“这家亏损公司对此类资本的依赖”。因此，正如 Mark Mulligan（2018a）所解释的，“Spotify 面临的挑战是，它能否足够快地执行策略以激发投资者（从而推高股价），但又足够慢以保持唱片公司的支持。”虽然这是一个高度风险和争议的策略，但当我们理解平台在它们所交互的市场生态系统内时，这是一个有意义的策略。
 
 While platforms such as Spotify publicly identify as technology companies that distribute content (Napoli & Caplan, 2017), continued financial investment is dependent on strategies that incrementally position themselves as content producers. Spotify's focus on creating and promoting playlists can be argued to be one outcome of its dependence on finance capital. Finance thus influences in no small way the form music takes on streaming platforms. Therefore, even while Spotify exerts curatorial power in creating and promoting playlists, this agency is embedded within larger structural relations. Playlists thus both signal agency and reveal structures within which platforms are embedded.
 
+> 尽管诸如 Spotify 等平台公开将自己定位为分发内容的技术公司（Napoli & Caplan，2017），但持续的金融投资仍依赖于逐步将其自身定位为内容生产者的策略。Spotify 专注于创建和推广播放列表的做法，可以说正是其依赖金融资本的结果之一。因此，金融在很大程度上影响了音乐在流媒体平台上的呈现形式。所以，即使 Spotify 在创建和推广播放列表时行使了策展权，这种能动性仍嵌于更大的结构关系之中。由此可见，播放列表既体现了平台的能动性，也揭示了平台所嵌入的结构性约束。
+
 # Conclusion
+**结论**
 
 Spotify is sometimes described as having "the power of retail and radio rolled into one" (Ingham, 2018c). Scholars seem to agree: Research has demonstrated that the platform wields "power to influence consumption decisions" (Aguiar & Waldfogel, 2018, p. 4). As a result, Spotify has become a "new gatekeeper" (Bonini & Gandini, 2019) and "a very powerful intermediary" (quoted in Shah, 2018).
 
-Social Media + Society
+> Spotify 有时被描述为拥有“零售与广播的结合体力量”（Ingham，2018c）。学者们似乎也认同这一观点：研究表明，该平台具备“影响消费决策的能力”（Aguiar & Waldfogel，2018，第 4 页）。因此，Spotify 已成为“新的守门人”（Bonini & Gandini，2019）以及“一个非常强大的中介”（引自 Shah，2018）。
 
-Nevertheless, it is important to ask; where does the power of "platformization" reside? To answer this question, this article analyzed the interlinked set of markets that the leading audio streaming platform—Spotify—is embedded in. As demonstrated, Spotify's survival and success are dependent on its ability to solve the "chicken and-egg problem"—to successfully stitch together various and often conflicting markets or "sides." Music is marketed to listeners who are, in turn, marketed to advertisers. In both the market for music and the market for advertisers, Spotify must promise greater access to a rapidly growing mass of global consumers. But to financially support its "Get Big Fast" business model, Spotify must attract continued investment within the finance market.
+Nevertheless, it is important to ask; where does the power of "platformization" reside? To answer this question, this article analyzed the interlinked set of markets that the leading audio streaming platform—Spotify—is embedded in. As demonstrated, Spotify's survival and success are dependent on its ability to solve the "chicken and-egg problem"—to successfully stitch together various and often conflicting markets or "sides." Music is marketed to listeners who are, in turn, marketed to advertisers. In both the market for music and the market for advertisers, Spotify must promise greater access to a rapidly growing mass of global consumers. But to financially support its "Get Big Fast" business model, Spotify must attract continued investment within the finance market.、
+
+> 然而，重要的是要问；“平台化”的力量存在于何处？为了回答这个问题，本文分析了领先的音频流媒体平台——Spotify——所嵌入的相互关联的市场集合。正如所示，Spotify 的生存和成功取决于其解决“鸡与蛋问题”的能力——即成功地将各种且常常冲突的市场或“侧”缝合在一起。音乐被营销给听众，而听众又被营销给广告商。在音乐市场和广告商市场中，Spotify 都必须承诺提供对快速增长的大量全球消费者的更大访问权限。但为了财务上支持其“快速做大”商业模式，Spotify 必须在金融市场中吸引持续投资。
 
 This article examined these power dynamics through the lens of the playlist. As predicted by du Gay and Negus (1994), the generation and analysis of user data shifts control to actors whose expertise is in the knowledge of consumption patterns. As music consumption has shifted toward platforms, so has the ability to control the way in which music is presented. If record labels in the 1990s complained about music retailers using sales data to take control of "their product" through pricing and display strategies (du Gay and Negus, 1994), the datafication of user behavior on streaming platforms enables dynamic curation and personalized recommendations (Prey, 2019). By dis-assembling albums and reassembling tracks into playlists, platforms like Spotify transform the content they acquire in the market for music. In doing so, they attempt to attract brands in the advertising market, and investors in the market for finance.
 
-As playlists have emerged as the central means through which music is organized and presented on platforms such as Spotify, they have instantiated relations of dependency and a version of "backward integration." Playlists thus can be seen as a central example of how platforms like Spotify enlist what I refer to as "curatorial power": the capacity to advance one's own interests, and affect the interests of others, through the organizing and programming of content. However, "power" is a dispositional concept that indicates a potentiality (Lukes, 2007), and—as demonstrated in this article— "curatorial power" is a highly contingent form of power. Playlists provide Spotify with a tool through which to gradually reduce its reliance on record labels by slowly increasing the percentage of directly licensed or unsigned content within these playlists. This introduces the potential that Spotify could offer plum playlist positions to artists who eschew the label route and directly license music to the service. While investors (and perhaps select unsigned artists) would benefit, this would cause tensions with record labels: one of the most important "sides" a multisided platform like Spotify must attempt to coordinate. Spotify must therefore exert curatorial power to simultaneously deepen the dependency of record labels on playlist promotion while reducing its own dependency on the content provided by these same labels. At the same time, to appease investors by generating more revenue from advertising, Spotify must ensure the playlists become
+> 本文通过播放列表的视角审视了这些权力动态。正如 du Gay 和 Negus （1994） 所预测的那样，用户数据的生成和分析将控制权转移给了那些在消费模式知识方面具有专长的行动者。随着音乐消费向平台转移，控制音乐呈现方式的能力也随之转移。如果 1990 年代的唱片公司抱怨音乐零售商利用销售数据通过定价和展示策略来控制 “他们的产品” （du Gay 和 Negus ，1994），那么流媒体平台上用户行为的数据化则实现了动态策展和个性化推荐（Prey ，2019）。通过将专辑拆解并重新组合成播放列表，像 Spotify 这样的平台转化了它们在音乐市场中获取的内容。通过这样做，它们试图吸引广告市场中的品牌，以及金融市场中的投资者。
 
-an even more attractive tool to segment consumers for big brands, while placating demands by the major labels to make the platform's ad-supported tier more restrictive.
+As playlists have emerged as the central means through which music is organized and presented on platforms such as Spotify, they have instantiated relations of dependency and a version of "backward integration." Playlists thus can be seen as a central example of how platforms like Spotify enlist what I refer to as "curatorial power": the capacity to advance one's own interests, and affect the interests of others, through the organizing and programming of content. However, "power" is a dispositional concept that indicates a potentiality (Lukes, 2007), and—as demonstrated in this article— "curatorial power" is a highly contingent form of power. Playlists provide Spotify with a tool through which to gradually reduce its reliance on record labels by slowly increasing the percentage of directly licensed or unsigned content within these playlists. This introduces the potential that Spotify could offer plum playlist positions to artists who eschew the label route and directly license music to the service. While investors (and perhaps select unsigned artists) would benefit, this would cause tensions with record labels: one of the most important "sides" a multisided platform like Spotify must attempt to coordinate. Spotify must therefore exert curatorial power to simultaneously deepen the dependency of record labels on playlist promotion while reducing its own dependency on the content provided by these same labels. At the same time, to appease investors by generating more revenue from advertising, Spotify must ensure the playlists become an even more attractive tool to segment consumers for big brands, while placating demands by the major labels to make the platform's ad-supported tier more restrictive.
+
+> 随着播放列表成为在 Spotify 等平台上组织和呈现音乐的核心手段，它们实例化了依赖关系和一种“反向整合”的版本。因此，播放列表可以被视为平台如 Spotify 如何利用我称之为“策展权力”的核心例证：通过内容的组织和编程来推进自身利益并影响他人利益的能力。然而，“权力”是一个表示潜在性的倾向性概念（Lukes, 2007），并且——如本文所示——“策展权力”是一种高度偶然的权力形式。播放列表为 Spotify 提供了一个工具，通过逐渐增加这些播放列表中直接授权或未签约内容的百分比，来逐步减少对唱片公司的依赖。这引入了 Spotify 可能向避开唱片公司路线并直接向服务授权音乐的艺术家提供优质播放列表位置的潜力。虽然投资者（或许还有选定的未签约艺术家）会受益，但这会导致与唱片公司的紧张关系：这是像 Spotify 这样的多边平台必须尝试协调的最重要“侧”之一。因此，Spotify 必须行使策展权力，同时加深唱片公司对播放列表推广的依赖，同时减少自身对这些相同唱片公司提供的内容的依赖。同时，为了通过广告产生更多收入来安抚投资者，Spotify 必须确保播放列表成为为大品牌细分消费者的更具吸引力的工具，同时安抚主要唱片公司的要求，使平台的广告支持层级更加严格。
 
 It is critically important that we properly conceptualize the "power" of platforms and so-called "platformization." Just as platforms are not merely neutral conduits through which content flows, neither are they empty sites upon which conflicting markets do battle. Platforms exert their own agency in various ways, such as through "curatorial power." However, playlists can be seen as both a mechanism through which a platform may exert curatorial power and an outcome of the conflicting pressures and tensions between markets. Platform curation is not only shaped by a blend of editorial and algorithmic logic (Bonini & Gandini, 2019), but by the interplay between the various markets a platform is embedded within. Curatorial power is contingent upon the relative position of a platform in relation to its platform-competitors, the various markets a platform must engage in, and the tensions between these markets.
 
+> 至关重要的是，我们应正确概念化平台的“权力”和所谓的“平台化”。正如平台不仅仅是内容流动的中性管道，它们也不是冲突市场进行斗争的空白场所。平台以各种方式行使自己的代理权，例如通过“策展权力”。然而，播放列表既可以被视为平台行使策展权力的机制，也可以被视为市场之间冲突压力和紧张的结果。平台策展不仅由编辑和算法逻辑的混合塑造 （ Bonini & Gandini, 2019 ） ，还由平台所嵌入的各种市场之间的相互作用塑造。策展权力取决于平台相对于其平台竞争对手的相对位置、平台必须参与的各种市场以及这些市场之间的紧张关系。
+
 Thus, one contribution that this article makes is to remind researchers to look beyond the platform to understand the implications of "platformization." While platformization results in cultural producers becoming increasingly platform dependent (Nieborg & Poell, 2018), these platforms are, in turn, dependent on actors "elsewhere" (Vonderau, 2019, p. 15). As researchers this means that to grasp platformization and its implications for content producers and culture, we need to understand the markets and ecosystems platforms are embedded within, and the inter-capitalist struggles that play out through platforms. Platform "power," as this case study of Spotify demonstrates, is an always unstable and shifting outcome of the ongoing attempt to coordinate between these markets and actors.
+
+> 因此，本文的一个贡献在于提醒研究者超越平台本身，以深入理解“平台化”的深层含义。虽然平台化导致文化生产者日益依赖平台 （Nieborg & Poell, 2018），但这些平台反过来又依赖于“别处”的行动者 （Vonderau, 2019, p. 15）。作为研究者，这意味着要把握平台化及其对内容生产者和文化的影响，我们必须理解平台所嵌入的市场与生态系统，以及通过平台展开的资本主义内部斗争。平台 “权力” ，正如 Spotify 的案例研究所揭示的，始终是一种不稳定且不断变化的结果，源于持续协调这些市场与行动者之间的尝试。
 
 Platforms are thus not inherently powerful, nor should we conceive of platformization as an instance of power that originates within platforms (Eriksson et al., 2019, p. 33). Platformization as "power" is best understood as an effect of certain conflicted processes, for which platforms have varying degrees of control over. From this perspective, what we call "platformization" is one moment within a much longer political-economic process.
 
+> 因此，平台并非天生具有权力，我们也不应将平台化视为一种源于平台内部的权力实例（Eriksson 等人，2019 年，第 33 页）。平台化作为“权力”最好被理解为某些冲突性进程的产物，而平台对这些进程的控制程度各不相同。从这个角度来看，我们所说的“平台化”只是一个更长的政治经济进程中的一个阶段。
+
 # Acknowledgements
+**致谢**
 
 The author would like to thank Thomas Poell for his editorial guidance, the anonymous reviewers for their invaluable suggestions, and the participants at the Platformization of Cultural Production workshop—in particular Tarleton Gillespie, Tiziano Bonini, and Jeremy Morris—for their constructive feedback.
 
-# Declaration of Conflicting Interests
-
-The author(s) declared no potential conflicts of interest with respect to the research, authorship, and/or publication of this article.
-
-# Funding
-
-The author(s) received no financial support for the research, authorship, and/or publication of this article.
-
-8
-
-Prey
-
-# ORCID iD
-
-Robert Prey [https://orcid.org/0000-0002-2339-5872](https://orcid.org/0000-0002-2339-5872)
+> 作者谨此感谢 Thomas Poell 的编辑指导，感谢匿名评审人提出的宝贵意见，并感谢“文化生产平台化”研讨会的与会者——特别是 Tarleton Gillespie、Tiziano Bonini 以及 Jeremy Morris——所提供的建设性反馈。
 
 # Notes
+**注**
 
-1. This includes personalized playlists such as "Discover Weekly," "Daily Mix," "Release Radar," and "Your Summer Rewind," which are algorithmically generated for individual users. It also includes playlists created by in-house Spotify editorial teams, curated around specific genres, moods, and contexts, such as "RapCaviar," "Peaceful Piano," and "Summer BBQ."
+[^1]: This includes personalized playlists such as "Discover Weekly," "Daily Mix," "Release Radar," and "Your Summer Rewind," which are algorithmically generated for individual users. It also includes playlists created by in-house Spotify editorial teams, curated around specific genres, moods, and contexts, such as "RapCaviar," "Peaceful Piano," and "Summer BBQ."
 
-2. As of 10 January 2019, according to [https://www.spotontrack](https://www.spotontrack/). com/playlists
+[^2]: As of 10 January 2019, according to [https://www.spotontrack](https://www.spotontrack/). com/playlists
 
-3. To decide which tracks to add or delete from a playlist, and the order the tracks will appear, Spotify uses playlist performance tracking tools to monitor exactly how often a song is played, saved, and skipped. Such tools also provide demographic data on the playlist's listeners; where they are from, when they listen, and whether they pay for Spotify Premium (see Bonini & Gandini, 2019).
+[^3]: To decide which tracks to add or delete from a playlist, and the order the tracks will appear, Spotify uses playlist performance tracking tools to monitor exactly how often a song is played, saved, and skipped. Such tools also provide demographic data on the playlist's listeners; where they are from, when they listen, and whether they pay for Spotify Premium (see Bonini & Gandini, 2019).
 
-4. However, major labels still dominate on popular playlists such as "Today's Top Hits" and "RapCaviar."
+[^4]: However, major labels still dominate on popular playlists such as "Today's Top Hits" and "RapCaviar."
 
-5. Over 2 million Spotify users are blocking ads (United States Securities and Exchange Commission, 2018, p. 25).
+[^5]: Over 2 million Spotify users are blocking ads (United States Securities and Exchange Commission, 2018, p. 25).
 
-6. Spotify's internal data reveal that the "top listening moment is 'chill' with 14% of streams." This may account for the vast number of playlists with the word "chill" in their title (Spotify for Brands, n.d.-a).
+[^6]: Spotify's internal data reveal that the "top listening moment is 'chill' with 14% of streams." This may account for the vast number of playlists with the word "chill" in their title (Spotify for Brands, n.d.-a).
 
-7. Here, I simply mean that playlists make it easier for Spotify to sell advertising spots to brands as they act as a proxy for listener desires and contexts. An argument could also be made that curation is the commodity that Spotify trades in, and that playlists are the form that such a commodity increasingly takes on music streaming platforms. However, I do not have the space to develop this argument here (see Eriksson et al., 2019; Fleischer, 2017; Morris & Powers, 2015).
+[^7]: Here, I simply mean that playlists make it easier for Spotify to sell advertising spots to brands as they act as a proxy for listener desires and contexts. An argument could also be made that curation is the commodity that Spotify trades in, and that playlists are the form that such a commodity increasingly takes on music streaming platforms. However, I do not have the space to develop this argument here (see Eriksson et al., 2019; Fleischer, 2017; Morris & Powers, 2015).
 
-8. Instead, Spotify appears to rely on IP address-based tracking to push geotargeted ad content (see Vonderau, 2019, p. 12).
+[^8]: Instead, Spotify appears to rely on IP address-based tracking to push geotargeted ad content (see Vonderau, 2019, p. 12).
 
-9. As one reviewer pointed out, artists (and other celebrities) can also exert curatorial power. According to the playlist tracking service Spotontrack.com, the most followed artist-created playlist on 24 July 2019 was "Armin van Buuren Presents." However, this playlist only ranks as Spotify's 324th most followed playlist, with almost entirely Spotify-curated playlists ahead of it.
+[^9]: As one reviewer pointed out, artists (and other celebrities) can also exert curatorial power. According to the playlist tracking service Spotontrack.com, the most followed artist-created playlist on 24 July 2019 was "Armin van Buuren Presents." However, this playlist only ranks as Spotify's 324th most followed playlist, with almost entirely Spotify-curated playlists ahead of it.
 
 # References
+**参考文献**
 
-Aguiar, L., & Waldfogel, J. (2018). Platforms, promotion, and product discovery: Evidence from Spotify playlists (No. w24713). National Bureau of Economic Research.
+- Aguiar, L., & Waldfogel, J. (2018). Platforms, promotion, and product discovery: Evidence from Spotify playlists (No. w24713). National Bureau of Economic Research.
 
-Aswad, J. (2018, October 2). Ministry of Sound strikes exclusive playlist deal with Apple Music—Shutting out Spotify. https:// variety.com/2018/biz/news/ministry-of-sound-exclusive-playlist-apple-music-spotify-1202965811/
+- Aswad, J. (2018, October 2). Ministry of Sound strikes exclusive playlist deal with Apple Music—Shutting out Spotify. https:// variety.com/2018/biz/news/ministry-of-sound-exclusive-playlist-apple-music-spotify-1202965811/
 
-BeetTV. (2016, October 31). Spotify's branded moments: The "Authenticity" of music meets exclusive engagement. https:// [www.youtube.com/watch?v=SgEJrO7aBLU](http://www.youtube.com/watch?v=SgEJrO7aBLU)
+- BeetTV. (2016, October 31). Spotify's branded moments: The "Authenticity" of music meets exclusive engagement. https:// [www.youtube.com/watch?v=SgEJrO7aBLU](http://www.youtube.com/watch?v=SgEJrO7aBLU)
 
-Bonini, T., & Gandini, A. (2019). "First Week Is Editorial, Second Week Is Algorithmic": Platform gatekeepers and the platformization of music curation. Social Media + Society, 5(4), 1–11.
+- Bonini, T., & Gandini, A. (2019). "First Week Is Editorial, Second Week Is Algorithmic": Platform gatekeepers and the platformization of music curation. Social Media + Society, 5(4), 1–11.
 
-Crain, M. (2014). Financial markets and online advertising: Reevaluating the dotcom investment bubble. Information, Communication & Society, 17(3), 371–384.
+- Crain, M. (2014). Financial markets and online advertising: Reevaluating the dotcom investment bubble. Information, Communication & Society, 17(3), 371–384.
 
-Drew, R. (2005). Mixed blessings: The commercial mix and the future of music aggregation. Popular Music and Society, 28(4), 533–551.
+- Drew, R. (2005). Mixed blessings: The commercial mix and the future of music aggregation. Popular Music and Society, 28(4), 533–551.
 
-du Gay, P., & Negus, K. (1994). The changing sites of sound: Music retailing and the composition of consumers. Media, Culture & Society, 16(3), 395–413.
+- du Gay, P., & Negus, K. (1994). The changing sites of sound: Music retailing and the composition of consumers. Media, Culture & Society, 16(3), 395–413.
 
-Eriksson, M. (2020). The editorial playlist as container technology: On Spotify and the logistical role of digital music packages. Journal of Cultural Economy. Pre published January 10, 2020. doi: 10.1080/17530350.2019.1708780
+- Eriksson, M. (2020). The editorial playlist as container technology: On Spotify and the logistical role of digital music packages. Journal of Cultural Economy. Pre published January 10, 2020. doi: 10.1080/17530350.2019.1708780
 
-Eriksson, M., Fleischer, R., Johansson, A., Snickars, P., & Vonderau, P. (2019). Spotify teardown: Inside the black box of streaming music. MIT Press.
+- Eriksson, M., Fleischer, R., Johansson, A., Snickars, P., & Vonderau, P. (2019). Spotify teardown: Inside the black box of streaming music. MIT Press.
 
-Evans, D. S., & Schmalensee, R. (2016). Matchmakers: The new economics of multisided platforms. Harvard Business Review Press.
+- Evans, D. S., & Schmalensee, R. (2016). Matchmakers: The new economics of multisided platforms. Harvard Business Review Press.
 
-Farrell, M., & Steele, A. (2018, April 2). Spotify CEO Daniel Ek: Once the Music industry's slayer, now its savior. https://www. wsj.com/articles/spotify-ceo-daniel-ek-once-the-music-industrys-slayer-now-its-savior-1522661400
+- Farrell, M., & Steele, A. (2018, April 2). Spotify CEO Daniel Ek: Once the Music industry's slayer, now its savior. https://www. wsj.com/articles/spotify-ceo-daniel-ek-once-the-music-industrys-slayer-now-its-savior-1522661400
 
-Fleischer, R. (2017). If the song has no price, is it still a commodity? Rethinking the commodification of digital music. Culture Unbound: Journal of Current Cultural Research, 9(2), 146–162.
+- Fleischer, R. (2017). If the song has no price, is it still a commodity? Rethinking the commodification of digital music. Culture Unbound: Journal of Current Cultural Research, 9(2), 146–162.
 
-Gerber, R. (2018, February 22). Spotify can justify valuation by becoming Netflix of music. [https://www.forbes.com/sites/](https://www.forbes.com/sites/) greatspeculations/2018/02/22/spotify-can-justify-valuationby-becoming-netflix-of-music/#13d6102a60fb
+- Gerber, R. (2018, February 22). Spotify can justify valuation by becoming Netflix of music. [https://www.forbes.com/sites/](https://www.forbes.com/sites/) greatspeculations/2018/02/22/spotify-can-justify-valuationby-becoming-netflix-of-music/#13d6102a60fb
 
-Hagen, A. N. (2015). The playlist experience: Personal playlists in music streaming services. Popular Music and Society, 38(5), 625–645.
+- Hagen, A. N. (2015). The playlist experience: Personal playlists in music streaming services. Popular Music and Society, 38(5), 625–645.
 
-Hu, C. (2018, June 1). Spotify vs. Pandora: Which radio competitor is winning at the ad-supported game? [https://is.gd/wZitaf](https://is.gd/wZitaf)
+- Hu, C. (2018, June 1). Spotify vs. Pandora: Which radio competitor is winning at the ad-supported game? [https://is.gd/wZitaf](https://is.gd/wZitaf)
 
-IAB. (2014, April 9). Native advertising. [https://www.iab.com/](https://www.iab.com/) guidelines/native-advertising/
+- IAB. (2014, April 9). Native advertising. [https://www.iab.com/](https://www.iab.com/) guidelines/native-advertising/
 
-Ingham, T. (2016, August 31). Spotify is making its own records . . . and putting them on playlists. [https://www.musicbusinessworldwide.com/spotify-is-creating-its-own-recordings-andputting-them-on-playlists/](https://www.musicbusinessworldwide.com/spotify-is-creating-its-own-recordings-andputting-them-on-playlists/)
+- Ingham, T. (2016, August 31). Spotify is making its own records . . . and putting them on playlists. [https://www.musicbusinessworldwide.com/spotify-is-creating-its-own-recordings-andputting-them-on-playlists/](https://www.musicbusinessworldwide.com/spotify-is-creating-its-own-recordings-andputting-them-on-playlists/)
 
-Ingham, T. (2018a, August 2). Fake artists still dominate Spotify "chill" playlists. Now Universal is fighting back . . . with Apple Music. [https://www.musicbusinessworldwide.com/fakeartists-still-dominate-spotifys-chill-playlists-now-real-artistsare-fighting-back-with-apple-music/](https://www.musicbusinessworldwide.com/fakeartists-still-dominate-spotifys-chill-playlists-now-real-artistsare-fighting-back-with-apple-music/)
+- Ingham, T. (2018a, August 2). Fake artists still dominate Spotify "chill" playlists. Now Universal is fighting back . . . with Apple Music. [https://www.musicbusinessworldwide.com/fakeartists-still-dominate-spotifys-chill-playlists-now-real-artistsare-fighting-back-with-apple-music/](https://www.musicbusinessworldwide.com/fakeartists-still-dominate-spotifys-chill-playlists-now-real-artistsare-fighting-back-with-apple-music/)
 
-Ingham, T. (2018b, June 15). The major labels could block Spotify's expansion into India due to direct licensing fallout. https:// [www.musicbusinessworldwide.com/the-major-labels-couldblock-spotifys-expansion-into-india-this-year/](http://www.musicbusinessworldwide.com/the-major-labels-couldblock-spotifys-expansion-into-india-this-year/)
+- Ingham, T. (2018b, June 15). The major labels could block Spotify's expansion into India due to direct licensing fallout. https:// [www.musicbusinessworldwide.com/the-major-labels-couldblock-spotifys-expansion-into-india-this-year/](http://www.musicbusinessworldwide.com/the-major-labels-couldblock-spotifys-expansion-into-india-this-year/)
 
-Ingham, T. (2018c, August 14). Spotify is on a collision course with the major record companies. Here's why. [https://www.musicbusinessworldwide.com/spotify-is-on-a-road-to-collisionwith-the-record-industry-heres-why/](https://www.musicbusinessworldwide.com/spotify-is-on-a-road-to-collisionwith-the-record-industry-heres-why/)
+- Ingham, T. (2018c, August 14). Spotify is on a collision course with the major record companies. Here's why. [https://www.musicbusinessworldwide.com/spotify-is-on-a-road-to-collisionwith-the-record-industry-heres-why/](https://www.musicbusinessworldwide.com/spotify-is-on-a-road-to-collisionwith-the-record-industry-heres-why/)
 
-Ingham, T. (2018d, September 23). Spotify's direct distribution deals: What do artists get paid? [https://www.musicbusinessworldwide.com/spotifys-direct-distribution-deals-what-dothe-artists-get/](https://www.musicbusinessworldwide.com/spotifys-direct-distribution-deals-what-dothe-artists-get/)
+- Ingham, T. (2018d, September 23). Spotify's direct distribution deals: What do artists get paid? [https://www.musicbusinessworldwide.com/spotifys-direct-distribution-deals-what-dothe-artists-get/](https://www.musicbusinessworldwide.com/spotifys-direct-distribution-deals-what-dothe-artists-get/)
 
-Iqbal, N. (2019, April 28). Forget the DJs: Spotify playlists are the new musical starmakers. [https://www.theguardian.com/](https://www.theguardian.com/) music/2019/apr/28/streaming-music-algorithms-spotify
+- Iqbal, N. (2019, April 28). Forget the DJs: Spotify playlists are the new musical starmakers. [https://www.theguardian.com/](https://www.theguardian.com/) music/2019/apr/28/streaming-music-algorithms-spotify
 
-9
+- Karp, H. (2018a, June 15). As market cheers Spotify's direct deals with artists and managers, labels mull their options. https:// [www.billboard.com/articles/business/8461162/spotify-directdeals-artists-managers-labels-options](http://www.billboard.com/articles/business/8461162/spotify-directdeals-artists-managers-labels-options)
 
-Social Media + Society
+- Karp, H. (2018b, June 6). Spotify offers managers, artists advances to license music directly to its streaming service: Exclusive. https:// [www.billboard.com/articles/business/8459616/spotify-offersmanagers-artists-advances-license-music-directly-exclusive](http://www.billboard.com/articles/business/8459616/spotify-offersmanagers-artists-advances-license-music-directly-exclusive)
 
-Karp, H. (2018a, June 15). As market cheers Spotify's direct deals with artists and managers, labels mull their options. https:// [www.billboard.com/articles/business/8461162/spotify-directdeals-artists-managers-labels-options](http://www.billboard.com/articles/business/8461162/spotify-directdeals-artists-managers-labels-options)
+- Klein, B., Meier, L. M., & Powers, D. (2017). Selling out: Musicians, autonomy, and compromise in the digital age. Popular Music and Society, 40(2), 222–238.
 
-Karp, H. (2018b, June 6). Spotify offers managers, artists advances to license music directly to its streaming service: Exclusive. https:// [www.billboard.com/articles/business/8459616/spotify-offersmanagers-artists-advances-license-music-directly-exclusive](http://www.billboard.com/articles/business/8459616/spotify-offersmanagers-artists-advances-license-music-directly-exclusive)
+- Langley, P., & Leyshon, A. (2017). Platform capitalism: The intermediation and capitalisation of digital economic circulation. Finance and Society, 3(1), 11–31.
 
-Klein, B., Meier, L. M., & Powers, D. (2017). Selling out: Musicians, autonomy, and compromise in the digital age. Popular Music and Society, 40(2), 222–238.
+- Latour, B. (2005). Reassembling the Social: An introduction of actor-network-theory. Oxford University Press.
 
-Langley, P., & Leyshon, A. (2017). Platform capitalism: The intermediation and capitalisation of digital economic circulation. Finance and Society, 3(1), 11–31.
+- Levy, A. (2018, July 14). Spotify's ad business has lots of potential, but investors shouldn't care. [https://finance.yahoo.com/news/](https://finance.yahoo.com/news/) spotify-apos-ad-business-lots-170000127.html
 
-Latour, B. (2005). Reassembling the Social: An introduction of actor-network-theory. Oxford University Press.
+- Lukes, S. (2007). Power. Contexts, 6(3), 59–61.
 
-Levy, A. (2018, July 14). Spotify's ad business has lots of potential, but investors shouldn't care. [https://finance.yahoo.com/news/](https://finance.yahoo.com/news/) spotify-apos-ad-business-lots-170000127.html
+- McIntyre, H. (2016, March 30). Spotify has raised another $1 billion in debt financing. [https://www.forbes.com/sites/](https://www.forbes.com/sites/) hughmcintyre/2016/03/30/spotify-has-raised-another-1-billion-in-debt-financing/#622974535488
 
-Lukes, S. (2007). Power. Contexts, 6(3), 59–61.
+- Meier, L. M. (2017). Popular music as promotion: Music and branding in the digital age. John Wiley.
 
-McIntyre, H. (2016, March 30). Spotify has raised another $1 billion in debt financing. [https://www.forbes.com/sites/](https://www.forbes.com/sites/) hughmcintyre/2016/03/30/spotify-has-raised-another-1-billion-in-debt-financing/#622974535488
+- Meiselman, J. (2018, April 18). Should artists get a cut when their songs land on branded playlists on Spotify? [https://www.billboard.com/articles/business/8344267/branded-playlists-spotify-artists-permission-compensation](https://www.billboard.com/articles/business/8344267/branded-playlists-spotify-artists-permission-compensation)
 
-Meier, L. M. (2017). Popular music as promotion: Music and branding in the digital age. John Wiley.
+- Morris, J. W. (2015). Selling digital music, formatting culture. University of California Press.
 
-Meiselman, J. (2018, April 18). Should artists get a cut when their songs land on branded playlists on Spotify? [https://www.billboard.com/articles/business/8344267/branded-playlists-spotify-artists-permission-compensation](https://www.billboard.com/articles/business/8344267/branded-playlists-spotify-artists-permission-compensation)
+- Morris, J. W., & Powers, D. (2015). Control, curation and musical experience in streaming music services. Creative Industries Journal, 8(2), 106–122.
 
-Morris, J. W. (2015). Selling digital music, formatting culture. University of California Press.
+- Mulligan, M. (2018a, October 18). Spotify, DistroKid and the two sided marketplace. [https://musicindustryblog.wordpress](https://musicindustryblog.wordpress/). com/2018/10/17/spotify-distrokid-and-the-two-sided-marketplace/
 
-Morris, J. W., & Powers, D. (2015). Control, curation and musical experience in streaming music services. Creative Industries Journal, 8(2), 106–122.
+- Mulligan, M. (2018b, June 12). Spotify's new rules of engagement. [https://www.midiaresearch.com/blog/spotifys-new-rules-ofengagement/](https://www.midiaresearch.com/blog/spotifys-new-rules-ofengagement/)
 
-Mulligan, M. (2018a, October 18). Spotify, DistroKid and the two sided marketplace. [https://musicindustryblog.wordpress](https://musicindustryblog.wordpress/). com/2018/10/17/spotify-distrokid-and-the-two-sided-marketplace/
+- Mulligan, M. (2018c, September 24). Spotify's tencent risk. https:// musicindustryblog.wordpress.com/2018/09/21/spotifys-tencent-risk/
 
-Mulligan, M. (2018b, June 12). Spotify's new rules of engagement. [https://www.midiaresearch.com/blog/spotifys-new-rules-ofengagement/](https://www.midiaresearch.com/blog/spotifys-new-rules-ofengagement/)
+- Mulligan, M. (2019, March 13). Label market shares. http://www. midiaresearch.com/blog/2018-global-label-market-sharestream-engine/
 
-Mulligan, M. (2018c, September 24). Spotify's tencent risk. https:// musicindustryblog.wordpress.com/2018/09/21/spotifys-tencent-risk/
+- Napoli, P., & Caplan, R. (2017). Why media companies insist they're not media companies, why they're wrong, and why it matters. First Monday, 22(5). [https://firstmonday.org/ojs/](https://firstmonday.org/ojs/) index.php/fm/article/view/7051
 
-Mulligan, M. (2019, March 13). Label market shares. http://www. midiaresearch.com/blog/2018-global-label-market-sharestream-engine/
+- Nieborg, D. B., & Poell, T. (2018). The platformization of cultural production: Theorizing the contingent cultural commodity. New Media & Society, 20(11), 4275–4292.
 
-Napoli, P., & Caplan, R. (2017). Why media companies insist they're not media companies, why they're wrong, and why it matters. First Monday, 22(5). [https://firstmonday.org/ojs/](https://firstmonday.org/ojs/) index.php/fm/article/view/7051
+- Packer, T. (2016, November 29). Spotify's march to monopolise playlists continues. [https://medium.com/@ExtendedDigest/spotifys-march-to-monopolise-playlists-continues-5d27beb6ee2a](https://medium.com/@ExtendedDigest/spotifys-march-to-monopolise-playlists-continues-5d27beb6ee2a)
 
-Nieborg, D. B., & Poell, T. (2018). The platformization of cultural production: Theorizing the contingent cultural commodity. New Media & Society, 20(11), 4275–4292.
+- Pelly, L. (2017, June 21). The secret lives of playlists. https://watt. cashmusic.org/writing/thesecretlivesofplaylists
 
-Packer, T. (2016, November 29). Spotify's march to monopolise playlists continues. [https://medium.com/@ExtendedDigest/spotifys-march-to-monopolise-playlists-continues-5d27beb6ee2a](https://medium.com/@ExtendedDigest/spotifys-march-to-monopolise-playlists-continues-5d27beb6ee2a)
+- Pelly, L. (2017b). The problem with Muzak: Spotify's bid to remodel an industry. The Baffler, 37, 86–95. https://thebaffler. com/salvos/the-problem-with-muzak-pelly
 
-Pelly, L. (2017, June 21). The secret lives of playlists. https://watt. cashmusic.org/writing/thesecretlivesofplaylists
+- Prey, R. (2015). "Now Playing. You": Big Data and the Production of Music Streaming space [Doctoral dissertation]. Communication, Art & Technology, School of Communication, Simon Fraser University.
 
-Pelly, L. (2017b). The problem with Muzak: Spotify's bid to remodel an industry. The Baffler, 37, 86–95. https://thebaffler. com/salvos/the-problem-with-muzak-pelly
+- Prey, R. (2019). Knowing me, knowing you: Datafication on music streaming platforms. In M. Ahlers, L. Grünewald-Schukalla, M. Lücke, & M. Rauch (Eds.), Big Data und Musik (pp. 9–21). Springer VS.
 
-Prey, R. (2015). "Now Playing. You": Big Data and the Production of Music Streaming space [Doctoral dissertation]. Communication, Art & Technology, School of Communication, Simon Fraser University.
+- Prey, R., Esteve Del Valle, M., & Zwerwer, L. (2020). Platform pop: Disentangling Spotify's intermediary role in the music industry. Information, Communication & Society. Pre published May 22, 2020. doi:10.1080/1369118X.2020.1761859
 
-Prey, R. (2019). Knowing me, knowing you: Datafication on music streaming platforms. In M. Ahlers, L. Grünewald-Schukalla, M. Lücke, & M. Rauch (Eds.), Big Data und Musik (pp. 9–21). Springer VS.
+- Rieder, B., & Sire, G. (2014). Conflicts of interest and incentives to bias: A microeconomic critique of Google's tangled position on the Web. New Media & Society, 16(2), 195–211.
 
-Prey, R., Esteve Del Valle, M., & Zwerwer, L. (2020). Platform pop: Disentangling Spotify's intermediary role in the music industry. Information, Communication & Society. Pre published May 22, 2020. doi:10.1080/1369118X.2020.1761859
+- Rochet, J. C., & Tirole, J. (2003). Platform competition in twosided markets. Journal of the European Economic Association, 1(4), 990–1029.
 
-Rieder, B., & Sire, G. (2014). Conflicts of interest and incentives to bias: A microeconomic critique of Google's tangled position on the Web. New Media & Society, 16(2), 195–211.
+- Sandoval, G. (2018, July 12). The major music labels are upset that they don't get more play on Spotify's mega-popular playlists, says Deutsche Bank. [https://www.businessinsider.nl/spotifycurated-playlists-labels-2018-7/?international=true&r=US](https://www.businessinsider.nl/spotifycurated-playlists-labels-2018-7/?international=true&r=US)
 
-Rochet, J. C., & Tirole, J. (2003). Platform competition in twosided markets. Journal of the European Economic Association, 1(4), 990–1029.
+- Seabrook, J. (2014, June 19). Spotify: Friend or foe? https://www. newyorker.com/magazine/2014/11/24/revenue-streams
 
-Sandoval, G. (2018, July 12). The major music labels are upset that they don't get more play on Spotify's mega-popular playlists, says Deutsche Bank. [https://www.businessinsider.nl/spotifycurated-playlists-labels-2018-7/?international=true&r=US](https://www.businessinsider.nl/spotifycurated-playlists-labels-2018-7/?international=true&r=US)
+- Shah, N. (2018, June 6). Spotify uproar points to the power of the playlist. [https://www.wsj.com/articles/spotify-disputes-pointto-the-power-of-the-playlist-1528307004](https://www.wsj.com/articles/spotify-disputes-pointto-the-power-of-the-playlist-1528307004)
 
-Seabrook, J. (2014, June 19). Spotify: Friend or foe? https://www. newyorker.com/magazine/2014/11/24/revenue-streams
+- Singleton, M. (2015, May 19). This was Sony Music's contract with Spotify. [https://www.theverge.com/2015/5/19/8621581/sonymusic-spotify-contract](https://www.theverge.com/2015/5/19/8621581/sonymusic-spotify-contract)
 
-Shah, N. (2018, June 6). Spotify uproar points to the power of the playlist. [https://www.wsj.com/articles/spotify-disputes-pointto-the-power-of-the-playlist-1528307004](https://www.wsj.com/articles/spotify-disputes-pointto-the-power-of-the-playlist-1528307004)
+- Sloane, G. (2016, October 14) Spotify serves its first vertical video ads in new "Branded Moments." [http://adage.com/](http://adage.com/) article/digital/spotify-serves-vertical-video-ads-brandedmoments/306299/
 
-Singleton, M. (2015, May 19). This was Sony Music's contract with Spotify. [https://www.theverge.com/2015/5/19/8621581/sonymusic-spotify-contract](https://www.theverge.com/2015/5/19/8621581/sonymusic-spotify-contract)
+- Spotify For Brands. (n.d.-a). Audiences. https://spotifyforbrands. com/en-US/audiences/
 
-Sloane, G. (2016, October 14) Spotify serves its first vertical video ads in new "Branded Moments." [http://adage.com/](http://adage.com/) article/digital/spotify-serves-vertical-video-ads-brandedmoments/306299/
+- Spotify For Brands. (n.d.-b). Sponsored playlists. [https://spotifyforbrands.com/en-US/ad-experiences/sponsored-playlist/](https://spotifyforbrands.com/en-US/ad-experiences/sponsored-playlist/)
 
-Spotify For Brands. (n.d.-a). Audiences. https://spotifyforbrands. com/en-US/audiences/
+- Spotify For Brands. (n.d.-c). Branded moments. [https://www.spotifyforbrands.com/en-US/ad-experiences/branded-moments/](https://www.spotifyforbrands.com/en-US/ad-experiences/branded-moments/)
 
-Spotify For Brands. (n.d.-b). Sponsored playlists. [https://spotifyforbrands.com/en-US/ad-experiences/sponsored-playlist/](https://spotifyforbrands.com/en-US/ad-experiences/sponsored-playlist/)
+- Spotify Investors. (2019, February 6). Spotify technology S.A. announces financial results for fourth quarter 2018. https:// investors.spotify.com/financials/press-release-details/2019/ Spotify-Technology-SA-Announces-Financial-Results-for-Fourth-Quarter-2018/default.aspx
 
-Spotify For Brands. (n.d.-c). Branded moments. [https://www.spotifyforbrands.com/en-US/ad-experiences/branded-moments/](https://www.spotifyforbrands.com/en-US/ad-experiences/branded-moments/)
+- Spotify Launches New Playlist Consideration Feature for Artists, Labels. (2018, July 19). [https://www.billboard.com/articles/](https://www.billboard.com/articles/) business/8466137/spotify-launches-new-playlist-consideration-feature-for-artists-labels
 
-Spotify Investors. (2019, February 6). Spotify technology S.A. announces financial results for fourth quarter 2018. https:// investors.spotify.com/financials/press-release-details/2019/ Spotify-Technology-SA-Announces-Financial-Results-for-Fourth-Quarter-2018/default.aspx
+- Srnicek, N. (2017). Platform capitalism. John Wiley & Sons.
 
-Spotify Launches New Playlist Consideration Feature for Artists, Labels. (2018, July 19). [https://www.billboard.com/articles/](https://www.billboard.com/articles/) business/8466137/spotify-launches-new-playlist-consideration-feature-for-artists-labels
+- Thomson, K. (2009). Same old song: An analysis of radio playlists in a post-FCC consent decree world [Report]. Future of Music Coalition.
 
-Srnicek, N. (2017). Platform capitalism. John Wiley & Sons.
+- Tiffany, K. (2019, January 11). Spotify's most personalized playlist is now for sale to brands. [https://www.vox.com/](https://www.vox.com/) the-goods/2019/1/11/18178701/spotify-discover-weeklybrand-playlists-personalization
 
-Thomson, K. (2009). Same old song: An analysis of radio playlists in a post-FCC consent decree world [Report]. Future of Music Coalition.
+- United States Securities and Exchange Commission. (2018, March 23). Form F-1 registration statement, Spotify technology, S.A. [https://www.sec.gov/Archives/edgar/data/1639920/](https://www.sec.gov/Archives/edgar/data/1639920/) 000119312518092759/d494294df1a.htm
 
-10
+- Universal Music. (2018, August 2) Universal Music group launches "Peaceful Music" playlist with Apple Music. [http://www.umusic.ca/press-releases/universal-music-group-launches-peaceful-music-playlist-apple-music/](http://www.umusic.ca/press-releases/universal-music-group-launches-peaceful-music-playlist-apple-music/)
 
-Tiffany, K. (2019, January 11). Spotify's most personalized playlist is now for sale to brands. [https://www.vox.com/](https://www.vox.com/) the-goods/2019/1/11/18178701/spotify-discover-weeklybrand-playlists-personalization
+- van Dijck, J., Poell, T., & de Waal, M. (2018). The platform society: Public values in a connective world. Oxford University Press.
 
-United States Securities and Exchange Commission. (2018, March 23). Form F-1 registration statement, Spotify technology, S.A. [https://www.sec.gov/Archives/edgar/data/1639920/](https://www.sec.gov/Archives/edgar/data/1639920/) 000119312518092759/d494294df1a.htm
+- Vonderau, P. (2019). The Spotify effect: Digital distribution and financial growth. Television & New Media, 20(1), 3–19.
 
-Universal Music. (2018, August 2) Universal Music group launches "Peaceful Music" playlist with Apple Music. [http://www.umusic.ca/press-releases/universal-music-group-launches-peaceful-music-playlist-apple-music/](http://www.umusic.ca/press-releases/universal-music-group-launches-peaceful-music-playlist-apple-music/)
+- Weissbrot, A. (2017, January 3). Wendy's taps Spotify branded moments to catch you when you're hungry. https://adexchanger. com/advertiser/wendys-taps-spotify-branded-moments-catchyoure-hungry/
 
-van Dijck, J., Poell, T., & de Waal, M. (2018). The platform society: Public values in a connective world. Oxford University Press.
-
-Vonderau, P. (2019). The Spotify effect: Digital distribution and financial growth. Television & New Media, 20(1), 3–19.
-
-Weissbrot, A. (2017, January 3). Wendy's taps Spotify branded moments to catch you when you're hungry. https://adexchanger. com/advertiser/wendys-taps-spotify-branded-moments-catchyoure-hungry/
-
-Wyatt, I. (2017, August 4). Spotify IPO: Buy shares in the "Netflix of Music" before IPO. [https://www.wyattresearch.com/article/](https://www.wyattresearch.com/article/) spotify-ipo-buy-shares-in-netflix-of-music/
-
-# Author Biography
-
-Robert Prey (PhD Simon Fraser University) is an assistant professor in the Centre for Media and Journalism Studies at the University of Groningen. His research lies at the intersection of technology, political economy, and culture.
-
-11
+- Wyatt, I. (2017, August 4). Spotify IPO: Buy shares in the "Netflix of Music" before IPO. [https://www.wyattresearch.com/article/](https://www.wyattresearch.com/article/) spotify-ipo-buy-shares-in-netflix-of-music/

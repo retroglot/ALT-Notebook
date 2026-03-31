@@ -105,10 +105,14 @@ One other related concept is that of message boundaries or record markers. As sh
 
 
 # 1.1.2 The End-to-End Argument and Fate Sharing
+**端到端论证与命运共享**
 
 When large systems such as an operating system or protocol suite are being designed, a question often arises as to where a particular feature or function should be placed. One of the most important principles that influenced the design of the TCP/IP suite is called the end-to-end argument [^SRC84]:
 
-The function in question can completely and correctly be implemented only with the knowledge and help of the application standing at the end points of the communication system. Therefore, providing that questioned function as a feature of the communication itself is not possible. (Sometimes an incomplete version of the function provided by the communication system may be useful as a performance enhancement.)
+- The function in question can completely and correctly be implemented only with the knowledge and help of the application standing at the end points of the communication system. Therefore, providing that questioned function as a feature of the communication itself is not possible. (Sometimes an incomplete version of the function provided by the communication system may be useful as a performance enhancement.)
+
+> 当设计大型系统，如操作系统或协议套件时，一个常见的问题是：特定的特性或功能应该放在哪里。影响 TCP/IP 套件设计的最重要原则之一被称为端到端论证 [^SRC84]：
+> - 所讨论的功能只有在通信系统端点的应用程序的知识和帮助下才能完全正确地实现。因此，将该质疑功能作为通信本身的一个特性提供是不可能的。（有时，通信系统提供的不完整版本的功能可能对性能增强有用。）
 
 This argument may seem fairly straightforward upon first reading but can have profound implications for communication system design. It argues that correctness and completeness can be achieved only by involving the application or ultimate user of the communication system. Efforts to correctly implement what the application is "likely" to need are doomed to incompleteness. In short, this principle argues that important functions (e.g., error control, encryption, delivery acknowledgment) should usually not be implemented at low levels (or layers; see Section 1.2.1) of large systems. However, low levels may provide capabilities that make the job of the endpoints somewhat easier and consequently may improve performance. A nuanced reading reveals that this argument suggests that low-level functions should not aim for perfection because a perfect guess at what the application may require is unlikely to be possible.
 

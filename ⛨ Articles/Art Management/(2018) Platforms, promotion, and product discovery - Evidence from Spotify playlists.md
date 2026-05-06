@@ -2,16 +2,15 @@
 **平台、推广与产品发现：来自 Spotify 播放列表的证据**
 
 > LUIS AGUIAR, JOEL WALDFOGEL
-
-© 2018 by Luis Aguiar and Joel Waldfogel. All rights reserved. Short sections of text, not to exceed two paragraphs, may be quoted without explicit permission provided that full credit, including © notice, is given to the source.
-
 # ABSTRACT
+**摘要**
 
 Digitization has vastly increased the amount of new music produced and available directly to consumers. While this has levelled the playing field between already-prominent and new artists, creators may now be dependent on platform decisions about which songs and artist to promote. With Spotify emerging as a major interactive streaming platform, this paper explores the effect of Spotify's playlists on both the promotion of songs and the discovery of music by new artists, using four approaches. First, we examine songs' streaming volumes before and after their addition to, and removal from, major global playlists. Second, we compare streaming volumes for songs just on, and just off, algorithmic top 50 playlists. Third, we make use of cross-country differences in inclusion on New Music Friday lists, using song fixed effects to explain differences in streaming. Fourth, we develop an instrumental variables approach to explaining cross-country New Music Friday rank differentials based on home bias. Being added to Today's Top Hits, a list with 18.5 million followers during the sample period, raises streams by almost 20 million and is worth between $123,400 and $163,000. Inclusion on New Music Friday lists substantially raises the probability of song success, including for new artists.
 
 > 数字化极大地增加了新音乐的制作数量，并使其能够直接触达消费者。尽管这缩小了知名艺人与新兴艺人之间的竞争差距，但创作者如今可能依赖于平台关于推广哪些歌曲和艺人的决策。随着 Spotify 崛起为主要互动流媒体平台，本文通过四种方法探讨了 Spotify 播放列表对歌曲推广和新艺人音乐发现的影响。首先，我们考察了歌曲在加入和移出主要全球播放列表前后的流媒体播放量变化。其次，我们比较了恰好进入算法生成的热门 50 播放列表与恰好未进入该列表的歌曲的流媒体播放量。第三，我们利用《新音乐星期五》列表在不同国家的收录差异，结合歌曲固定效应来解释流媒体播放量的区别。第四，我们开发了一种工具变量方法，基于本土偏好来解释跨国《新音乐星期五》排名差异。被加入《今日热门歌曲》列表（该列表在样本期内拥有 1850 万关注者）可使歌曲流量增加近 2000 万次，价值介于 123,400 美元至 163,000 美元之间。入选《新音乐星期五》列表能显著提高歌曲成功的概率，对新艺人而言亦是如此。
 
-# 1 INTRODUCTION
+# Ⅰ INTRODUCTION
+**Ⅰ 引言**
 
 Digitization has stimulated substantial growth in new song production and has, with the development of online music streaming, also broken the traditional promotion and distribution bottlenecks inherent in terrestrial radio and traditional music retailing.[^1] During 2016, Spotify added over half a million (567,693) songs to its catalog and during 2017 nearly an additional million (934,265).[^2] As a result, Spotify users have access to 35 million tracks via any Internet-connected device.[^3] Consumers' access to large catalogs, and the converse - that creators, not just those from established record labels, have access to large audiences - are on their face a substantial levelling of the playing field, holding out the promise of deconcentrating consumption toward a long tail of products hailing from diverse sources such as independent record labels and foreign producers.[^4]
 

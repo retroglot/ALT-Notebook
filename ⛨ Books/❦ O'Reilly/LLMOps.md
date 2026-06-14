@@ -281,14 +281,14 @@ The training data used to develop an LLM shapes its behavior and outputs. Variat
 
 > 用于开发 LLM 的训练数据决定了其行为与输出。模型训练所用数据集的差异，会导致它们处理特定话题或问题的方式产生变化。部分模型会因训练数据而表现出偏见，这会影响其回答的准确性与公平性。选择训练数据集多样且具有代表性的模型，有助于降低这些风险，并确保获得更可靠、更公平的结果。
 
-#### *d) Customization and adaptability*
+#### *d. Customization and adaptability*
 **定制化与适应性**
 
 Your needs might not fit neatly into the one-size-fits-all approach of a generic LLM. Some models offer greater flexibility and can be fine-tuned or customized to better suit your specific requirements. If that's what you need, choose one with strong customization capabilities so that you can mold it to better fit your use case.
 
 > 你的需求可能无法完全契合通用 LLM 那种“一刀切”的方法。有些模型提供了更大的灵活性，可以进行微调或定制，以更好地满足你的特定要求。如果这正是你所需要的，请选择一款具备强大定制能力的模型，这样你就可以对其进行调整，使其更贴合你的使用场景。
 
-#### *e) Integration and support*
+#### *e. Integration and support*
 **集成与支持**
 
 The practical aspects of integrating an LLM into your existing systems and workflows cannot be overlooked. Some models come with robust support and documentation, making integration smoother and less time-consuming. Others require more effort to set up and maintain. Considering how well a model integrates with your infrastructure and the level of support available can save you time and reduce headaches over the long run.
@@ -306,181 +306,258 @@ Remember: the model you choose matters. By carefully evaluating your needs and u
 > 请记住：您选择的模型至关重要。通过仔细评估您的需求，并了解不同模型的优势与局限，您可以做出明智的选择，使其与您的目标保持一致，并为您奠定成功的基础。
 
 ### 2) The Big Debate: Open Source Versus Proprietary LLMs
+**大辩论：开源LLM vs 专有LLM**
 
 Companies must navigate a complex landscape when choosing among open source, closed-source, and open weight LLMs. Figure 1-1 shows the choices of a sample of companies today. This section looks at each option's limitations and benefits.
 
-![[Pasted image 20260609191002.png]]
-Figure 1-1. Enterprise adoption of different proprietary LLMs (source: Andreessen Horo‐ witz)
+> 公司在选择开源、闭源和开放权重的 LLM 时，必须应对复杂的局面。图 1-1 展示了当前部分公司的选择情况。本节将探讨每种选项的局限性与优势。
 
-## Open source and open weight LLMs
+
+![[Pasted image 20260609191002.png]]
+`Figure 1-1. Enterprise adoption of different proprietary LLMs (source: Andreessen Horowitz)`
+`图1-1.企业对不同专有 LLM 的采用情况（来源：安德森·霍洛维茨基金）`
+
+#### a. Open source and open weight LLMs
+**开源和开放权重的 LLM**
 
 Open source and open weight are two types of publicly accessible LLMs that have gained traction in the AI community as of this writing, particularly among those looking to customize, deploy, or study advanced AI without relying on proprietary solutions.
 
-Open source LLMs are models with freely available underlying source code. Anyone can inspect, modify, and potentially redistribute the model and its architecture. These models typically include details about the architecture, training methods, and source code for the framework. Using open source models provides technical transparency and adaptability and fosters a community of collaboration. However, open source LLMs may or may not come with pretrained weights, the trained parameters that make the model functional and useful for specific tasks. These weights are the model's "knowledge" gained from its training on large datasets and are essential for the model to perform effectively without retraining from scratch. Companies that want to take advantage of such models may need to acquire the training data themselves.
+> 开源和开放权重是两种公开可访问的大语言模型，截至撰写本文时，它们在人工智能社区中已获得广泛关注，尤其是那些希望在不依赖专有解决方案的情况下定制、部署或研究先进 AI 的人群。
 
-10
+*Open source* LLMs are models with freely available underlying source code. Anyone can inspect, modify, and potentially redistribute the model and its architecture. These models typically include details about the architecture, training methods, and source code for the framework. Using open source models provides technical transparency and adaptability and fosters a community of collaboration. However, open source LLMs may or may not come with pretrained weights, the trained parameters that make the model functional and useful for specific tasks. These weights are the model's "knowledge" gained from its training on large datasets and are essential for the model to perform effectively without retraining from scratch. Companies that want to take advantage of such models may need to acquire the training data themselves.
 
-Chapter 1: Introduction to Large Language Models
+> *开源* LLM 是指其底层源代码可自由获取的模型。任何人都可以审查、修改，甚至重新分发模型及其架构。这类模型通常会公开架构细节、训练方法以及框架的源代码。使用开源模型能带来技术透明性和适应性，并促进社区协作。不过，开源 LLM 可能附带也可能不附带预训练权重——这些经过训练的参数量决定了模型的功能性及其在特定任务中的实用性。这些权重是模型通过大规模数据集训练获得的“知识”，对于模型无需从头重新训练就能有效运行至关重要。希望利用此类模型的企业可能需要自行获取训练数据。
 
-With open weight LLMs, the weights are publicly accessible. Having access to the weights means that users can directly deploy the model for real-world applications like text generation, summarization, and translation or fine-tune it on their own data. While many open weight models are also open source, some restrict use for commer‐ cial applications or require adherence to specific licensing terms, as seen with models like Meta's Llama series.
+With *open weight* LLMs, the weights are publicly accessible. Having access to the weights means that users can directly deploy the model for real-world applications like text generation, summarization, and translation or fine-tune it on their own data. While many open weight models are also open source, some restrict use for commercial applications or require adherence to specific licensing terms, as seen with models like Meta's Llama series.
+
+> 对于 *开放权重* 的 LLM，其权重是公开可访问的。拥有权重访问权限意味着用户可以直接部署模型用于实际应用，例如文本生成、摘要、翻译，或基于自身数据对模型进行微调。尽管许多开放权重模型也属于开源范畴，但部分模型会限制商业用途或要求遵守特定许可条款，例如 Meta 的 Llama 系列模型。
 
 The distinction between open source and open weight LLMs is crucial in determining how accessible and useful a model is "out of the box." Open source models without weights can still allow for architectural experimentation and model-training setups, but they lack immediate functionality for practical applications until they are trained, and training requires substantial computational resources. In contrast, open weight models provide ready-to-use capabilities, making them more accessible to developers who do not have the resources for large-scale model training but want to fine-tune or deploy a pretrained model.
 
-By leveraging open source and/or open weight models such as Llama or Mistral, companies can deploy models on existing hardware. This can be more cost-effective than using cloud-based proprietary solutions, which involve renting hardware. Such an approach can be particularly advantageous for startups or small to medium enter‐ prises (SMEs) operating under tight budget constraints. For these companies, the financial savings can free up resources for other needs, like fine-tuning.
+> 开源与开放权重的 LLM 之间的区别，对于判断一个模型“开箱即用”的易用性和实用性至关重要。不包含权重的开源模型仍允许进行架构实验和模型训练设置，但它们在训练完成前缺乏实际应用的即时功能，而训练需要大量的计算资源。相比之下，开放权重的模型提供了即用型能力，使那些没有资源进行大规模模型训练、但希望微调或部署预训练模型的开发者更容易使用。
+
+By leveraging open source and/or open weight models such as Llama or Mistral, companies can deploy models on existing hardware. This can be more cost-effective than using cloud-based proprietary solutions, which involve renting hardware. Such an approach can be particularly advantageous for startups or small to medium enterprises (SMEs) operating under tight budget constraints. For these companies, the financial savings can free up resources for other needs, like fine-tuning.
+
+> 通过利用 Llama 或 Mistral 等开源和/或开放权重模型，企业可以在现有硬件上部署模型。这比使用基于云的专有解决方案更具成本效益，因为后者需要租赁硬件。对于预算紧张运营的初创公司或中小企业（SMEs）而言，这种方法尤为有利。对这些公司来说，节省的资金可以释放资源用于其他需求，例如微调。
 
 A company may have requirements besides financial concerns, such as wanting to ensure that the training data includes or excludes specific datasets. In these cases, an open weight model is not sufficient; the business really needs an open source model. For example, a company may want to guarantee that a model has never seen a specific data point; an open weight model whose training dataset is not shared can't offer such a guarantee.
 
-Community support is another potential advantage of open source LLMs. The collab‐ orative nature of the open source ecosystem means that developers, researchers, and organizations continuously contribute to improving these models, and newly finetuned models are easily available via Hugging Face. Companies benefit not only from this collective intelligence but also from access to a wider range of resources, tools, and best practices. This community-driven development is dynamic and evolving, and it's often where new developments begin.
+> 除了财务方面的考量，公司可能还有其他需求，例如希望确保训练数据包含或排除特定数据集。在这种情况下，仅开放权重的模型是不够的，企业真正需要的是开源模型。例如，一家公司可能希望保证模型从未见过某个特定数据点；而训练数据集未公开的开放权重模型无法提供这种保证。
 
-However, the open source/open weight approach is not without its challenges. Main‐ tenance and support can be significant hurdles. Data privacy and security also emerge as big concerns. Transparency can be a double-edged sword, exposing a company to potential risks even as it demands significant effort to safeguard sensitive information and comply with data protection regulations. Ensuring that these models do not become a vector for security breaches requires meticulous attention and proactive measures.
+Community support is another potential advantage of open source LLMs. The collaborative nature of the open source ecosystem means that developers, researchers, and organizations continuously contribute to improving these models, and newly finetuned models are easily available via Hugging Face. Companies benefit not only from this collective intelligence but also from access to a wider range of resources, tools, and best practices. This community-driven development is dynamic and evolving, and it's often where new developments begin.
 
-Choosing an LLM
+> 社区支持是开源大语言模型的另一个潜在优势。开源生态系统的协作特性意味着开发者、研究人员和组织机构会持续为改进这些模型做出贡献，而新微调后的模型也能通过 Hugging Face 轻松获取。企业不仅能从这种集体智慧中受益，还能获得更广泛的资源、工具和最佳实践。这种社区驱动的发展模式充满活力且不断演进，许多新进展往往正是从这里起步。
 
-11
+However, the open source/open weight approach is not without its challenges. Maintenance and support can be significant hurdles. Data privacy and security also emerge as big concerns. Transparency can be a double-edged sword, exposing a company to potential risks even as it demands significant effort to safeguard sensitive information and comply with data protection regulations. Ensuring that these models do not become a vector for security breaches requires meticulous attention and proactive measures.
 
-Scalability and performance are additional considerations. Open source LLMs aren't always optimized for large-scale deployments. Companies with substantial opera‐ tional demands might face performance bottlenecks or scalability challenges. The customization required to adapt open source models for enterprise-grade applica‐ tions can be resource intensive and require significant engineering efforts.
+> 然而，开源/开放权重的方法并非没有挑战。维护和支持可能是重大障碍。数据隐私和安全也成为一大担忧。透明度可能是一把双刃剑，既让公司面临潜在风险，又需要付出巨大努力来保护敏感信息并遵守数据保护法规。确保这些模型不会成为安全漏洞的传播途径，需要细致的关注和主动的措施。
 
-Open source and open weight language models also introduce security concerns. Anyone can immediately use, fine-tune, or modify pretrained open weight models and potentially apply them in harmful ways, such as generating misinformation, cre‐ ating realistic fake content, or deploying automated tools for phishing and social engineering. Since open weight models' training data often includes both public and proprietary datasets, they can also sometimes unintentionally generate or reveal sen‐ sitive or biased information embedded in the training data, posing privacy risks.
+Scalability and performance are additional considerations. Open source LLMs aren't always optimized for large-scale deployments. Companies with substantial operational demands might face performance bottlenecks or scalability challenges. The customization required to adapt open source models for enterprise-grade applications can be resource intensive and require significant engineering efforts.
 
-Furthermore, open source models, which include the code and architectural blue‐ prints, are vulnerable to manipulation and exploitation. Malicious actors can intro‐ duce harmful code or adjust models to bypass safety mechanisms, then distribute these altered versions under the guise of legitimate software. This can lead to scenar‐ ios where organizations unknowingly adopt models that include backdoors or biased, harmful outputs. The decentralized nature of open source development means that code modifications don't always go through rigorous security checks, leaving room for vulnerabilities that could be exploited. Addressing these security challenges requires adopting responsible AI practices, including rigorous code reviews, security audits, and clear usage policies to mitigate risks while promoting open collaboration.
+> 可扩展性和性能是额外的考量因素。开源大语言模型并不总是针对大规模部署进行优化。运营需求较大的公司可能会面临性能瓶颈或可扩展性方面的挑战。为将开源模型适配至企业级应用所需的定制化工作，可能耗费大量资源并需要投入显著的工程力量。
+
+Open source and open weight language models also introduce security concerns. Anyone can immediately use, fine-tune, or modify pretrained open weight models and potentially apply them in harmful ways, such as generating misinformation, creating realistic fake content, or deploying automated tools for phishing and social engineering. Since open weight models' training data often includes both public and proprietary datasets, they can also sometimes unintentionally generate or reveal sensitive or biased information embedded in the training data, posing privacy risks.
+
+> 开源和开放权重的语言模型也带来了安全隐患。任何人都可以立即使用、微调或修改预训练的开放权重模型，并可能以有害的方式应用它们，例如生成虚假信息、制作逼真的伪造内容，或部署用于钓鱼攻击和社会工程学的自动化工具。由于开放权重模型的训练数据通常同时包含公开和专有数据集，它们有时也可能无意中生成或泄露训练数据中嵌入的敏感或有偏见的信息，从而带来隐私风险。
+
+Furthermore, open source models, which include the code and architectural blueprints, are vulnerable to manipulation and exploitation. Malicious actors can intro‐ duce harmful code or adjust models to bypass safety mechanisms, then distribute these altered versions under the guise of legitimate software. This can lead to scenarios where organizations unknowingly adopt models that include backdoors or biased, harmful outputs. The decentralized nature of open source development means that code modifications don't always go through rigorous security checks, leaving room for vulnerabilities that could be exploited. Addressing these security challenges requires adopting responsible AI practices, including rigorous code reviews, security audits, and clear usage policies to mitigate risks while promoting open collaboration.
+
+> 此外，开源模型（包括代码和架构蓝图）容易受到操纵和利用。恶意行为者可以引入有害代码或调整模型以绕过安全机制，然后以合法软件的名义分发这些被篡改的版本。这可能导致组织在不知情的情况下采用包含后门或带有偏见、有害输出的模型。开源开发的去中心化特性意味着代码修改并不总是经过严格的安全检查，从而为可能被利用的漏洞留下空间。应对这些安全挑战需要采用负责任的人工智能实践，包括严格的代码审查、安全审计和明确的使用政策，以在促进开放协作的同时降低风险。
 
 Carefully review any contractual restrictions on usage before adopting a model. You don't want to build a whole commercial application around an open source LLM only to find out that it does not allow commercial usage.
 
-## Closed-source LLMs
+> 在采用模型之前，请仔细审查任何关于使用的合同限制。 您不希望围绕一个开源 LLM 构建整个商业应用程序，却发现它不允许商业用途。
 
-On the other side of the spectrum are closed-source, or proprietary, LLMs such as those developed by leading tech giants. These models often come with robust support and maintenance, including dedicated assistance for troubleshooting and optimizing performance. This support infrastructure ensures that any issues encountered are addressed promptly, allowing companies to focus on their core activities without get‐ ting sidetracked by technical difficulties.
+#### b. Closed-source LLMs
+**闭源 LLM**
+
+On the other side of the spectrum are closed-source, or proprietary, LLMs such as those developed by leading tech giants. These models often come with robust support and maintenance, including dedicated assistance for troubleshooting and optimizing performance. This support infrastructure ensures that any issues encountered are addressed promptly, allowing companies to focus on their core activities without getting sidetracked by technical difficulties.
+
+> 在光谱的另一端，是闭源或专有的 LLM，例如由领先科技巨头开发的模型。这些模型通常配备强大的支持与维护服务，包括针对故障排除和性能优化的专属协助。这种支持基础设施确保任何遇到的问题都能得到及时解决，使企业能够专注于核心业务，而不会被技术难题所牵绊。
 
 Closed-source LLMs are generally optimized for large-scale deployments, making sure that they can scale with operational loads effectively, so they often come with performance guarantees. Their performance benchmarks often reflect their ability to deliver consistent and reliable results—a critical factor for companies with high operational demands.
 
-One of the primary limitations of the closed-source approach is the high cost. Another is the lack of transparency, which means that companies have limited visibility into the internal workings of these models. While this concern may seem unusual, consider a scenario in which a commercial LLM provider inadvertently con‐ sumes private data during training. You use this LLM provider for your own applica‐ tion, and some of your users realize how to get your application to reveal the private data. The people whose data was revealed sue you. We recommend that you fully understand what legal protections are in place when using information services like third-party LLMs.
+> 闭源 LLM 通常针对大规模部署进行了优化，确保它们能够有效应对运营负载的扩展，因此往往附带性能保证。其性能基准测试通常反映了它们提供一致且可靠结果的能力——这对于运营需求较高的企业而言是一个关键因素。在 2025 年，许多公司开始依赖这些模型，因为它们的性能指标在公开数据中得到了验证，例如准确率和响应时间。
 
-12
+One of the primary limitations of the closed-source approach is the high cost. Another is the lack of transparency, which means that companies have limited visibility into the internal workings of these models. While this concern may seem unusual, consider a scenario in which a commercial LLM provider inadvertently consumes private data during training. You use this LLM provider for your own applica‐ tion, and some of your users realize how to get your application to reveal the private data. The people whose data was revealed sue you. We recommend that you fully understand what legal protections are in place when using information services like third-party LLMs.
 
-Chapter 1: Introduction to Large Language Models
+> 闭源方法的主要局限性之一是成本高昂。另一个是缺乏透明度，这意味着企业对模型内部运作的可见性有限。虽然这种担忧看似不寻常，但请设想一个场景：某商业 LLM 提供商在训练过程中无意中使用了私人数据。你使用该提供商开发自己的应用程序，而部分用户发现了如何让应用泄露这些私人数据。数据被泄露的人将你告上法庭。我们建议你充分了解使用第三方 LLM 等信息服务时，法律提供了哪些保护措施。
 
 Regardless of these drawbacks, companies are willing to make expensive bets right now, hoping for excellent returns in the future from investing in GenAI applications.
 
-## Enterprise Use Cases for LLMs
+> 尽管存在这些不足，企业目前仍愿意进行高额投入，期望未来能从生成式 AI 应用中获取丰厚回报。
+
+## 6. Enterprise Use Cases for LLMs
+**LLM 的企业用例**
 
 LLMs are transforming enterprise operations in many industries, from changing how we retrieve knowledge to enhancing autonomous agents. They do this through a handful of applications, including knowledge retrieval, translation, audio–speech synthesis, recommender systems, and autonomous agents.
 
-## Knowledge Retrieval
+> LLM 正在改变许多行业的企业运营方式，从改变我们检索知识的方式到增强自主智能体。它们通过一系列应用实现这一点，包括知识检索、翻译、语音合成、推荐系统和自主智能体。
 
-People have long used search engines to discover information, but the limitations of these tools' have become more apparent as data volumes and complexity grow. LLMs offer a new paradigm for accessing and using information. Unlike conventional sys‐ tems, which rely heavily on keyword matching and ranking algorithms, LLMs bring a conversational, personalized approach to information retrieval.
+### 1) Knowledge Retrieval
+**知识检索**
+
+People have long used search engines to discover information, but the limitations of these tools' have become more apparent as data volumes and complexity grow. LLMs offer a new paradigm for accessing and using information. Unlike conventional systems, which rely heavily on keyword matching and ranking algorithms, LLMs bring a conversational, personalized approach to information retrieval.
+
+> 长期以来，人们一直使用搜索引擎来发现信息，但随着数据量和复杂性的增长，这些工具的局限性也愈发明显。LLM 为访问和使用信息提供了一种新的范式。与严重依赖关键词匹配和排序算法的传统系统不同，LLM 为信息检索带来了对话式、个性化的方法。
 
 Users can engage in long conversations with LLMs. Instead of simply receiving a list of links or documents, they can set parameters for the tone, intent, and structure of the information they need. This capability transforms the search experience from a transactional process into a dynamic dialogue. For example, an LLM can interpret a request like "Explain this concept as if I were a beginner," and provide a tailored explanation that's both accessible and relevant.
 
+> 用户可以与大型语言模型进行长时间的对话。他们不再只是收到一系列链接或文档，而是可以为所需信息的语气、意图和结构设置参数。这种能力将搜索体验从一次性的交易过程转变为动态的对话。例如，大型语言模型可以理解“请像对初学者一样解释这个概念”这样的请求，并提供既易于理解又切合实际的定制化解释。
+
 On the data retrieval side, LLMs can enhance productivity tools, for example through integrations with office software suites like those from Google and Microsoft. Imag‐ ine querying a spreadsheet with natural language to extract insights or asking a docu‐ ment to summarize key points. This simplifies data management and makes complex information more accessible. Furthermore, LLMs can integrate with internal systems to automate routine tasks and create knowledge graphs, streamlining workflows and enhancing organizational efficiency. However, while LLMs improve the accuracy and relevance of information retrieval, they also require meticulous handling to ensure data privacy and system security.
 
-Enterprise Use Cases for LLMs
+> 在数据检索方面，LLM 可以提升生产力工具的效率，例如通过与 Google 和 Microsoft 等办公软件套件的集成。想象一下，用自然语言查询电子表格以提取洞察，或让文档总结关键点。这简化了数据管理，使复杂信息更易获取。此外，LLM 可以与内部系统集成，自动化日常任务并创建知识图谱，从而简化工作流程并提高组织效率。然而，尽管 LLM 提高了信息检索的准确性和相关性，它们也需要谨慎处理，以确保数据隐私和系统安全。
 
-13
+### 2) Translation
+**翻译**
 
-## Translation
+Translation is another domain where LLMs are being used heavily. Traditional machine translation systems often struggled with languages for which they had limited datasets, as they had to rely on statistical methods. LLMs are changing this by offering zero-shot and few-shot translation capabilities. Zero-shot refers to the model's ability to translate languages without prior examples, a feat that was previously challenging. Few-shot, on the other hand, allows LLMs to perform well with minimal data.
 
-Translation is another domain where LLMs are being used heavily. Traditional machine translation systems often struggled with languages for which they had limi‐ ted datasets, as they had to rely on statistical methods. LLMs are changing this by offering zero-shot and few-shot translation capabilities. Zero-shot refers to the mod‐ el's ability to translate languages without prior examples, a feat that was previously challenging. Few-shot, on the other hand, allows LLMs to perform well with minimal data.
+> 翻译是 LLM 被广泛应用的另一个领域。传统机器翻译系统在处理数据集有限的语言时常常面临困难，因为它们不得不依赖统计方法。LLM 通过提供零样本和少样本翻译能力正在改变这一现状。零样本指的是模型无需事先示例即可翻译语言的能力，这在以前是一项具有挑战性的壮举。而少样本则允许 LLM 在数据极少的情况下也能表现出色。
 
-This is particularly advantageous for translating languages that are underrepresented in training datasets. For companies involved in global operations or content creation, this is a major selling point. It eases localization of content, such as subtitling films or translating marketing materials, without extensive data requirements, allowing com‐ panies to expand into new markets without investing too many resources up front.
+This is particularly advantageous for translating languages that are underrepresented in training datasets. For companies involved in global operations or content creation, this is a major selling point. It eases localization of content, such as subtitling films or translating marketing materials, without extensive data requirements, allowing companies to expand into new markets without investing too many resources up front.
 
-LLMs trained on multilingual datasets can easily adapt to new languages, allowing translations across a broader spectrum of languages, including those with sparse resources. The applications for this extend to literature, film, and even real-time com‐ munication, where accurate and contextually appropriate translation can be helpful.
+> 这对于翻译在训练数据集中代表性不足的语言尤为有利。对于从事全球运营或内容创作的公司来说，这是一个重要的卖点。它简化了内容本地化过程，例如为电影添加字幕或翻译营销材料，无需大量的数据需求，从而使公司能够在不预先投入过多资源的情况下拓展新市场。
+
+LLMs trained on multilingual datasets can easily adapt to new languages, allowing translations across a broader spectrum of languages, including those with sparse resources. The applications for this extend to literature, film, and even real-time communication, where accurate and contextually appropriate translation can be helpful.
+
+> 在多种语言数据集上训练的 LLM 能够轻松适应新语言，从而支持更广泛语言的翻译，包括资源匮乏的语言。其应用可延伸至文学、电影甚至实时交流领域，在这些场景中，准确且符合语境的翻译能发挥重要作用。
 
 Yet, while LLMs offer significant improvements over traditional translation methods, maintaining accuracy and handling idioms still remain open challenges.
 
-## Speech Synthesis
+> 然而，尽管 LLM 相比传统翻译方法有了显著改进，但在维持准确性和处理习语方面，仍然存在未解决的挑战。
 
-The ability to generate speech that resonates with human listeners can significantly enhance user experience and interaction. Speech synthesis, generating audio that mimics human speech from text, is another area where LLMs are making remarkable progress. Historically, speech synthesis systems have struggled with creating natural and engaging audio outputs: the sound generated sounded clearly "robotic." LLMs, however, have the potential to revolutionize this field by generating human-like speech with impressive fidelity. With training on text and audio datasets, LLMs can understand and replicate the subtleties of human speech, such as intonation, rhythm, and stress.
+### 3) Speech Synthesis
+**语音合成**
 
-This is useful for applications like virtual assistants, realistic voice-overs for charac‐ ters in video games, or engaging audio content for educational materials. Using LLMs to automate the creation of speech content makes it easy for businesses to produce large volumes of content without the time and costs of extensive manual recording. However, audio–speech synthesis still has room to improve, especially with regard to recognizing accents and other variations in speech.
+The ability to generate speech that resonates with human listeners can significantly enhance user experience and interaction. *Speech synthesis*, generating audio that mimics human speech from text, is another area where LLMs are making remarkable progress. Historically, speech synthesis systems have struggled with creating natural and engaging audio outputs: the sound generated sounded clearly "robotic." LLMs, however, have the potential to revolutionize this field by generating human-like speech with impressive fidelity. With training on text and audio datasets, LLMs can understand and replicate the subtleties of human speech, such as intonation, rhythm, and stress.
 
-14
+> 生成能与人类听众产生共鸣的语音能力，可以显著提升用户体验和交互效果。*语音合成* ——即从文本生成模仿人类语音的音频——是 LLM 取得显著进展的另一个领域。历史上，语音合成系统在生成自然且富有吸引力的音频输出方面一直面临挑战：所生成的声音明显带有“机械感”。然而，LLM 有潜力通过生成具有惊人保真度的人类语音来彻底改变这一领域。通过基于文本和音频数据集的训练，LLM 能够理解并复现人类语音的细微之处，例如语调、节奏和重音。
 
-Chapter 1: Introduction to Large Language Models
+This is useful for applications like virtual assistants, realistic voice-overs for characters in video games, or engaging audio content for educational materials. Using LLMs to automate the creation of speech content makes it easy for businesses to produce large volumes of content without the time and costs of extensive manual recording. However, audio–speech synthesis still has room to improve, especially with regard to recognizing accents and other variations in speech.
 
-## Recommender Systems
+> 这对于虚拟助手、视频游戏角色逼真的配音或教育材料中引人入胜的音频内容等应用非常有用。利用 LLM 自动化生成语音内容，使企业能够轻松制作大量内容，而无需耗费大量时间和成本进行手动录音。然而，语音合成仍有改进空间，尤其是在识别口音和其他语音变体方面。
 
-Recommender systems are at the heart of many digital platforms, from ecommerce to streaming services. LLMs enhance these systems by incorporating a deeper under‐ standing of users' preferences and contextual factors. Earlier recommender systems relied on historical user data and predefined algorithms, which often led to limited or repetitive suggestions. LLMs, with their ability to process and interpret diverse data sources, offer a more nuanced approach.
+### 4) Recommender Systems
+**推荐系统**
+
+Recommender systems are at the heart of many digital platforms, from ecommerce to streaming services. LLMs enhance these systems by incorporating a deeper understanding of users' preferences and contextual factors. Earlier recommender systems relied on historical user data and predefined algorithms, which often led to limited or repetitive suggestions. LLMs, with their ability to process and interpret diverse data sources, offer a more nuanced approach.
+
+> 推荐系统是众多数字平台的核心，从电子商务到流媒体服务皆是如此。LLM 通过更深入地理解用户偏好与情境因素，增强了这些系统的能力。早期的推荐系统依赖历史用户数据和预定义算法，往往导致推荐内容受限或重复。而 LLM 凭借其处理与解读多样化数据源的能力，提供了更为精细的解决方案。
 
 LLM-powered recommender systems can analyze user interactions, preferences, and even conversational cues, including audio and video inputs, to deliver personalized recommendations in real time. For example, if a user describes a product in natural language and provides an image, the LLM can integrate both modalities to offer more relevant suggestions, even in response to ambiguous or vague requests.
 
-Despite these advantages, many challenges remain unsolved. For example, maintain‐ ing user trust requires careful attention to the model's transparency and reasoning.
+> 基于 LLM 的推荐系统能够分析用户交互、偏好乃至对话线索（包括音频和视频输入），从而实时提供个性化推荐。例如，当用户用自然语言描述某产品并附上图片时，LLM 可整合两种模态信息，即便面对模糊或笼统的请求，也能给出更精准的建议。
 
-## Autonomous AI Agents
+Despite these advantages, many challenges remain unsolved. For example, maintaining user trust requires careful attention to the model's transparency and reasoning.
 
-AI agents are designed to perform specific tasks autonomously, leveraging LLMs to execute complex operations that would otherwise require human intervention.
+> 尽管存在这些优势，但许多挑战仍未得到解决。例如，维护用户信任需要密切关注模型的透明度和推理过程。
+
+### 5) Autonomous AI Agents
+**自主 AI 智能体**
+
+*AI agents* are designed to perform specific tasks autonomously, leveraging LLMs to execute complex operations that would otherwise require human intervention.
+
+> *AI 智能体* 被设计用于自主执行特定任务，利用 LLM 来完成原本需要人工干预的复杂操作。
 
 For example, in a customer service environment, traditional automated agent systems might follow rigid scripts or rely on basic rule-based logic. LLM-powered AI agents, however, can engage in dynamic, context-aware conversations. They understand user queries more deeply, interpret intent more accurately, and generate responses that are more natural and engaging.
 
+> 例如，在客户服务环境中，传统的自动化客服系统可能遵循僵化的脚本或依赖基本的规则逻辑。然而，基于 LLM 的 AI 智能体能够进行动态且具有上下文感知能力的对话。它们能更深入地理解用户查询，更准确地解读意图，并生成更自然、更具吸引力的回复。
+
 In project management, LLMs can power intelligent project assistants that manage schedules, set reminders, and even draft project reports. These AI agents can interact with team members, understand project requirements, and adapt their responses to ongoing developments.
 
-## Agentic Systems
+> 在项目管理中，LLM 可以驱动智能项目助手，管理日程安排、设置提醒，甚至起草项目报告。这些 AI 智能体能够与团队成员互动，理解项目需求，并根据项目进展调整回应。
 
-Agentic systems represent a more novel application of LLMs, where AI agents not only perform tasks but also make strategic decisions. These systems leverage LLMs' data processing and analysis capabilities to discern patterns and make informed decisions in real time. This is particularly helpful in environments where decisions need to be based on complex, multifaceted information (as shown by the example workflow in Figure 1-2).
+### 6) Agentic Systems
+**智能体系统**
 
-Enterprise Use Cases for LLMs
+*Agentic systems* represent a more novel application of LLMs, where AI agents not only perform tasks but also make strategic decisions. These systems leverage LLMs' data processing and analysis capabilities to discern patterns and make informed decisions in real time. This is particularly helpful in environments where decisions need to be based on complex, multifaceted information (as shown by the example workflow in Figure 1-2).
 
-15
+> *智能体系统* 代表了 LLM 的一种更创新的应用，其中 AI 智能体不仅执行任务，还能做出战略决策。这些系统利用 LLM 的数据处理和分析能力，实时识别模式并做出明智的决策。这在需要基于复杂、多维度信息做出决策的环境中尤其有用（如图 1-2 中的示例工作流程所示）。
 
-![image](file:///C:/23e98e7b6d0477f45d70acf3ec39187e8710256df5ed0edf8132ab18da9a1d29.jpg)
-
-Figure 1-2. Agentic AI in the enterprise (source: Haptik)
+![[Pasted image 20260610113033.png]]
+`Figure 1-2. Agentic AI in the enterprise (source: Haptik)`
+`图1-2 企业中的智能体人工智能（来源：Haptik）`
 
 In finance, agentic systems can digest data from financial reports, news articles, and market analytics, then use it to analyze market trends, assess risk factors, and make investment recommendations that align with investment strategies.
 
-Similarly, in supply chain management, agentic systems can optimize inventory lev‐ els, predict demand fluctuations, and coordinate logistics based on data from various sources—such as sales forecasts, supply chain disruptions, and production schedules.
+> 在金融领域，智能体系统能够消化来自财务报告、新闻文章和市场分析的数据，进而利用这些数据来分析市场趋势、评估风险因素，并做出符合投资策略的投资建议。
 
-However, these systems aren't always reliable. Integrating them into existing work‐ flows requires careful planning. Companies must consider how AI agents and agentic systems will interact with human teams, how they will be managed, and how their outputs will be monitored. Clear guidelines and oversight mechanisms are essential to ensure that these systems complement rather than disrupt existing operations. These issues are discussed in Chapter 8.
+Similarly, in supply chain management, agentic systems can optimize inventory levels, predict demand fluctuations, and coordinate logistics based on data from various sources—such as sales forecasts, supply chain disruptions, and production schedules.
 
-Data security and privacy are also big concerns. LLMs handle vast amounts of sensi‐ tive information, and protecting it from breaches or misuse is key. You need to estab‐ lish strong data governance policies and invest in security measures to safeguard against potential risks. These issues, too, are discussed in Chapter 8.
+> 同样，在供应链管理中，智能体系统可以优化库存水平、预测需求波动，并基于来自销售预测、供应链中断和生产计划等多种来源的数据协调物流。
 
-## Ten Challenges of Building with LLMs
+However, these systems aren't always reliable. Integrating them into existing workflows requires careful planning. Companies must consider how AI agents and agentic systems will interact with human teams, how they will be managed, and how their outputs will be monitored. Clear guidelines and oversight mechanisms are essential to ensure that these systems complement rather than disrupt existing operations. These issues are discussed in Chapter 8.
+
+> 然而，这些系统并非总是可靠的。将它们整合到现有工作流程中需要周密的规划。企业必须考虑 AI 智能体及智能体系统将如何与人类团队协作、如何被管理，以及其输出结果如何被监控。明确的指导方针和监督机制对于确保这些系统能够补充而非干扰现有运营至关重要。这些问题将在第 8 章中讨论。
+
+Data security and privacy are also big concerns. LLMs handle vast amounts of sensitive information, and protecting it from breaches or misuse is key. You need to establish strong data governance policies and invest in security measures to safeguard against potential risks. These issues, too, are discussed in Chapter 8.
+
+> 数据安全与隐私同样是重大关切。LLM 处理大量敏感信息，保护其免遭泄露或滥用至关重要。你需要制定严格的数据治理政策，并投资于安全措施以防范潜在风险。这些问题也将在第 8 章中讨论。
+
+## 7. Ten Challenges of Building with LLMs
+**使用 LLM 构建应用的十大挑战**
 
 LLMs introduce several new challenges, which can be amplified by the enormous scale of LLMs and their numerous applications. Addressing these challenges is important for integrating and deploying LLMs in production. Following is a list of 10 challenges with pointers to the chapters in this book where they are addressed.
 
-16
+> LLM 带来了若干新的挑战，这些挑战可能因 LLM 的庞大规模及其众多应用而被放大。解决这些挑战对于在生产环境中集成和部署 LLM 至关重要。以下是 10 个挑战的列表，并附有本书中涉及这些挑战的章节指引。
 
-Chapter 1: Introduction to Large Language Models
+### 1) Size and Complexity
+**规模与复杂性**
 
-## 1. Size and Complexity
+LLMs generally have millions or even billions of parameters. This makes training, monitoring, and evaluating them extremely complex. Moreover, being generative models, they can fail silently, producing hallucinations and inaccurate information. Addressing this requires a structured approach that not only includes benchmarks commonly used for machine learning but also adds several other techniques; Chapter 7 explores this topic further.
 
-LLMs generally have millions or even billions of parameters. This makes training, monitoring, and evaluating them extremely complex. Moreover, being generative models, they can fail silently, producing hallucinations and inaccurate information. Addressing this requires a structured approach that not only includes benchmarks commonly used for machine learning but also adds several other techniques; Chap‐ ter 7 explores this topic further.
+> LLM 通常拥有数百万甚至数十亿个参数。这使得训练、监控和评估它们变得极其复杂。此外，作为生成式模型，它们可能无声无息地失败，产生幻觉和不准确的信息。解决这一问题需要一种结构化的方法，不仅包括机器学习常用的基准测试，还需增加其他几种技术；第 7 章将进一步探讨这一主题。
 
-## 2. Training Scale and Duration
+### 2) Training Scale and Duration
+**训练规模与时长**
 
 Training LLMs requires processing large datasets. This is difficult not only from the data management perspective but also in terms of the memory and computational resources required for training the models. We discuss this in Chapter 3.
 
-Training LLMs can take days, weeks, or even months, and managing parallel and dis‐ tributed training across large clusters of GPUs and TPUs requires specialized hard‐ ware and organizational skills. This means that hardware represents a major dependency on external organizations and market availability, one that requires care‐ ful, systematic planning. We discuss this in Chapter 9.
+> 训练 LLM 需要处理大规模数据集。这不仅在数据管理层面存在难度，在训练模型所需的内存与计算资源方面同样面临挑战。我们将在第 3 章对此进行讨论。
 
-Handling large, potentially sensitive training datasets requires careful security meas‐ ures and anonymization, as discussed in Chapter 2.
+Training LLMs can take days, weeks, or even months, and managing parallel and distributed training across large clusters of GPUs and TPUs requires specialized hardware and organizational skills. This means that hardware represents a major dependency on external organizations and market availability, one that requires careful, systematic planning. We discuss this in Chapter 9.
 
-## 3. Prompt Engineering
+> 训练 LLM 可能需要数天、数周甚至数月时间，而跨大规模 GPU 和 TPU 集群管理并行与分布式训练，则需要专门的硬件设备与组织协调能力。这意味着硬件条件对外部机构与市场供应存在重大依赖，需要审慎且系统性地规划。我们将在第 9 章对此进行讨论。
+
+Handling large, potentially sensitive training datasets requires careful security measures and anonymization, as discussed in Chapter 2.
+
+> 处理大规模且可能涉及敏感信息的训练数据集，需要采取严格的安全措施与匿名化处理，相关内容将在第 2 章中阐述。
+
+### 3) Prompt Engineering
+**提示词工程**
 
 One of the most common ways to make an LLM work better for a specific problem is prompt engineering, the science and art of crafting the text inputs that are sent to the models. Prompt updates can significantly improve or degrade the user experience. But prompt engineering is iterative and can be difficult to master and document, especially with closed-source LLMs. You'll find a discussion of this in Chapter 5.
 
-Updates of proprietary models, like OpenAI's GPT-4, can result in significant model drift, where the same inputs suddenly provide a different output due to a model update. Model drift requires effort and financial commitment to fix. This becomes additionally complex when there are many interdependent prompts connected to each other, such as in an orchestration framework (i.e., a structured platform used to automate, coordinate, and manage complex tasks and services) and there's a change in the underlying model, as the entire complex prompt chain can break in unexpec‐ ted and hard-to-detect ways. If your infrastructure relies heavily on promptengineering pipelines, monitoring is crucial; Chapter 7 goes into this in more depth.
+> 让 LLM 更好地解决特定问题的最常见方法之一就是提示词工程，这是一门关于精心设计发送给模型的文本输入的科学与艺术。提示词的更新会显著改善或降低用户体验。但提示词工程是一个迭代过程，且难以掌握和记录，尤其是在闭源大语言模型中。你会在第 5 章找到相关讨论。
 
-Ten Challenges of Building with LLMs
+Updates of proprietary models, like OpenAI's GPT-4, can result in significant *model drift*, where the same inputs suddenly provide a different output due to a model update. Model drift requires effort and financial commitment to fix. This becomes additionally complex when there are many interdependent prompts connected to each other, such as in an orchestration framework (i.e., a structured platform used to automate, coordinate, and manage complex tasks and services) and there's a change in the underlying model, as the entire complex prompt chain can break in unexpected and hard-to-detect ways. If your infrastructure relies heavily on promptengineering pipelines, monitoring is crucial; Chapter 7 goes into this in more depth.
 
-17
+> 专有模型的更新，例如 OpenAI 的 GPT-4，可能会导致显著的 *模型漂移*，即相同的输入因模型更新而突然产生不同的输出。模型漂移需要投入精力和资金来修复。当存在许多相互依赖的提示词彼此连接时，例如在编排框架（即用于自动化、协调和管理复杂任务与服务的结构化平台）中，且底层模型发生变化时，情况会变得更加复杂，因为整个复杂的提示词链可能以难以预料且难以检测的方式断裂。如果你的基础设施严重依赖提示词工程管道，监控至关重要；第 7 章将对此进行更深入的探讨。
 
-## 4. Inference Latency and Throughput
+### 4) Inference Latency and Throughput
+**推理延迟与吞吐量**
 
 Responses provided by LLMs are also called inferences. LLMs are often deployed in applications that require real-time or near-real-time responses, which means that optimizing for speed becomes important. This can be especially complex with dynamic models like LLMs. Also, maintaining high throughput without having access to model parameters can add complexity for LLMOps teams. Edge devices used in IoT applications introduce even more challenges related to limited computational resources and varying network conditions. These issues are discussed in Chapter 9.
 
-## 5. Ethical Considerations
+> LLM 提供的响应也被称为推理结果。LLM 通常部署在需要实时或近实时响应的应用中，这意味着优化速度变得至关重要。对于像 LLM 这样的动态模型来说，这尤其复杂。此外，在无法访问模型参数的情况下保持高吞吐量，可能会给 LLMOps 团队增加复杂性。物联网应用中使用的边缘设备由于计算资源有限和网络条件多变，带来了更多挑战。这些问题将在第 9 章中讨论。
+
+### 5) Ethical Considerations
 
 Like any other machine learning model, LLMs generate outputs based on the data that they have been trained on. LLMs applications are frequently designed to create the experience of chatting with a human instead of a machine, making them accessi‐ ble to a much larger user base than specialized machine learning systems and greatly increasing the impact of potential biases introduced by the training data.
 
 Chapter 7 discusses techniques for monitoring LLM outputs, and the privacy and ethical implications of their use are explained in Chapter 8.
 
-## 6. Resource Scaling and Orchestration
+### 6) Resource Scaling and Orchestration
 
 The scale at which LLMs operate often requires load balancing and dynamic resource scaling. Different proprietary models can also behave very differently based on the use case, and constant scenario modeling is expensive and time intensive. Chapter 5 explores how to manage dependencies across various components in distributed multi-model environments, ensuring reliability and scalability.
 
-## 7. Integrations and Toolkits
+### 7) Integrations and Toolkits
 
 LLMs require several new integrations and toolkits that are adapted to both genera‐ tive as well as discriminative use cases and involve communicating with various APIs. Integrating these LLMs into existing systems requires robust security protocols to prevent vulnerabilities and potential misuse. Changes in LLMs and version manage‐ ment, discussed in Chapter 8, can also lead to compatibility issues across the stack.
 
-## 8. Broad Applicability
+### 8) Broad Applicability
 
 LLMs are adaptable and easy to use, which means that they can be applied to numer‐ ous consumer-facing applications, as we will see in Chapter 3. This makes them more likely to be exposed to untested scenarios than traditional machine learning systems, and thus they require a faster feedback loop to monitor and improve their perfor‐ mance. Chapter 7 addresses monitoring techniques.
 
@@ -488,7 +565,7 @@ LLMs are adaptable and easy to use, which means that they can be applied to nume
 
 Chapter 1: Introduction to Large Language Models
 
-## 9. Privacy and Security
+### 9) Privacy and Security
 
 Collecting real-time information involves handling user data, sometimes including personally identifying information (PII). This means that security and privacy become the cornerstone of maintaining trust and regulatory compliance. This chal‐ lenge extends well beyond inference monitoring, touching the domain of cybersecurity.
 
@@ -496,7 +573,7 @@ Even companies such as OpenAI have received reports about database leaks into us
 
 Regularly auditing your data management processes, both internally and externally, is also vital for enhancing user trust and complying with legal requirements. Best prac‐ tices for data management are discussed in Chapter 4.
 
-## 10. Costs
+### 10) Costs
 
 One of the biggest considerations for LLMs is cost, both immediate and long-term. While most transformer models require expensive training, maintaining and scaling LLMs incurs the highest costs, especially in the inference stages. You could end up paying even for failed requests, so experimenting with model performance can become very expensive very quickly for companies building on closed and propriet‐ ary models.
 

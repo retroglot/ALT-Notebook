@@ -22,7 +22,7 @@ The many faces of K-pop have invited scholarly scrutiny, often directed toward u
 
 While many discussions have taken place around the range of meanings of "K," the "pop" side of K-pop has been given less critical treatment.[^0-2] To be fair, "pop" holds an equal share with "K" in gauging the genre's supple soundscape. Dominating the sonic spread of K-pop are American pop (most notably teen pop, bubblegum pop) heavily infused with all sorts of global music trends of the twentieth century (hip hop, R&B, gospel, jazz, rock, swing). K-pop also harnesses a broader range of "pop", including Eurodance music and J-pop trends, among the increasing streak of traditional Korean musical themes.
 
-> 关于“K”的多重含义已有诸多讨论，但K-pop中“pop”的一面却鲜少受到批判性审视。[^0-2] 平心而论，在衡量这一流派柔韧多变的音乐风貌时，“pop”与“K”占据着同等重要的分量。主导 K-pop 听觉版图的是美国流行乐（尤其是 Teen Pop、Bubblegum Pop），并深度融合了二十世纪各类全球音乐潮流（嘻哈、R&B、福音、爵士、摇滚、摇摆乐）。K-pop 还吸纳了更广泛的“流行”元素，包括欧陆舞曲和 J-pop 潮流，同时愈发融入传统韩国音乐主题。
+> 关于“K”的多重含义已有诸多讨论，但 K-pop 中“pop”的一面却鲜少受到批判性审视。[^0-2] 平心而论，在衡量这一流派柔韧多变的音乐风貌时，“pop”与“K”占据着同等重要的分量。主导 K-pop 听觉版图的是美国流行乐（尤其是 Teen Pop、Bubblegum Pop），并深度融合了二十世纪各类全球音乐潮流（嘻哈、R&B、福音、爵士、摇滚、摇摆乐）。K-pop 还吸纳了更广泛的“流行”元素，包括欧陆舞曲和 J-pop 潮流，同时愈发融入传统韩国音乐主题。
 
 The rock/pop contrast is nothing new and existed long before K-pop entered the global music scene as a major force. Richard Middleton pointed to how the field of musicology has repeatedly confronted the tenuous relationship between rock authenticity and the suspicious validity of "pop" music:
 

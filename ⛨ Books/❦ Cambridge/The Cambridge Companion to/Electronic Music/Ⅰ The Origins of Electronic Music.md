@@ -1,8 +1,11 @@
-# Classical Visions
+# The Origins of Electronic Music
+**电子音乐的起源**
 
-> We have also sound-houses, where we practise and demonstrate all sounds and their generation. We have harmony which you have not, of quarter-sounds and lesser slides of sounds. Divers instruments of music likewise to you unknown, some sweeter than any you have; with bells and rings that are dainty and sweet. We represent small sounds as great and deep, likewise great sounds extenuate and sharp; we make divers tremblings and warblings of sounds, which in their original are entire. We represent and imitate all articulate sounds and letters, and the voices and notes of beasts and birds. We have certain helps which, set to the ear, do further the hearing greatly; we have also divers strange and artificial echoes, reflecting the voice many times, and, as it were, tossing it; and some that give back the voice louder than it came, some shriller and some deeper; yea, some rendering the voice, differing in the letters or articulate sound from that they receive. We have all means to convey sounds in trunks and pipes, in strange lines and distances.
+## Classical Visions
+
+> *We have also sound-houses, where we practise and demonstrate all sounds and their generation. We have harmony which you have not, of quarter-sounds and lesser slides of sounds. Divers instruments of music likewise to you unknown, some sweeter than any you have; with bells and rings that are dainty and sweet. We represent small sounds as great and deep, likewise great sounds extenuate and sharp; we make divers tremblings and warblings of sounds, which in their original are entire. We represent and imitate all articulate sounds and letters, and the voices and notes of beasts and birds. We have certain helps which, set to the ear, do further the hearing greatly; we have also divers strange and artificial echoes, reflecting the voice many times, and, as it were, tossing it; and some that give back the voice louder than it came, some shriller and some deeper; yea, some rendering the voice, differing in the letters or articulate sound from that they receive. We have all means to convey sounds in trunks and pipes, in strange lines and distances.*
 > 
->  Francis Bacon, The New Atlantis (1626)[^1]
+>  *Francis Bacon, The New Atlantis (1626)[^1]*
 
 
 The origins of electronic music lie in the creative imagination. The technologies that are used to make electronic music are a realisation of the human urge to originate, record and manipulate sound. Although the term electronic music refers specifically to music made using electronic devices and, by extension, to certain mechanical devices powered by electricity, the musical possibilities that these technologies have opened up are a recurring theme in literature, art, engineering and philosophy. But it was not until the turn of the twentieth century, when electronic and electromechanical instruments started to become a physical reality, that certain forward-looking musicians began to turn to the new possibilities already imagined by others.
@@ -45,7 +48,7 @@ The source of all these theories of tuning, Pythagoras, was also the leader of a
 
 > 所有这些调音理论的源头 Pythagoras，也同时是一个精英主义教派的领袖，该教派分为内圈成员 mathematikoi 和外圈成员 akousmatikoi，即“聆听者”。[^3] 后者必须隔着帘幕聆听大师的教诲，这一实践为当今的 acousmatic music 赋予了名称——在此类音乐中，声音的原始源头在视觉上并不显现，其直接源头是显而易见的扬声器。当 acousmatic music 通过操控和处理声音来探索一种“音韵之屋”模式时，器乐的传统则采用以音高为中心的模式，并最终抛弃了 Pythagoras，转而采纳对自然进行实用主义扭曲的等律体系。正是随着电子技术的出现，Bacon（或许也包括 Pythagoras）所构想的音乐才成为现实。然而，在这些技术尚未出现的漫长岁月里，创造此类音乐的渴望并未消失。[^4]
 
-# Automata
+## Automata
 **自动机**
 
 The eighteenth century saw a surge of interest in mechanical musical devices such as carillons, music-boxes and mechanical organs of various types. The most celebrated engineer was Jacques Vaucanson (1709-82), whose machines took on a life of their own by mimicking natural and biological functions. His life-size flute-player (1738) blew, breathed and played twelve different melodies so convincingly like a human being that it surpassed previous mechanical devices. This automaton, or self-operating machine, started to resemble a robot in its simulation of human action. Vaucanson's most celebrated automaton was a duck, which moved its wings, legs and body, quacked and, most amazingly, both ate food and dabbled in the water. Vaucanson was keen to reveal the inner workings of the duck, showing the 'digestive' tubing through which the food passed, the throat, and so on.
@@ -58,7 +61,7 @@ As the interest in automata grew, so did the concept of an artificial intelligen
 
 The hoax in question was a turban-wearing chess-playing automaton popularly known as 'The Turk'. It was created in 1769 by Baron Wolfgang von Kempelen, and its most famous exploit was to beat Napoleon Bonaparte at chess. Von Kempelen passed on 'The Turk' to Johann Maelzel (1772-1838), who was developing a reputation as an inventor and showman. Among Maelzel's inventions was the Maelzel Metronome (after which the 'MM' marking at the beginning of musical scores is named) which was adopted by Ludwig van Beethoven. Maelzel also created a musical machine called a 'panharmonicon', for which Beethoven wrote his piece *Wellington's Victory.*[^5] Maelzel toured 'The Turk' widely and created a sensation wherever he went. In the 1830s it visited America, where Edgar Allan Poe finally exposed the truth in an essay entitled 'Maelzel's Chess-Player', published in the Southern Literary Journal in 1836. The truth was that 'The Turk' concealed a human chess-player, a deception which finds echoes today. When the world chess champion, Garry Kasparov, was first beaten by the IBM computer 'Deep Blue' in 1997, he had no hesitation in calling foul, claiming that one crucial move had in fact been made by a human being. The rest of the match (which Kasparov lost) was played in an atmosphere of rancour, secrecy, accusation and counter-accusation, and 'Deep Blue' was immediately mothballed at the end.
 
-# The Literary Imagination
+## The Literary Imagination
 
 The first major writer to be inspired by such automata to apply their capabilities to music was E. T. A. Hoffmann (1776-1822). In his story 'Automata' (1814), after a lengthy description of 'The Turk', and a concert by musical automata, the main characters fall to debating the musical possibilities of as yet only imaginary technologies.
 
@@ -86,7 +89,7 @@ This not only seems to realise Bacon's description of 'sounds in trunks and pipe
 
 In 1876, Elisha Gray had created a 'Musical Telegraph' which transmitted single note oscillations along wires. In 1898, Valdemar Poulson patented a magnetic 'Telegraphone', which could both record and play back sound and, in 1897, Thaddeus Cahill patented the Art of and Apparatus for Generating and Distributing Music Electronically. This idea of a telegraph-based music distribution system led to the construction of the first really influential electronic musical instrument. Cahill's Dynamophone or Telharmonium appeared in 1906, weighing about two hundred tons and measuring about eighteen metres in length.[^8] It used 145 modified dynamos with geared shafts and associated inductors to produce alternating currents of different audio frequencies.
 
-# Sound Recording
+## Sound Recording
 
 In his classic essay 'The Work of Art in the Age of Mechanical Reproduction' (1936), Walter Benjamin makes the following argument about the effect on art of the technologies of reproduction, including sound recording: 'for the first time in world history, mechanical reproduction emancipates the work of art from its parasitical dependence on ritual. To an ever greater degree the work of art reproduced becomes the work of art designed for reproducibility.' The 'ritual' to which he refers is the performance, a unique set of circumstances under which an individual or a group experiences a work of art.
 
@@ -98,7 +101,7 @@ Loudspeakers were invented independently by Ernst Werner von Siemens in 1877, an
 
 The impact of recorded and reproducible sound on music in general was, of course, enormous. However, it was some time before composers and musicians began to realise the creative potential of this new medium. With a few exceptions, such as Ottorino Respighi's inclusion of a phonograph (playing birdsong) in his orchestral composition Pini di Roma (Pines of Rome) in 1924, these technologies were used purely for the reproduction of live sounds or musical performances. The systematic exploration of tape music had to wait until the early 1950s, when Pierre Schaeffer began his experiments.
 
-# Early 'Electronic' Music
+## Early 'Electronic' Music
 
 'Electronic' music therefore began with the invention of new electronic instruments, even though they were normally seen as novelties or curiosities. A good example, and probably the first truly electronic instrument, was the Singing Arc, invented by William Duddell in 1899, which used the sounds emitted by carbon arc lamps (the precursors of the electric light bulb). It was some time before electronic instruments would come to be included alongside their acoustic counterparts but, even so, Western music was already beginning to evolve to a point at which such new means of expression would be required. Composers were exploring musical material in a variety of different ways, and some of these started to focus upon the sonic and timbral properties that the pitch-centred notation system had marginalised.
 
@@ -110,7 +113,7 @@ We have divided the octave into twelve equidistant degrees because we had to man
 
 Although Busoni's own compositions did not themselves explore these new avenues, his visionary ideas and his teaching inspired others to do so. In 1908, Gabrielle Buffet, having graduated from the Schola Cantorum, went to Germany to join her fellow student Edgard Varese. Both of them were so fascinated with the Sketch for a New Aesthetic of Music that they actually tried to build machines to realise Busoni's ideas. Buffet noted in her essay _Music of Today_: 'With the help of and through improvements to these sound-machines, an objective reconstitution of the life of sound could be possible. We would be discovering sound-forms independently of musical conventions.'[^9]
 
-# Sound in Art
+## Sound in Art
 
 At the same time that Buffet and her contemporaries were becoming excited by the new musical possibilities being opened up by technological innovations, a number of leading painters were developing an abstract art that drew heavily on music. The 'Blue Rider' group, Der Blaue Reiter, included Arnold Schoenberg and Wassily Kandinsky (1866-1944), who began to paint 'Improvisations' and 'Compositions' during the years immediately preceding the First World War. Kandinsky was inspired by Theosophy and other spiritual ideas to create work that aspired to the condition of music. He also experienced synaesthesia, in which the senses become confused, by 'hearing' specific sounds when seeing certain colours or shapes (yellow as the note C played on a trumpet, for example). Many other artists and composers explored these ideas: for example, Alexander Scriabin (1872-1915) whose _Prometheus_: The _Poem of Fire_ (1910) included a part for 'light organ', which was intended to bathe the concert hall in colour from electric lights corresponding to the changing tonality of the music.
 

@@ -1,141 +1,173 @@
+# ChapterⅠ: TECHNOLOGICAL DETERMINANTS OF FIRM AND INDUSTRY STRUCTURE
+**第一章：企业与产业结构的技术决定因素**
 
+> JOHN C. PANZAR 
+> *Northwestern University*
 
+```
+I would like to thank Avner Greif for his research assistance, Bobby Willig for helpful comments, and the National Science Foundation, SES 8409171, for partial research support. Any errors are, of course, solely my responsibility.
 
+我要感谢 Avner Greif 的研究协助，Bobby Willig 的有益评论，以及 National Science Foundation， SES 8409171 提供的部分研究支持。当然，任何错误都由我独自承担。
+```
 
-Chapter 1
+## **1. Introduction**
+**引言**
 
-# TECHNOLOGICAL DETERMINANTS OF FIRM AND INDUSTRY STRUCTURE
+The title of this volume is the *Handbook of Industrial Organization*. The literal interpretation of the term “industrial organization” has, in large part, receded from the surface when the noun or adjective “IO” is used. As many of the subsequent chapters in this volume indicate, the field has moved far beyond the mere description of how industries are organized. Yet it is at this basic level that the discussion must begin. For the very name of the field alerts one to the fact that we are dealing with questions that do not even arise in the traditional Marshallian framework. There the industry, itself, was the unit of analysis. Its internal organization, while perhaps of anecdotal interest, was not viewed as being at all important for answering the important positive or normative questions of value theory. Thus, the distinguishing feature of research in industrial organization is that, for some reason or other, it is not fruitful to employ the classical perfectly competitive model to analyze the problems of interest. This chapter explores the technological conditions that may make it necessary to abandon the competitive model: there simply may not be “enough room” in the market for a sufficiently large number of firms to give credence to the assumption of price-taking behavior.
 
-JOHN C. PANZAR*
-
-Northwestern University
-
-## Contents
-
-1. Introduction 4
-2. The multiproduct cost function 4  
-    2.1. Economies of scale 7  
-    2.2. Product specific economies of scale 11  
-    2.3. Economies of scope 15  
-    2.4. Cost subadditivity and natural monopoly 23
-3. Industry configurations 33  
-    3.1. Feasible and efficient single product industry configurations 35  
-    3.2. Efficient multiproduct industry configurations 38
-4. Empirical issues 41  
-    4.1. Aggregation and the hedonic approach 42  
-    4.2. Long-run and short-run measures of returns to scale 45  
-    4.3. Empirical studies of electric power 46  
-    4.4. Empirical studies of telecommunications 51
-5. Concluding remarks 56  
-    Bibliography 56
-
-*I would like to thank Avner Greif for his research assistance, Bobby Willig for helpful comments, and the National Science Foundation, SES 8409171, for partial research support. Any errors are, of course, solely my responsibility.
-
-Handbook of Industrial Organization, Volume I, Edited by R. Schmalensee and R.D. Willig © Elsevier Science Publishers B.V., 1989
-
-J.C. Panzar
-
-## 1. Introduction
-
-The title of this volume is the Handbook of Industrial Organization. The literal interpretation of the term “industrial organization” has, in large part, receded from the surface when the noun or adjective “IO” is used. As many of the subsequent chapters in this volume indicate, the field has moved far beyond the mere description of how industries are organized. Yet it is at this basic level that the discussion must begin. For the very name of the field alerts one to the fact that we are dealing with questions that do not even arise in the traditional Marshallian framework. There the industry, itself, was the unit of analysis. Its internal organization, while perhaps of anecdotal interest, was not viewed as being at all important for answering the important positive or normative questions of value theory. Thus, the distinguishing feature of research in industrial organization is that, for some reason or other, it is not fruitful to employ the classical perfectly competitive model to analyze the problems of interest. This chapter explores the technological conditions that may make it necessary to abandon the competitive model: there simply may not be “enough room” in the market for a sufficiently large number of firms to give credence to the assumption of price-taking behavior.
+> 本书的标题是《产业组织手册》。当名词或形容词“ IO ”被使用时，“产业组织”一词的字面解释在很大程度上已退居次要地位。正如本卷中许多后续章节所指出的，该领域已远非仅仅描述产业如何组织。然而，讨论必须从这一基本层面开始。因为该领域的名称本身就提醒人们，我们正在处理的问题在传统的 Marshallian 框架中甚至不会出现。在那里，产业本身就是分析单位。其内部组织，尽管或许具有轶事般的趣味，但被认为对回答价值理论中重要的实证或规范问题毫无重要性可言。因此，产业组织研究的显著特征在于，出于某种原因，运用经典的完全竞争模型来分析所关注的问题并非卓有成效。本章探讨可能使得放弃竞争模型成为必要的技术条件：市场中可能根本没有“足够的空间”容纳足够数量的企业，从而使得价格接受行为假设得以成立。
 
 The chapter is organized in the following manner. Section 2 introduces the cost concepts required for analyzing the role of technology in the determination of firm and industry structure. The emphasis is on the general multiproduct case, although important single product aspects of the problem are also discussed. Section 3 presents an analysis of the role these cost concepts play in determining efficient industry structure. Section 4 addresses some issues that must be dealt with in any empirical study of technology and industry structure, as well as presenting selective surveys of such studies of the telecommunications and electric power industries. Section 5 ends the chapter with some concluding observations.
 
-## 2. The multiproduct cost function 1
+> 本章按以下方式组织。第 2 节介绍分析技术在决定企业和产业结构中的作用所需的成本概念。重点是一般多产品情形，尽管也讨论了该问题中重要的单一产品方面。第 3 节分析了这些成本概念在决定有效产业结构中的作用。第 4 节讨论任何关于技术和产业结构的实证研究中必须处理的一些问题，并选择性调查了针对电信和电力行业的此类研究。第 5 节以一些总结性观察结束本章。
 
-The most basic concept with which to characterize the productive technology available to the firm is the technology set T, a list of the combinations of inputs and outputs that are available to the firm. Thus, let x denote a vector of r inputs available to the firm and y a vector of possible outputs that may be selected from the set _N_ = {1, 2, …, _n_} . Then the technology set is formally defined as
+## **2. The multiproduct cost function**[^1]
+**多产品成本函数**
 
-4
+The most basic concept with which to characterize the productive technology available to the firm is the technology set $T$, a list of the combinations of inputs and outputs that are available to the firm. Thus, let $x$ denote a vector of $r$ inputs available to the firm and y a vector of possible outputs that may be selected from the set $N = \{1, 2, \ldots, n\}$ . Then the technology set is formally defined as
 
-1 The material in this section is based upon the discussion in Baumol, Panzar and Willig (1982). Most formal proofs have been included in order to make this discussion of important multiproduct cost concepts as self-contained as possible.
+> 描述企业可用生产技术的最基本概念是技术集 T，即企业可用的投入与产出组合的列表。因此，设 $x$ 表示企业可用的 $r$ 种投入向量，$y$ 表示可从集合 $N = \{1, 2, \ldots, n\}$ 中选择的可能产出向量。那么，技术集的形式化定义如下：
 
-Ch. 1: Determinants of Firm and Industry Structure
+---
 
-## Definition 1. The technology set
+***Definition 1. The technology set***
 
-_T_ = {(_x_, _y_) : _y_ can be produced from _x_} .
+$T = \{(x, y) : y \text{ can be produced from } x\}$
 
-In the familiar single output case, T can be directly related to the simple production function _y_ = _f_(_x_) . Assuming free disposal, the technology set can be characterized as _T_ = {(**x**, _y_) : _y_ ≤ _f_(**x**)} . While this definition of T is intuitively quite clear, more structure must be assumed in order to facilitate mathematical analysis. The following weak regularity condition is commonly employed:
+> ***定义 1. 技术集***
+> 
+> $T = \{(x, y) : y \text{ 可由 } x \text{ 生产得出}\}$
 
-## Regularity condition R1
+---
 
-Input vectors x are elements of the compact set _X_ ⊂ _R_+_r_ and output vectors y are elements of the compact set _Y_ ⊂ _R_+_n_ . The technology set T is a nonempty closed subset of _X_ × _Y_ , with the additional properties that (i) (**0**, _y_) ∈ _T_ iff y = 0, and (ii) If (_x_, _y_) ∈ _T_ , (_x_1, _y_1) ∈ _X_ × _Y_ , _x_1 ≥ _x_ , and _y_1 ≤ _y_ , then (_x_1, _y_1) ∈ _T_ .
+In the familiar single output case, $T$ can be directly related to the simple production function $y = f(x)$. Assuming free disposal, the technology set can be characterized as $T = \{(x, y) : y \leq f(x)\}$. While this definition of $T$ is intuitively quite clear, more structure must be assumed in order to facilitate mathematical analysis. The following weak regularity condition is commonly employed:
 
-R1(i) states that positive inputs are required to produce positive outputs. R1(ii) is a “free disposal” axiom that assures that the production process is at least weakly monotonic, i.e. an increase in input use makes possible at least a weak increase in output.
+> 在常见的单一产出情形中，$T$ 可以直接与简单的生产函数 $y = f(x)$ 相关联。假设自由处置性，技术集可以描述为 $T = \{(x, y) : y \leq f(x)\}$。尽管 $T$ 的这个定义在直观上十分清晰，但为了便于数学分析，必须假设更多结构。以下弱正则性条件被普遍采用：
 
-Given R1, there exists a continuous production transformation function _φ_(_x_, _y_) that is nondecreasing in x and nonincreasing in y such that _φ_(_x_, _y_) ≥ 0 iff (_x_, _y_) ∈ _T_.2 The production transformation function provides a convenient functional representation of the set of feasible input/output combinations. It is directly related to the familiar single output production function. For example, if _y_ = _f_(_x_) is the production function, then _φ_(_x_, _y_) = _f_(_x_) − _y_ is a well-defined production transformation function.
+---
+
+***Regularity condition R1***
+
+Input vectors $x$ are elements of the compact set $X \subset \mathbb{R}_+^r$ and output vectors $y$ are elements of the compact set $Y \subset \mathbb{R}_+^n$. The technology set $T$ is a nonempty closed subset of $X \times Y$, with the additional properties that (i) $(\mathbf{0}, y) \in T$ iff $y = 0$, and (ii) If $(x, y) \in T$, $(x_1, y_1) \in X \times Y$, $x_1 \geq x$, and $y_1 \leq y$, then $(x_1, y_1) \in T$.
+
+> ***正则条件 R1***
+> 
+> 输入向量 $x$ 是紧集 $X \subset \mathbb{R}_+^r$ 中的元素，产出向量 $y$ 是紧集 $Y \subset \mathbb{R}_+^n$ 中的元素。技术集 $T$ 是 $X \times Y$ 的一个非空闭子集，并具有以下附加性质：(i) $(\mathbf{0}, y) \in T$ 当且仅当 $y = 0$，以及 (ii) 如果 $(x, y) \in T$，$(x_1, y_1) \in X \times Y$，$x_1 \geq x$，且 $y_1 \leq y$，则 $(x_1, y_1) \in T$。
+
+---
+
+*R*1(i) states that positive inputs are required to produce positive outputs. *R*1(ii) is a “free disposal” axiom that assures that the production process is at least weakly monotonic, i.e. an increase in input use makes possible at least a weak increase in output.
+
+> *R*1(i) 指出，需要正输入才能产生正输出。*R*1(ii) 是一个“自由处置”公理，它确保生产过程至少是弱单调的，即输入使用的增加至少使得输出可能有一个微弱的增加。
+
+Given *R*1, there exists a continuous production transformation function $\varphi(x, y)$ that is nondecreasing in $x$ and nonincreasing in $y$ such that $\varphi(x, y) \geq 0$ iff $(x, y) \in T$.[^2] The production transformation function provides a convenient functional representation of the set of feasible input/output combinations. It is directly related to the familiar single output production function. For example, if $y = f(x)$ is the production function, then $\varphi(x, y) = f(x) - y$ is a well‑defined production transformation function.
+
+> 给定 *R*1，存在一个连续的生产转换函数 $\varphi (x, y)$，它关于 $x$ 非递减，关于 $y$ 非递增，满足 $\varphi (x, y) \ge 0$ 当且仅当 $(x, y) \in T$。[^2] 生产转换函数为可行的投入/产出组合集合提供了一个便捷的函数表示。它与熟知的单一产出生产函数直接相关。例如，如果 $y = f(x)$ 是生产函数，那么 $\varphi (x, y) = f(x) - y$ 就是一个定义明确的生产转换函数。
 
 Since most of the analysis of this chapter will be carried out under the assumption that the firms in the industry are price takers in input markets, it is more convenient to work with the cost function representation of the technology. Therefore define the multiproduct minimum cost function:
 
-_C_(_y_, _w_) = min_x_{_w_ ⋅ _x_ : (_x_, _y_) ∈ _T_} = _w_ ⋅ _x_*(_y_, _w_),
+> 由于本章的大部分分析都建立在行业内企业在投入市场中是价格接受者的假设之上，因此使用成本函数来表示技术更为方便。因此，定义多产品最小成本函数：
 
-5
+$$C(y, w) = \min_x \{ w \cdot x : (x, y) \in T \} = w \cdot x^*(y, w),$$
 
-2 See McFadden (1978).
+where $x^*(y, w)$ is an efficient, cost‑minimizing input vector for producing the output vector $y$ when factor prices are given by $w$.
 
-J.C. Panzar
-
-where _x_*(_y_, _w_) is an efficient, cost-minimizing input vector for producing the output vector y when factor prices are given by w.
+> 其中 $x^*(y, w)$ 是在给定要素价格 $w$ 的情况下，为生产产出向量 $y$ 的一个有效的、成本最小化的投入向量。
 
 It will be convenient (and sometimes essential) to assume that this central analytic construct has the following smoothness property:
 
-Regularity condition R2
+> 为方便（有时也至关重要），我们假设这个核心分析构造具有如下光滑性质：
 
-For all _i_ ∈ _N_ , if _y__i_ > 0 , then _C__i_ ≡ ∂_C_/∂_y__i_ exists.
+---
 
-This simply assumes that marginal cost is well defined for any output that is produced in strictly positive quantity. It is not desirable to assume that the cost function is globally differentiable, because that would rule out the possibility that additional fixed or startup costs may occur when production of another output begins. (Mathematically, such possibilities would require the presence of jump discontinuities along the various axes.) At this point it is also appropriate to introduce a regularity condition defined on the transformation function _φ_(_x_, _y_) that suffices for R2:
+***Regularity condition R2***
 
-## Regularity condition R3
+For all $i \in N$, if $y_i > 0$, then $C_i \equiv \partial C / \partial y_i$ exists.
 
-T can be characterized by a transformation function, _φ_(_x_, _y_) , that is continuously differentiable in x and in _y__i_ , for _y__i_ > 0 , at points (_x_, _y_) where x is cost-efficient for y.
+> ***正则条件 R2***
+> 
+> 对于所有 $i \in N$，如果 $y_i > 0$，那么 $C_i \equiv \partial C / \partial y_i$ 存在。
 
-A particularly convenient and reasonably general 3 specification of a cost function satisfying R2 is as follows. Let _C_(**y**) = _F_{_S_} + _c_(**y**) , where c is continuously differentiable, _c_(0) = 0 , _S_ = {_i_ ∈ _N_ : _y__i_ > 0} and _F_{⌀} = 0 . 4 A simple two-product example will serve to illustrate the usefulness of this construction:
+---
+
+This simply assumes that marginal cost is well defined for any output that is produced in strictly positive quantity. It is not desirable to assume that the cost function is globally differentiable, because that would rule out the possibility that additional fixed or startup costs may occur when production of another output begins. (Mathematically, such possibilities would require the presence of jump discontinuities along the various axes.) At this point it is also appropriate to introduce a regularity condition defined on the transformation function $\varphi(x, y)$ that suffices for *R*2:
+
+> 这仅仅假设对于任何以严格正数量生产的产出，边际成本都是良好定义的。假设成本函数全局可微并不可取，因为这会排除当开始生产另一种产出时可能产生额外固定成本或启动成本的可能性。（从数学上讲，这种可能性要求沿着各个轴存在跳跃不连续点。）此时，引入一个定义在生产转换函数 $\varphi(x, y)$ 上的正则条件也是合适的，该条件足以保证 *R*2：
+
+---
+
+***Regularity condition R3***
+
+$T$ can be characterized by a transformation function, $\varphi(x, y)$, that is continuously differentiable in $x$ and in $y_i$, for $y_i > 0$, at points $(x, y)$ where $x$ is cost‑efficient for $y$.
+
+> ***正则条件 R3***
+> 
+> $T$ 可以由一个转换函数 $\varphi(x, y)$ 表征，该函数在 $x$ 和 $y_i$（当 $y_i > 0$ 时）以及 $x$ 对于 $y$ 是成本有效的点 $(x, y)$ 处连续可微。
+
+---
+
+A particularly convenient and reasonably general[^3] specification of a cost function satisfying R2 is as follows. Let $C(\mathbf{y}) = F_S + c(\mathbf{y})$, where $c$ is continuously differentiable, $c(\mathbf{0}) = 0$, $S = \{i \in N : y_i > 0\}$ and $F_\emptyset = 0$.[^4] A simple two-product example will serve to illustrate the usefulness of this construction:
+
+> 满足 *R*2 的成本函数的一种尤为便捷且相当一般[^3]的设定如下。令 $C(\mathbf{y}) = F_S + c(\mathbf{y})$，其中 $c$ 连续可微，$c(\mathbf{0}) = 0$，$S = \{i \in N : y_i > 0\}$ 且 $F_\emptyset = 0$。[^4] 一个简单的双产品示例将有助于说明这种构造的实用性：
 
 $$ \begin{array}{r} F ^ {1 2} + c _ {1} y _ {1} + c _ {2} y _ {2}, \quad \mathrm{for} y _ {1} > 0, y _ {2} > 0, \\ C (y _ {1}, y _ {2}) = F ^ {1} + c _ {1} y _ {1}, \quad \mathrm{for} y _ {1} > 0, y _ {2} = 0, \\ F ^ {2} + \dots + c _ {2} y _ {2}, \quad \mathrm{for} y _ {1} = 0, y _ {2} > 0, \end{array}\tag{1} $$
 
-6
+with $0 < F_1, F_2 < F_{12}$ and $C(0, 0) = 0$. Thus, in this example, starting up production of $y_1$ only requires incurring the fixed cost $F_1$. If the firm then begins production of $y_2$ as well, additional fixed costs of $F_{12} - F_1$ are incurred. The important role in the determination of industry structure played by such product specific fixed costs will be discussed below.
 
-3 This formulation is not completely general, however. In particular, it does not allow for the possibility that the magnitude of the jump discontinuity that result when a new product is introduced may depend upon the quantities of the outputs in the existing product mix as well as the composition of that mix.
+> 其中 $0 < F_1, F_2 < F_{12}$ 且 $C(0, 0) = 0$。因此，在此示例中，启动 $y_1$ 的生产仅需承担固定成本 $F_1$。如果企业随后也开始生产 $y_2$，则会产生 $F_{12} - F_1$ 的额外固定成本。此类产品专属固定成本在决定产业结构中所发挥的重要作用将在下文进行讨论。
 
-4 Here, and wherever it will not lead to confusion, the vector w will be suppressed as an argument of the cost function.
+### **2.1. Economies of scale**
+**规模经济**
 
-Ch. 1: Determinants of Firm and Industry Structure
+The technological limits to competitive market structures have long been attributed to the presence of economies of scale. [^5] Later we shall discuss its importance in the determination of firm and industry structure in great detail. But what, precisely, is meant by the term “economies of scale”? The most natural intuitive characterization in the single product case is: Given a proportional increase in all input levels, does output increase more or less than proportionately? While this technological definition is often used in undergraduate textbooks, [^6] it is not useful for current purposes, because it does not bear the desired relationship to the properties of the firm’s cost curves.
 
-with 0 < _F_1 , _F_2 < _F_12 and _C_(0, 0) = 0 . Thus, in this example, starting up production of _y_1 only requires incurring the fixed cost _F_1 . If the firm then begins production of _y_2 as well, additional fixed costs of _F_12 − _F_1 are incurred. The important role in the determination of industry structure played by such product specific fixed costs will be discussed below.
+> 竞争性市场结构的技术限制长期以来一直被归因于规模经济的存在。[^5] 稍后我们将非常详细地讨论其在决定企业和行业结构中的重要性。但是，确切地说，“规模经济”这一术语究竟是何含义？在单一产品情况下，最自然的直观表征是：假定所有投入水平均按相同比例增加，产出的增加幅度是大于还是小于该比例？尽管这种技术定义在本科教科书中经常被使用，[^6] 但它并不适用于当前的研究目的，因为它无法与企业成本曲线的特性建立起所需的关联。
 
-## 2.1. Economies of scale
+To understand why, suppose that in a small neighborhood of the output level $y = f(x)$, it is the case that $f(k x) = k' y$. Then the above definition would say that returns to scale were increasing, constant, or decreasing as $k'$ is greater than, equal to, or less than $k$. It is easy to see that increasing returns to scale, by this definition, implies that average costs are lower at $k' y$ than they are at $y$.[^7] However, the converse is not necessarily true. The reason is that if the firm wishes to increase output by the factor $k'$, the cheapest way to do so is not necessarily a proportionate increase in all input levels. Thus, even if per unit expenditure does not fall when output is increased by expanding all inputs proportionately (i.e. $k > k'$), it may decrease when inputs are chosen in a cost-minimizing manner. Part of the conceptual difficulty is due to the need to relate economies of scale concepts, defined in terms of properties of the productive technology without reference to factor prices, to the cost conditions facing the firm. For, as we shall see, it is the latter that play a key role in determining firm and industry structure.
 
-The technological limits to competitive market structures have long been attributed to the presence of economies of scale. 5 Later we shall discuss its importance in the determination of firm and industry structure in great detail. But what, precisely, is meant by the term “economies of scale”? The most natural intuitive characterization in the single product case is: Given a proportional increase in all input levels, does output increase more or less than proportionately? While this technological definition is often used in undergraduate textbooks, 6 it is not useful for current purposes, because it does not bear the desired relationship to the properties of the firm’s cost curves.
+> 要理解其中缘由，可假设在产出水平 $y = f(x)$ 的某个小邻域内，有 $f(k x) = k' y$。那么按照上述定义，若 $k'$ 大于、等于或小于 $k$，则规模报酬分别为递增、不变或递减。不难看出，按此定义，规模报酬递增意味着在 $k' y$ 处平均成本低于 $y$ 处。[^7] 然而，其逆命题未必成立。原因在于，若企业希望以倍数 $k'$ 扩大产出，最廉价的方式未必是等比例增加所有投入品的数量。因此，即使按比例扩大所有投入品来增加产出时单位支出没有下降（即 $k > k'$），在追求成本最小化地选择投入品组合时，单位支出仍可能下降。概念上的困难部分在于：需要将依据生产技术属性（而不涉及要素价格）定义的规模经济概念，与企业面临的成本条件联系起来。因为，正如我们将看到的，决定企业和产业结构的正是后者。
 
-To understand why, suppose that in a small neighborhood of the output level _y_ = _f_(_x_) , it is the case that _f_(_k__x_) = _k_′_y_ . Then the above definition would say that returns to scale were increasing, constant, or decreasing as _k_′ is greater than, equal to, or less than _k_ . It is easy to see that increasing returns to scale, by this definition, implies that average costs are lower at _k_′_y_ than they are at _y_ . However, the converse is not necessarily true. The reason is that if the firm wishes to increase output by the factor _k_′ , the cheapest way to do so is not necessarily a proportionate increase in all input levels. Thus, even if per unit expenditure does not fall when output is increased by expanding all inputs proportionately (i.e. _k_ > _k_′ ), it may decrease when inputs are chosen in a cost-minimizing manner. Part of the conceptual difficulty is due to the need to relate economies of scale concepts, defined in terms of properties of the productive technology without reference to factor prices, to the cost conditions facing the firm. For, as we shall see, it is the latter that play a key role in determining firm and industry structure.
+Fortunately, assuming that regularity condition *R*3 holds, it is possible to define a technologically based measure of the degree of scale economies that also serves to characterize important properties of firms' cost functions.
 
-Fortunately, assuming that regularity condition R3 holds, it is possible to define a technologically based measure of the degree of scale economies that also serves to characterize important properties of firms' cost functions.
+> 幸运的是，假设正则性条件 *R*3 成立，就有可能定义一个基于技术的规模经济程度度量，该度量也有助于刻画企业成本函数的重要性质。
 
-7
+---
 
-6 See, for example, Hirshleifer (1984, p. 329).
+***Definition 2. Technological economies of scale***
 
-5 See Scherer (1980, ch. 4) for an extended factual and intuitive discussion of the sources of and limits to economies of scale in a manufacturing setting.
+The degree of technological scale economies at $(x, y) \in T$ is defined as $\tilde{S}(x, y) = - \frac{ \sum x_i (\partial \phi / \partial x_i) }{ \sum y_i (\partial \phi / \partial y_i) }$. Returns to scale are said to be (locally) increasing, constant or decreasing as $\tilde{S}$ is greater than, equal to or less than 1.
 
-Proof: _A__C_(_k_′_y_, _w_) ≤ _k__w_ ⋅ _x_/_k_′_y_ = (_k_/_k_′)_w_ ⋅ _x_/_y_ = (_k_/_k_′)_A__C_(_y_, _w_) < _A__C_(_y_, _w_).
+> ***定义 2. 技术规模经济***
+> 
+> 在 $(x, y) \in T$ 处的技术规模经济程度定义为 $\tilde{S}(x, y) = - \frac{ \sum x_i (\partial \phi / \partial x_i) }{ \sum y_i (\partial \phi / \partial y_i) }$。当 $\tilde{S}$ 大于、等于或小于 1 时，规模报酬分别被称为（局部）递增、不变或递减。
 
-J.C. Panzar
+---
 
-## Definition 2. Technological economies of scale
+For the single output case, this definition reduces to the familiar concept known as the elasticity of scale.[^8] That concept is defined as the elasticity with respect to t of $f(tx)$, evaluated at $t = 1$. That is,
 
-The degree of technological scale economies at (_x_, _y_) ∈ _T_ is defined as _S̃_(_x_, _y_) = −{∑_x__i_(∂_φ_/∂_x__i_)}/{∑_y__i_(∂_φ_/∂_y__i_)} . Returns to scale are said to be (locally) increasing, constant or decreasing as _S̃_ is greater than, equal to or less than 1.
+> 在单一产出的情形下，这一定义就归结为大家熟知的规模弹性的概念。8 该概念定义为 $f(tx)$ 关于 $t$ 的弹性，并在 $t = 1$ 处取值。即，
 
-For the single output case, this definition reduces to the familiar concept known as the elasticity of scale. 8 That concept is defined as the elasticity with respect to t of _f_(_t__x_) , evaluated at t = 1. That is,
+$$e(tx) \equiv t[df(tx)/dt]/f(tx) = t[\sum x_i f_i(tx)]/f(tx),$$
 
-_e_(_t__x_) ≡ _t_[d_f_(_t__x_)/d_t_]/_f_(_t__x_) = _t_[∑_x__i__f__i_(_t__x_)]/_f_(_t__x_),
+where $f_i \equiv \partial f/\partial x_i$. Thus, $e(\mathbf{x}) = \sum x_i f_i(\mathbf{x})/f(\mathbf{x})$. To see that this is exactly equal to $\tilde{S}$, note that in the single output case, $\phi(\mathbf{x}, y) = f(\mathbf{x}) - y$. Thus, $\partial \phi/\partial x_i = \partial f/\partial x_i$ and $\partial \phi/\partial y = -1$. Substituting into Definition 1 yields the result that $\tilde{S} = \sum x_i f_i / y = \sum x_i f_i / f = e(\mathbf{x})$.
 
-where _f__i_ ≡ ∂_f_/∂_x__i_ . Thus, _e_(**x**) = ∑_x__i__f__i_(**x**)/_f_(**x**) . To see that this is exactly equal to _S̃_ , note that in the single output case, _φ_(**x**, _y_) = _f_(**x**) − _y_ . Thus, ∂_φ_/∂_x__i_ = ∂_f_/∂_x__i_ and ∂_φ_/∂_y_ = −1 . Substituting into Definition 1 yields the result that _S̃_ = ∑_x__i__f__i_/_y_ = ∑_x__i__f__i_/_f_ = _e_(**x**) .
+> 其中 $f_i \equiv \partial f/\partial x_i$。因此，$e(\mathbf{x}) = \sum x_i f_i(\mathbf{x})/f(\mathbf{x})$。要看出这恰好等于 $\tilde{S}$，注意到在单一产出情形下，$\phi(\mathbf{x}, y) = f(\mathbf{x}) - y$。于是，$\partial \phi/\partial x_i = \partial f/\partial x_i$，且 $\partial \phi/\partial y = -1$。代入定义1即得结果 $\tilde{S} = \sum x_i f_i / y = \sum x_i f_i / f = e(\mathbf{x})$。
 
 Now consider an alternative measure of economies of scale that is defined in terms of the firm's cost function:
 
-## Definition 3. Cost function economies of scale
+> 现在考虑另一种基于企业成本函数定义的规模经济度量：
 
-The degree of cost function scale economies enjoyed by the firm at any output vector y when facing factor prices w is defined as _S_(_y_, _w_) = _C_(_y_, _w_)/[∑_y__i__C__i_(_y_, _w_)] . Again, returns to scale are said to be (locally) increasing, constant or decreasing as S is greater than, equal to or less than 1.
+---
+
+***Definition 3. Cost function economies of scale***
+
+The degree of cost function scale economies enjoyed by the firm at any output vector $y$ when facing factor prices $w$ is defined as $S(y, w) = C(y, w)/[\sum y_i C_i(y, w)]$. Again, returns to scale are said to be (locally) increasing, constant or decreasing as $S$ is greater than, equal to or less than 1.
+
+> ***定义 3.  成本函数规模经济***
+> 
+> 在面临要素价格 $w$ 时，企业在任意产出向量 $y$ 处享有的成本函数规模经济程度定义为 $S(y, w) = C(y, w)/[\sum y_i C_i(y, w)]$。同样地，当 $S$ 大于、等于或小于 1 时，规模报酬分别被称为（局部）递增、不变或递减。
+
+---
 
 Of course, for the single product case, S reduces to _C_/_y__C_′ = _A__C_/_M__C_ , the ratio of average cost to marginal cost. Since _d__A__C_/_d__y_ = (_M__C_ − _A__C_)/_y_ , this means that the firm enjoys increasing, constant or decreasing returns to scale as the derivative of average cost with respect to output is negative, zero or positive.
 
@@ -144,10 +176,6 @@ Note that it is not quite correct to replace this characterization with one that
 ## Proposition 1
 
 Locally, economies of scale are sufficient but not necessary for the firm's average cost curve to be declining in the single output case.
-
-8
-
-8 See, for example, Varian (1984, ch. 1) and Ferguson (1969).
 
 ## Ch. 1: Determinants of Firm and Industry Structure
 
@@ -229,7 +257,7 @@ J.C. Panzar
 
 Figure 1.2
 
-## 2.2. Product specific economies of scale 10
+### 2.2. Product specific economies of scale 10
 
 Our discussion of multiproduct economies of scale revealed that that important property of the technology pertains to the change in costs resulting from proportional variations in output, i.e. as output moves along a ray through the origin. In terms of Figure 1.2, if one envisions the cost surface plotted in the vertical dimension, then economies of scale are characterized by the behavior of RAC as output varies along a ray such as OS. However, when one refers to a firm “increasing” its scale of operations, one might just as easily have in mind an upward movement along WV as an outward movement along OS. That is, the change in costs resulting from a proportional increase in one product (or a subset of products) holding other output levels constant, also has important implications for firm and industry structure.
 
@@ -305,7 +333,7 @@ or
 
 If the production processes for product sets T and _T̂_ were truly independent, then the total costs of producing all n products would be exactly equal to the sum of the stand-alone costs of the subsets T and _T̂_ [i.e. _C_(_y__T_) and _C_(_y__T̂_) ]. However, if economies of joint production are present, total costs will be less than the sum of the stand-alone costs. Then (7) will be less than 1, and the overall degree of scale economies will exceed the weighted sum of the two product specific measures. The next section discusses these economies of scope in detail.
 
-## 2.3. Economies of scope
+### 2.3. Economies of scope
 
 The multiproduct cost constructs discussed in the previous sections have described the behavior of the cost surface over conveniently chosen cross sections of output space. This section discusses a cost concept that is crucial to our understanding of firm and industry structure, yet cannot be characterized directly in terms of such a “slice” of the cost surface.
 
@@ -491,7 +519,7 @@ The proof is the same as that of Proposition 6, with _c_(⋅) replacing _C_(⋅)
 
 Proposition 7 reveals that a multiproduct cost function may exhibit economies of scope because of complementarities in either “fixed” or “variable” components. Clearly, economies of scope may occur even in cases in which _c__i__j_ > 0 , as long as _F_{⋅} is sufficiently subadditive. For example, the cost function introduced in Section 2 exhibits global economies of scope even though _c_12 = 0 at all output levels. This follows from the fact that _C_(_y_1, _y_2) − _C_(_y_1, 0) − _C_(0, _y_2) = _F_12 − _F_1 − _F_2 < 0 for all _y_ ≠ 0 . Similarly, suppose _C_(_y_1, _y_2) = _F_ + _a_(_y_1 + _y_2)2 for _y_ ≠ 0 . This cost function never exhibits cost complementarities, as _C_12 = 2_a_(_y_1 + _y_2) > 0 . Yet it exhibits economies of scope for all output vectors such that _y_1_y_2 < _F_/2_a_ .¹⁵
 
-## 2.4. Cost subadditivity and natural monopoly
+### 2.4. Cost subadditivity and natural monopoly
 
 There has been a long tradition of government regulation of “monopolies” in the United States, and, recently, a wave of deregulation in industries that were once thought to be characterized by substantial monopoly attributes. Thus, much of the empirical work on firm and industry structure to be discussed below has focused upon trying to determine the extent of “natural monopoly” in various regulated industries. Somewhat surprisingly, until fairly recently there was considerable confusion as to what, precisely, is meant by the term “natural monopoly”. 16 Therefore this subsection will provide a precise definition of this important concept and a discussion of the properties of the cost function that ensure its presence.
 
@@ -1302,3 +1330,19 @@ White, L.J., (1979) 'Economics of scale and the question of "natural monopoly" i
 Winston, C., et al. (1987) Blind intersection? Policy and automobile industry. The Brookings Institution, Washington D.C.
 
 59
+
+[^1]: The material in this section is based upon the discussion in Baumol, Panzar and Willig (1982). Most formal proofs have been included in order to make this discussion of important multiproduct cost concepts as self-contained as possible.
+
+[^2]: See McFadden (1978).
+
+[^3]: This formulation is not completely general, however. In particular, it does not allow for the possibility that the magnitude of the jump discontinuity that result when a new product is introduced may depend upon the quantities of the outputs in the existing product mix as well as the composition of that mix.
+
+[^4]: Here, and wherever it will not lead to confusion, the vector w will be suppressed as an argument of the cost function.
+
+[^5]: See Scherer (1980, ch. 4) for an extended factual and intuitive discussion of the sources of and limits to economies of scale in a manufacturing setting.
+
+[^6]: See, for example, Hirshleifer (1984, p. 329).
+
+[^7]: *Proof* : $AC(k' y, w) \le k w \cdot x / k' y = (k/k') w \cdot x / y = (k/k') AC(y, w) < AC(y, w)$
+
+[^8]: See, for example, Varian (1984, ch. 1) and Ferguson (1969).

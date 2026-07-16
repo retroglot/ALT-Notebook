@@ -6,12 +6,9 @@
 
 The aim of the Handbooks in Economics series is to produce Handbooks for various branches of economics, each of which is a definitive source, reference, and teaching supplement for use by professional researchers and advanced graduate students. Each Handbook provides self-contained surveys of the current state of a branch of economics in the form of chapters prepared by leading specialists on various aspects of this branch of economics. These surveys summarize not only received results but also newer developments, from recent journal articles and discussion papers. Some original material is also included, but the main goal is to provide comprehensive and accessible surveys. The Handbooks are intended to provide not only useful reference volumes for professional collections but also possible supplementary readings for advanced courses for graduate students in economics.
 
-<div style="text-align:right">KENNETH J. ARROW and MICHAEL D. INTRILIGATOR</div>
-
-
 > 《经济学手册》系列丛书旨在为经济学的各个分支编写手册，每本手册都是专业研究人员和高级研究生使用的权威性资料、参考书和教学补充材料。每本手册由该经济学分支各个领域的顶尖专家撰写章节，对该分支的当前研究状况进行独立完整的综述。这些综述不仅总结了已有的研究成果，还涵盖了近期期刊论文和讨论文章中提出的新发展。部分内容也包含原创材料，但主要目标是提供全面且易于理解的综述。这些手册不仅旨在为专业收藏提供有用的参考卷，还希望能为经济学研究生高级课程提供可能的补充阅读材料。
-> 
-> [肯尼思·J·阿罗] 与 [迈克尔·D·因特里洛杰]
+
+<div style="text-align:right">KENNETH J. ARROW and MICHAEL D. INTRILIGATOR</div>
 
 
 # PREFACE TO THE HANDBOOK
@@ -49,7 +46,7 @@ These trends both make the field of industrial organization exciting and enhance
 
 The organization of the *Handbook of Industrial Organization* reflects our perspectives on the principal topics in the field that have recently received intensive research attention or that otherwise are most needful of a new integrative survey. Each of the chapters in the Handbook can be read independently, though they are organized into Parts with some logic, and many pairs are close complements.
 
-> 《产业组织手册》的组织结构反映了我们对这一领域近期受到密集研究关注或最需要新的综述性整合的主要议题的看法。手册中的每一章都可以独立阅读，尽管它们按照一定的逻辑被组织成若干部分，并且许多章节之间是紧密互补的。
+> 《产业组织手册》的组织结构反映了我们对这一领域近期受到密集研究关注或最需要新的综述性整合的主要议题的看法。《手册》中的每一章都可以独立阅读，尽管它们按照一定的逻辑被组织成若干部分，并且许多章节之间是紧密互补的。
 
 Part 1 begins the Handbook with four chapters on the firm. In much of economics, the firm has been viewed as just a black box that maximizes profits subject to an exogenous production or cost function. Because firm behavior is so important in industrial organization, scholars in this field have been productively working to open that box. John Panzar (Chapter 1) focuses on the impact of costs and technology on the organization of production among firms in an industry. He surveys the body of theoretical results on the connections between detailed properties of multiproduct cost functions and details of firm and market structure, and discusses methods of applying these results in empirical analyses of such industries as electric power and telecommunications.
 
@@ -89,44 +86,52 @@ Part 3 contains four surveys of market-oriented empirical studies that bear on t
 
 Part 4 consists of two chapters that take an explicitly global view of industrial organization. Paul Krugman (Chapter 20) describes recent theoretical work on imperfect competition in open economies. His analysis, relating closely to several chapters in Part 2, shows how the theory of international trade can be enriched with foundations drawn from the field of industrial organization, and how the international context raises new issues of theory and application for the field. Richard Caves (Chapter 21) explores the use of international comparisons in empirical research. This chapter, closely related to Chapter 16, shows the value of a broader perspective on industrial organization issues than is provided by the experience of any single nation.
 
+> 第四部分由两章组成，这两章对产业组织采取了明确的全球视角。Paul Krugman（第 20 章）描述了关于开放经济中不完全竞争的最新理论工作。他的分析与第二部分中的若干章节密切相关，展示了国际贸易理论如何能够借助产业组织领域的基础得到丰富，以及国际背景如何为该领域提出新的理论与应用问题。Richard Caves（第 21 章）探讨了国际比较在实证研究中的运用。这一章与第 16 章紧密相关，展示了在产业组织问题上采取比任何单一国家经验所能提供的更广阔视角的价值。
+
 Part 5 provides overviews of theoretical and empirical studies of regulatory policy.[^4] Roger Noll (Chapter 22) contributes a chapter on the economic analysis of the political–economic determination of regulatory policies and other government interventions in the marketplace. The next three chapters consider economic regulation of price, entry, and conditions of sale, regulation which is nominally intended to limit the exercise of monopoly power. Ronald Braeutigam (Chapter 23) reviews and interprets the literature on optimal pricing for natural monopolies (whether regulated or publicly owned). David Baron (Chapter 24) provides an overview of recent formal research on the design of optimal regulatory mechanisms and institutions when information is asymmetric, connecting this literature to the classical treatment of rate-of-return regulation. Paul Joskow and Nancy Rose (Chapter 25) survey and critique the voluminous empirical literature on the effects of economic regulation. Howard Gruenspecht and Lester Lave (Chapter 26) conclude the Handbook of Industrial Organization with an overview of the economic rationales and effects of social regulatory policies directed at health, safety, environmental, and related problems.
 
+> 第 5 部分概述了监管政策的理论与实证研究。[^4] Roger Noll（第 22 章）撰写了一章，对监管政策及其他政府市场干预的政治—经济决定进行经济分析。接下来的三章考虑了价格、进入和销售条件的经济监管，这种监管名义上旨在限制垄断权力的行使。Ronald Braeutigam（第 23 章）评述和解读了关于自然垄断（无论是受监管还是公有）最优定价的文献。David Baron（第 24 章）概述了信息不对称下最优监管机制与制度设计的最新正式研究，并将该文献与回报率监管的经典处理联系起来。Paul Joskow 和 Nancy Rose（第 25 章）调查并批判了大量关于经济监管效果的实证文献。Howard Gruenspecht 和 Lester Lave（第 26 章）以对针对健康、安全、环境及相关问题的社会监管政策的经济理由和效果的概述，结束了《产业组织手册》。
+
 ## Historical overviews
+**历史回顾**
 
 Because most of the individual chapters in the Handbook of Industrial Organization provide historical overviews of the topics they cover, it seems redundant to provide a general overview here. For additional discussions of the historical development of the field of industrial organization, see Scherer (1980), Bresnahan and Schmalensee (1987), Hay and Morris (1979), Schmalensee (1982, 1988), and Roberts (1987).
 
+> 由于《产业组织手册》中的大多数章节都提供了其所涵盖主题的历史回顾，在此提供总体回顾似乎显得多余。如需进一步讨论产业组织领域的历史发展，请参见 Scherer (1980)、Bresnahan and Schmalensee (1987)、Hay and Morris (1979)、Schmalensee (1982, 1988) 以及 Roberts (1987)。
+
 ## Acknowledgements
+**致谢**
 
 Our primary debt is, of course, to the authors of the chapters in the Handbook of Industrial Organization. We appreciate the care, skill, and imagination with which they carried out their assignments, their willingness to take our comments seriously, and their efforts to meet our deadlines. Many also provided us with useful advice and comments. We are also indebted to Louis Philips for his many hours of work on this project; it is our fault and the reader's loss that he is not among the Handbook authors.
 
-RICHARD SCHMALENSEE Massachusetts Institute of Technology
+> 我们主要的感谢，当然，要归于《产业组织手册》各章节的作者们。我们感谢他们在完成各自任务时所展现的细心、技巧与想象力，感谢他们愿意认真对待我们的意见，以及为赶上截止日期所做的努力。许多人还为我们提供了有益的建议和评论。我们还要感谢 Louis Philips 为本项目投入的大量时间；他未能成为该手册的作者之一，是我们的过失，也是读者的损失。
 
-ROBERT D. WILLIG Princeton University
+<div style="text-align:right">RICHARD SCHMALENSEE<br>
+<i>Massachusetts Institute of Technology</i></div>
+
+<div style="text-align:right">ROBERT D. WILLIG<br>
+<i>Princeton University</i></div>
 
 ## References
+**参考文献**
 
-Bresnahan, T.F. and R. Schmalensee (1987) 'The empirical renaissance in industrial economics: An overview', Journal of Industrial Economics, 35:371–378.
+- Bresnahan, T.F. and R. Schmalensee (1987) 'The empirical renaissance in industrial economics: An overview', Journal of Industrial Economics, 35:371–378.
+- Hay, D.A. and D.J. Morris (1979) Industrial economics: Theory and evidence. Oxford: Oxford University Press.
+- de Jong, H.W. (1986) 'European industrial organization: Entrepreneurial economics in an organizational setting', in: H.W. de Jong and W.G. Shepherd, eds., Mainstreams in industrial organization, Book I. Boston: Kluwer.
+- Roberts, D.J. (1987) 'Battles for market share: Incomplete information aggressive strategic pricing, and competitive dynamics', in: T. Bewley, ed., Advances in economic theory, Fifth World Congress. Cambridge: Cambridge University Press.
+- Scherer, F.M. (1980) Industrial market structure and economic performance, 2nd edn. Chicago: Rand McNally.
+- Schmalensee, R. (1982) 'The new industrial organization and the economic analysis of modern markets', in: W. Hildenbrand, ed., Advances in Economic Theory. Cambridge: Cambridge University Press.
+- Schmalensee, R. (1988) 'Industrial economics: An overview', Economic Journal, 98:643–681.
+- Schwert, G. W. (1981) 'Using financial data to measure the effects of regulation', Journal of Law and Economics, 24:121–158.
+- Tirole, J. (1988) The theory of industrial organization. Cambridge: MIT Press.
 
-Hay, D.A. and D.J. Morris (1979) Industrial economics: Theory and evidence. Oxford: Oxford University Press.
+## Notes
+**注**
 
-de Jong, H.W. (1986) 'European industrial organization: Entrepreneurial economics in an organizational setting', in: H.W. de Jong and W.G. Shepherd, eds., Mainstreams in industrial organization, Book I. Boston: Kluwer.
+[^1]: This Handbook attempts to cover only those themes and issues that have been prominent in what de Jong (1986) has called “Anglo-Saxon thinking” in industrial organization. He presents an interesting overview of the rather different continental European tradition. [本手册仅试图涵盖那些在 de Jong (1986) 所称的产业组织中的“盎格鲁-撒克逊思维”中占据突出地位的主题和议题。他对颇为不同的欧洲大陆传统进行了有趣的概述。]
 
-Roberts, D.J. (1987) 'Battles for market share: Incomplete information aggressive strategic pricing, and competitive dynamics', in: T. Bewley, ed., Advances in economic theory, Fifth World Congress. Cambridge: Cambridge University Press.
+[^2]: The reader interested in theoretical work in industrial organization should also consult Tirole (1988). One could argue that this Part might have contained a chapter on the theory of auctions and bargaining, which has advanced rapidly in recent years. [对产业组织理论研究感兴趣的读者还应参阅 Tirole (1988)。有人可能会认为，本部分本该包含一章关于拍卖与讨价还价理论的内容，这一领域近年来发展迅速。]
 
-Scherer, F.M. (1980) Industrial market structure and economic performance, 2nd edn. Chicago: Rand McNally.
+[^3]: We had hoped that Part 3 would contain a chapter on the theoretical and empirical tools from modern finance theory that have proven valuable in industrial organization. For a useful discussion of one important aspect of the relation between these fields, see Schwert (1981). Some other aspects of this relation are discussed by Bengt Holmstrom and Jean Tirole in Chapter 2. [我们原本希望第 3 部分能包含一章内容，介绍在现代金融理论中已被证明对产业组织研究颇有价值的理论与实证工具。关于这两个领域之间关系的一个重要方面，可参见 Schwert (1981) 的富有启发性的讨论。Bengt Holmstrom 和 Jean Tirole 在第 2 章中讨论了这一关系的其他一些方面。]
 
-Schmalensee, R. (1982) 'The new industrial organization and the economic analysis of modern markets', in: W. Hildenbrand, ed., Advances in Economic Theory. Cambridge: Cambridge University Press.
-
-Schmalensee, R. (1988) 'Industrial economics: An overview', Economic Journal, 98:643–681.
-
-Schwert, G. W. (1981) 'Using financial data to measure the effects of regulation', Journal of Law and Economics, 24:121–158.
-
-Tirole, J. (1988) The theory of industrial organization. Cambridge: MIT Press.
-
-[^1]: This Handbook attempts to cover only those themes and issues that have been prominent in what de Jong (1986) has called “Anglo-Saxon thinking” in industrial organization. He presents an interesting overview of the rather different continental European tradition.
-
-[^2]: The reader interested in theoretical work in industrial organization should also consult Tirole (1988). One could argue that this Part might have contained a chapter on the theory of auctions and bargaining, which has advanced rapidly in recent years.
-
-[^3]: We had hoped that Part 3 would contain a chapter on the theoretical and empirical tools from modern finance theory that have proven valuable in industrial organization. For a useful discussion of one important aspect of the relation between these fields, see Schwert (1981). Some other aspects of this relation are discussed by Bengt Holmstrom and Jean Tirole in Chapter 2.
-
-[^4]: We must again note a gap in coverage; we had hoped that this Part would contain an overview and analysis of competition (antitrust) policies and their enforcement.
+[^4]: We must again note a gap in coverage; we had hoped that this Part would contain an overview and analysis of competition (antitrust) policies and their enforcement. [我们必须再次指出内容覆盖上的一个空白；我们原本希望本部分能对竞争（反垄断）政策及其执行情况进行概述和分析。]
